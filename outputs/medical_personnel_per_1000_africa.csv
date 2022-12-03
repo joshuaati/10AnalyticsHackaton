@@ -4,33 +4,11 @@
 2,HWF_0001,"Medical doctors (per 10,000)",DZA,Algeria,2007,11.96,11.96,"Algeria, People's Democratic Republic of",DZA,North Africa
 3,HWF_0001,"Medical doctors (per 10,000)",DZA,Algeria,2005,10.24,10.24,"Algeria, People's Democratic Republic of",DZA,North Africa
 4,HWF_0001,"Medical doctors (per 10,000)",DZA,Algeria,2002,11.1,11.1,"Algeria, People's Democratic Republic of",DZA,North Africa
-5,HWF_0002,Medical doctors (number),DZA,Algeria,2018,72604.0,72 604,"Algeria, People's Democratic Republic of",DZA,North Africa
-6,HWF_0002,Medical doctors (number),DZA,Algeria,2016,74309.0,74 309,"Algeria, People's Democratic Republic of",DZA,North Africa
-7,HWF_0002,Medical doctors (number),DZA,Algeria,2007,40857.0,40 857,"Algeria, People's Democratic Republic of",DZA,North Africa
-8,HWF_0002,Medical doctors (number),DZA,Algeria,2005,33952.0,33 952,"Algeria, People's Democratic Republic of",DZA,North Africa
-9,HWF_0002,Medical doctors (number),DZA,Algeria,2002,35368.0,35 368,"Algeria, People's Democratic Republic of",DZA,North Africa
-10,HWF_0003,Generalist medical practitioners (number),DZA,Algeria,2018,32774.0,32 774,"Algeria, People's Democratic Republic of",DZA,North Africa
-11,HWF_0004,Specialist medical practitioners (number),DZA,Algeria,2018,39830.0,39 830,"Algeria, People's Democratic Republic of",DZA,North Africa
-12,HWF_0005,Medical doctors not further defined (number),DZA,Algeria,2016,74309.0,74 309,"Algeria, People's Democratic Republic of",DZA,North Africa
-13,HWF_0005,Medical doctors not further defined (number),DZA,Algeria,2007,40857.0,40 857,"Algeria, People's Democratic Republic of",DZA,North Africa
-14,HWF_0005,Medical doctors not further defined (number),DZA,Algeria,2005,33952.0,33 952,"Algeria, People's Democratic Republic of",DZA,North Africa
-15,HWF_0005,Medical doctors not further defined (number),DZA,Algeria,2002,35368.0,35 368,"Algeria, People's Democratic Republic of",DZA,North Africa
 16,HWF_0001,"Medical doctors (per 10,000)",AGO,Angola,2018,2.14,2.14,"Angola, Republic of",AGO,Central Africa
 17,HWF_0001,"Medical doctors (per 10,000)",AGO,Angola,2017,2.15,2.15,"Angola, Republic of",AGO,Central Africa
 18,HWF_0001,"Medical doctors (per 10,000)",AGO,Angola,2009,1.31,1.31,"Angola, Republic of",AGO,Central Africa
 19,HWF_0001,"Medical doctors (per 10,000)",AGO,Angola,2004,0.62,0.62,"Angola, Republic of",AGO,Central Africa
 20,HWF_0001,"Medical doctors (per 10,000)",AGO,Angola,1997,0.59,0.59,"Angola, Republic of",AGO,Central Africa
-21,HWF_0002,Medical doctors (number),AGO,Angola,2018,6593.0,6593,"Angola, Republic of",AGO,Central Africa
-22,HWF_0002,Medical doctors (number),AGO,Angola,2017,6400.0,6400,"Angola, Republic of",AGO,Central Africa
-23,HWF_0002,Medical doctors (number),AGO,Angola,2009,2956.0,2956,"Angola, Republic of",AGO,Central Africa
-24,HWF_0002,Medical doctors (number),AGO,Angola,2004,1165.0,1165,"Angola, Republic of",AGO,Central Africa
-25,HWF_0002,Medical doctors (number),AGO,Angola,1997,881.0,881,"Angola, Republic of",AGO,Central Africa
-26,HWF_0003,Generalist medical practitioners (number),AGO,Angola,2018,3043.0,3043,"Angola, Republic of",AGO,Central Africa
-27,HWF_0004,Specialist medical practitioners (number),AGO,Angola,2018,3550.0,3550,"Angola, Republic of",AGO,Central Africa
-28,HWF_0005,Medical doctors not further defined (number),AGO,Angola,2017,6400.0,6400,"Angola, Republic of",AGO,Central Africa
-29,HWF_0005,Medical doctors not further defined (number),AGO,Angola,2009,2956.0,2956,"Angola, Republic of",AGO,Central Africa
-30,HWF_0005,Medical doctors not further defined (number),AGO,Angola,2004,1165.0,1165,"Angola, Republic of",AGO,Central Africa
-31,HWF_0005,Medical doctors not further defined (number),AGO,Angola,1997,881.0,881,"Angola, Republic of",AGO,Central Africa
 32,HWF_0001,"Medical doctors (per 10,000)",BWA,Botswana,2018,3.78,3.78,"Botswana, Republic of",BWA,Southern Africa
 33,HWF_0001,"Medical doctors (per 10,000)",BWA,Botswana,2016,3.84,3.84,"Botswana, Republic of",BWA,Southern Africa
 34,HWF_0001,"Medical doctors (per 10,000)",BWA,Botswana,2012,4.02,4.02,"Botswana, Republic of",BWA,Southern Africa
@@ -48,41 +26,6 @@
 46,HWF_0001,"Medical doctors (per 10,000)",BWA,Botswana,2000,3.04,3.04,"Botswana, Republic of",BWA,Southern Africa
 47,HWF_0001,"Medical doctors (per 10,000)",BWA,Botswana,1999,3.15,3.15,"Botswana, Republic of",BWA,Southern Africa
 48,HWF_0001,"Medical doctors (per 10,000)",BWA,Botswana,1998,2.69,2.69,"Botswana, Republic of",BWA,Southern Africa
-49,HWF_0002,Medical doctors (number),BWA,Botswana,2018,853.0,853,"Botswana, Republic of",BWA,Southern Africa
-50,HWF_0002,Medical doctors (number),BWA,Botswana,2016,830.0,830,"Botswana, Republic of",BWA,Southern Africa
-51,HWF_0002,Medical doctors (number),BWA,Botswana,2012,819.0,819,"Botswana, Republic of",BWA,Southern Africa
-52,HWF_0002,Medical doctors (number),BWA,Botswana,2011,819.0,819,"Botswana, Republic of",BWA,Southern Africa
-53,HWF_0002,Medical doctors (number),BWA,Botswana,2010,819.0,819,"Botswana, Republic of",BWA,Southern Africa
-54,HWF_0002,Medical doctors (number),BWA,Botswana,2009,693.0,693,"Botswana, Republic of",BWA,Southern Africa
-55,HWF_0002,Medical doctors (number),BWA,Botswana,2008,716.0,716,"Botswana, Republic of",BWA,Southern Africa
-56,HWF_0002,Medical doctors (number),BWA,Botswana,2007,709.0,709,"Botswana, Republic of",BWA,Southern Africa
-57,HWF_0002,Medical doctors (number),BWA,Botswana,2006,591.0,591,"Botswana, Republic of",BWA,Southern Africa
-58,HWF_0002,Medical doctors (number),BWA,Botswana,2005,466.0,466,"Botswana, Republic of",BWA,Southern Africa
-59,HWF_0002,Medical doctors (number),BWA,Botswana,2004,715.0,715,"Botswana, Republic of",BWA,Southern Africa
-60,HWF_0002,Medical doctors (number),BWA,Botswana,2003,526.0,526,"Botswana, Republic of",BWA,Southern Africa
-61,HWF_0002,Medical doctors (number),BWA,Botswana,2002,536.0,536,"Botswana, Republic of",BWA,Southern Africa
-62,HWF_0002,Medical doctors (number),BWA,Botswana,2001,510.0,510,"Botswana, Republic of",BWA,Southern Africa
-63,HWF_0002,Medical doctors (number),BWA,Botswana,2000,499.0,499,"Botswana, Republic of",BWA,Southern Africa
-64,HWF_0002,Medical doctors (number),BWA,Botswana,1999,507.0,507,"Botswana, Republic of",BWA,Southern Africa
-65,HWF_0002,Medical doctors (number),BWA,Botswana,1998,424.0,424,"Botswana, Republic of",BWA,Southern Africa
-66,HWF_0003,Generalist medical practitioners (number),BWA,Botswana,2018,815.0,815,"Botswana, Republic of",BWA,Southern Africa
-67,HWF_0004,Specialist medical practitioners (number),BWA,Botswana,2018,38.0,38,"Botswana, Republic of",BWA,Southern Africa
-68,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2016,830.0,830,"Botswana, Republic of",BWA,Southern Africa
-69,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2012,819.0,819,"Botswana, Republic of",BWA,Southern Africa
-70,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2011,819.0,819,"Botswana, Republic of",BWA,Southern Africa
-71,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2010,819.0,819,"Botswana, Republic of",BWA,Southern Africa
-72,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2009,693.0,693,"Botswana, Republic of",BWA,Southern Africa
-73,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2008,716.0,716,"Botswana, Republic of",BWA,Southern Africa
-74,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2007,709.0,709,"Botswana, Republic of",BWA,Southern Africa
-75,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2006,591.0,591,"Botswana, Republic of",BWA,Southern Africa
-76,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2005,466.0,466,"Botswana, Republic of",BWA,Southern Africa
-77,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2004,715.0,715,"Botswana, Republic of",BWA,Southern Africa
-78,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2003,526.0,526,"Botswana, Republic of",BWA,Southern Africa
-79,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2002,536.0,536,"Botswana, Republic of",BWA,Southern Africa
-80,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2001,510.0,510,"Botswana, Republic of",BWA,Southern Africa
-81,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,2000,499.0,499,"Botswana, Republic of",BWA,Southern Africa
-82,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,1999,507.0,507,"Botswana, Republic of",BWA,Southern Africa
-83,HWF_0005,Medical doctors not further defined (number),BWA,Botswana,1998,424.0,424,"Botswana, Republic of",BWA,Southern Africa
 84,HWF_0001,"Medical doctors (per 10,000)",BDI,Burundi,2020,0.72,0.72,"Burundi, Republic of",BDI,East Africa
 85,HWF_0001,"Medical doctors (per 10,000)",BDI,Burundi,2018,0.97,0.97,"Burundi, Republic of",BDI,East Africa
 86,HWF_0001,"Medical doctors (per 10,000)",BDI,Burundi,2017,1.0,1,"Burundi, Republic of",BDI,East Africa
@@ -93,34 +36,6 @@
 91,HWF_0001,"Medical doctors (per 10,000)",BDI,Burundi,2011,0.4,0.4,"Burundi, Republic of",BDI,East Africa
 92,HWF_0001,"Medical doctors (per 10,000)",BDI,Burundi,2010,0.48,0.48,"Burundi, Republic of",BDI,East Africa
 93,HWF_0001,"Medical doctors (per 10,000)",BDI,Burundi,2004,0.28,0.28,"Burundi, Republic of",BDI,East Africa
-94,HWF_0002,Medical doctors (number),BDI,Burundi,2020,852.0,852,"Burundi, Republic of",BDI,East Africa
-95,HWF_0002,Medical doctors (number),BDI,Burundi,2018,1084.0,1084,"Burundi, Republic of",BDI,East Africa
-96,HWF_0002,Medical doctors (number),BDI,Burundi,2017,1084.0,1084,"Burundi, Republic of",BDI,East Africa
-97,HWF_0002,Medical doctors (number),BDI,Burundi,2015,508.0,508,"Burundi, Republic of",BDI,East Africa
-98,HWF_0002,Medical doctors (number),BDI,Burundi,2014,609.0,609,"Burundi, Republic of",BDI,East Africa
-99,HWF_0002,Medical doctors (number),BDI,Burundi,2013,554.0,554,"Burundi, Republic of",BDI,East Africa
-100,HWF_0002,Medical doctors (number),BDI,Burundi,2012,498.0,498,"Burundi, Republic of",BDI,East Africa
-101,HWF_0002,Medical doctors (number),BDI,Burundi,2011,357.0,357,"Burundi, Republic of",BDI,East Africa
-102,HWF_0002,Medical doctors (number),BDI,Burundi,2010,418.0,418,"Burundi, Republic of",BDI,East Africa
-103,HWF_0002,Medical doctors (number),BDI,Burundi,2004,200.0,200,"Burundi, Republic of",BDI,East Africa
-104,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2018,889.0,889,"Burundi, Republic of",BDI,East Africa
-105,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2017,889.0,889,"Burundi, Republic of",BDI,East Africa
-106,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2015,467.0,467,"Burundi, Republic of",BDI,East Africa
-107,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2014,556.0,556,"Burundi, Republic of",BDI,East Africa
-108,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2013,486.0,486,"Burundi, Republic of",BDI,East Africa
-109,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2012,475.0,475,"Burundi, Republic of",BDI,East Africa
-110,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2011,317.0,317,"Burundi, Republic of",BDI,East Africa
-111,HWF_0003,Generalist medical practitioners (number),BDI,Burundi,2010,343.0,343,"Burundi, Republic of",BDI,East Africa
-112,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2018,195.0,195,"Burundi, Republic of",BDI,East Africa
-113,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2017,195.0,195,"Burundi, Republic of",BDI,East Africa
-114,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2015,41.0,41,"Burundi, Republic of",BDI,East Africa
-115,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2014,53.0,53,"Burundi, Republic of",BDI,East Africa
-116,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2013,68.0,68,"Burundi, Republic of",BDI,East Africa
-117,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2012,23.0,23,"Burundi, Republic of",BDI,East Africa
-118,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2011,40.0,40,"Burundi, Republic of",BDI,East Africa
-119,HWF_0004,Specialist medical practitioners (number),BDI,Burundi,2010,75.0,75,"Burundi, Republic of",BDI,East Africa
-120,HWF_0005,Medical doctors not further defined (number),BDI,Burundi,2020,852.0,852,"Burundi, Republic of",BDI,East Africa
-121,HWF_0005,Medical doctors not further defined (number),BDI,Burundi,2004,200.0,200,"Burundi, Republic of",BDI,East Africa
 122,HWF_0001,"Medical doctors (per 10,000)",CMR,Cameroon,2018,1.29,1.29,"Cameroon, Republic of",CMR,Central Africa
 123,HWF_0001,"Medical doctors (per 10,000)",CMR,Cameroon,2011,0.88,0.88,"Cameroon, Republic of",CMR,Central Africa
 124,HWF_0001,"Medical doctors (per 10,000)",CMR,Cameroon,2010,0.84,0.84,"Cameroon, Republic of",CMR,Central Africa
@@ -128,22 +43,6 @@
 126,HWF_0001,"Medical doctors (per 10,000)",CMR,Cameroon,2007,0.7,0.7,"Cameroon, Republic of",CMR,Central Africa
 127,HWF_0001,"Medical doctors (per 10,000)",CMR,Cameroon,2005,0.59,0.59,"Cameroon, Republic of",CMR,Central Africa
 128,HWF_0001,"Medical doctors (per 10,000)",CMR,Cameroon,2004,1.81,1.81,"Cameroon, Republic of",CMR,Central Africa
-129,HWF_0002,Medical doctors (number),CMR,Cameroon,2018,3259.0,3259,"Cameroon, Republic of",CMR,Central Africa
-130,HWF_0002,Medical doctors (number),CMR,Cameroon,2011,1842.0,1842,"Cameroon, Republic of",CMR,Central Africa
-131,HWF_0002,Medical doctors (number),CMR,Cameroon,2010,1712.0,1712,"Cameroon, Republic of",CMR,Central Africa
-132,HWF_0002,Medical doctors (number),CMR,Cameroon,2009,1346.0,1346,"Cameroon, Republic of",CMR,Central Africa
-133,HWF_0002,Medical doctors (number),CMR,Cameroon,2007,1319.0,1319,"Cameroon, Republic of",CMR,Central Africa
-134,HWF_0002,Medical doctors (number),CMR,Cameroon,2005,1049.0,1049,"Cameroon, Republic of",CMR,Central Africa
-135,HWF_0002,Medical doctors (number),CMR,Cameroon,2004,3124.0,3124,"Cameroon, Republic of",CMR,Central Africa
-136,HWF_0003,Generalist medical practitioners (number),CMR,Cameroon,2018,2400.0,2400,"Cameroon, Republic of",CMR,Central Africa
-137,HWF_0003,Generalist medical practitioners (number),CMR,Cameroon,2011,1420.0,1420,"Cameroon, Republic of",CMR,Central Africa
-138,HWF_0004,Specialist medical practitioners (number),CMR,Cameroon,2018,859.0,859,"Cameroon, Republic of",CMR,Central Africa
-139,HWF_0004,Specialist medical practitioners (number),CMR,Cameroon,2011,422.0,422,"Cameroon, Republic of",CMR,Central Africa
-140,HWF_0005,Medical doctors not further defined (number),CMR,Cameroon,2010,1712.0,1712,"Cameroon, Republic of",CMR,Central Africa
-141,HWF_0005,Medical doctors not further defined (number),CMR,Cameroon,2009,1346.0,1346,"Cameroon, Republic of",CMR,Central Africa
-142,HWF_0005,Medical doctors not further defined (number),CMR,Cameroon,2007,1319.0,1319,"Cameroon, Republic of",CMR,Central Africa
-143,HWF_0005,Medical doctors not further defined (number),CMR,Cameroon,2005,1049.0,1049,"Cameroon, Republic of",CMR,Central Africa
-144,HWF_0005,Medical doctors not further defined (number),CMR,Cameroon,2004,3124.0,3124,"Cameroon, Republic of",CMR,Central Africa
 145,HWF_0001,"Medical doctors (per 10,000)",CPV,Cabo Verde,2018,8.31,8.31,"Cape Verde, Republic of",CPV,West Africa
 146,HWF_0001,"Medical doctors (per 10,000)",CPV,Cabo Verde,2016,7.68,7.68,"Cape Verde, Republic of",CPV,West Africa
 147,HWF_0001,"Medical doctors (per 10,000)",CPV,Cabo Verde,2015,7.81,7.81,"Cape Verde, Republic of",CPV,West Africa
@@ -152,40 +51,11 @@
 150,HWF_0001,"Medical doctors (per 10,000)",CPV,Cabo Verde,2011,5.85,5.85,"Cape Verde, Republic of",CPV,West Africa
 151,HWF_0001,"Medical doctors (per 10,000)",CPV,Cabo Verde,2010,5.93,5.93,"Cape Verde, Republic of",CPV,West Africa
 152,HWF_0001,"Medical doctors (per 10,000)",CPV,Cabo Verde,2009,5.16,5.16,"Cape Verde, Republic of",CPV,West Africa
-153,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2018,452.0,452,"Cape Verde, Republic of",CPV,West Africa
-154,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2016,408.0,408,"Cape Verde, Republic of",CPV,West Africa
-155,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2015,410.0,410,"Cape Verde, Republic of",CPV,West Africa
-156,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2013,308.0,308,"Cape Verde, Republic of",CPV,West Africa
-157,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2012,260.0,260,"Cape Verde, Republic of",CPV,West Africa
-158,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2011,292.0,292,"Cape Verde, Republic of",CPV,West Africa
-159,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2010,292.0,292,"Cape Verde, Republic of",CPV,West Africa
-160,HWF_0002,Medical doctors (number),CPV,Cabo Verde,2009,251.0,251,"Cape Verde, Republic of",CPV,West Africa
-161,HWF_0003,Generalist medical practitioners (number),CPV,Cabo Verde,2018,165.0,165,"Cape Verde, Republic of",CPV,West Africa
-162,HWF_0004,Specialist medical practitioners (number),CPV,Cabo Verde,2018,287.0,287,"Cape Verde, Republic of",CPV,West Africa
-163,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2016,408.0,408,"Cape Verde, Republic of",CPV,West Africa
-164,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2015,410.0,410,"Cape Verde, Republic of",CPV,West Africa
-165,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2013,308.0,308,"Cape Verde, Republic of",CPV,West Africa
-166,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2012,260.0,260,"Cape Verde, Republic of",CPV,West Africa
-167,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2011,292.0,292,"Cape Verde, Republic of",CPV,West Africa
-168,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2010,292.0,292,"Cape Verde, Republic of",CPV,West Africa
-169,HWF_0005,Medical doctors not further defined (number),CPV,Cabo Verde,2009,251.0,251,"Cape Verde, Republic of",CPV,West Africa
 170,HWF_0001,"Medical doctors (per 10,000)",CAF,Central African Republic,2018,0.72,0.72,Central African Republic,CAF,Central Africa
 171,HWF_0001,"Medical doctors (per 10,000)",CAF,Central African Republic,2015,0.72,0.72,Central African Republic,CAF,Central Africa
 172,HWF_0001,"Medical doctors (per 10,000)",CAF,Central African Republic,2009,0.47,0.47,Central African Republic,CAF,Central Africa
 173,HWF_0001,"Medical doctors (per 10,000)",CAF,Central African Republic,2008,0.41,0.41,Central African Republic,CAF,Central Africa
 174,HWF_0001,"Medical doctors (per 10,000)",CAF,Central African Republic,2004,0.84,0.84,Central African Republic,CAF,Central Africa
-175,HWF_0002,Medical doctors (number),CAF,Central African Republic,2018,335.0,335,Central African Republic,CAF,Central Africa
-176,HWF_0002,Medical doctors (number),CAF,Central African Republic,2015,324.0,324,Central African Republic,CAF,Central Africa
-177,HWF_0002,Medical doctors (number),CAF,Central African Republic,2009,205.0,205,Central African Republic,CAF,Central Africa
-178,HWF_0002,Medical doctors (number),CAF,Central African Republic,2008,173.0,173,Central African Republic,CAF,Central Africa
-179,HWF_0002,Medical doctors (number),CAF,Central African Republic,2004,331.0,331,Central African Republic,CAF,Central Africa
-180,HWF_0003,Generalist medical practitioners (number),CAF,Central African Republic,2018,263.0,263,Central African Republic,CAF,Central Africa
-181,HWF_0004,Specialist medical practitioners (number),CAF,Central African Republic,2018,72.0,72,Central African Republic,CAF,Central Africa
-182,HWF_0004,Specialist medical practitioners (number),CAF,Central African Republic,2015,38.0,38,Central African Republic,CAF,Central Africa
-183,HWF_0005,Medical doctors not further defined (number),CAF,Central African Republic,2015,286.0,286,Central African Republic,CAF,Central Africa
-184,HWF_0005,Medical doctors not further defined (number),CAF,Central African Republic,2009,205.0,205,Central African Republic,CAF,Central Africa
-185,HWF_0005,Medical doctors not further defined (number),CAF,Central African Republic,2008,173.0,173,Central African Republic,CAF,Central Africa
-186,HWF_0005,Medical doctors not further defined (number),CAF,Central African Republic,2004,331.0,331,Central African Republic,CAF,Central Africa
 187,HWF_0001,"Medical doctors (per 10,000)",TCD,Chad,2020,0.61,0.61,"Chad, Republic of",TCD,Central Africa
 188,HWF_0001,"Medical doctors (per 10,000)",TCD,Chad,2019,0.54,0.54,"Chad, Republic of",TCD,Central Africa
 189,HWF_0001,"Medical doctors (per 10,000)",TCD,Chad,2018,0.52,0.52,"Chad, Republic of",TCD,Central Africa
@@ -201,57 +71,11 @@
 199,HWF_0001,"Medical doctors (per 10,000)",TCD,Chad,1999,0.29,0.29,"Chad, Republic of",TCD,Central Africa
 200,HWF_0001,"Medical doctors (per 10,000)",TCD,Chad,1998,0.2,0.2,"Chad, Republic of",TCD,Central Africa
 201,HWF_0001,"Medical doctors (per 10,000)",TCD,Chad,1997,0.26,0.26,"Chad, Republic of",TCD,Central Africa
-202,HWF_0002,Medical doctors (number),TCD,Chad,2020,1003.0,1003,"Chad, Republic of",TCD,Central Africa
-203,HWF_0002,Medical doctors (number),TCD,Chad,2019,859.0,859,"Chad, Republic of",TCD,Central Africa
-204,HWF_0002,Medical doctors (number),TCD,Chad,2018,803.0,803,"Chad, Republic of",TCD,Central Africa
-205,HWF_0002,Medical doctors (number),TCD,Chad,2017,651.0,651,"Chad, Republic of",TCD,Central Africa
-206,HWF_0002,Medical doctors (number),TCD,Chad,2016,540.0,540,"Chad, Republic of",TCD,Central Africa
-207,HWF_0002,Medical doctors (number),TCD,Chad,2015,696.0,696,"Chad, Republic of",TCD,Central Africa
-208,HWF_0002,Medical doctors (number),TCD,Chad,2014,608.0,608,"Chad, Republic of",TCD,Central Africa
-209,HWF_0002,Medical doctors (number),TCD,Chad,2013,573.0,573,"Chad, Republic of",TCD,Central Africa
-210,HWF_0002,Medical doctors (number),TCD,Chad,2012,528.0,528,"Chad, Republic of",TCD,Central Africa
-211,HWF_0002,Medical doctors (number),TCD,Chad,2006,368.0,368,"Chad, Republic of",TCD,Central Africa
-212,HWF_0002,Medical doctors (number),TCD,Chad,2004,345.0,345,"Chad, Republic of",TCD,Central Africa
-213,HWF_0002,Medical doctors (number),TCD,Chad,2000,235.0,235,"Chad, Republic of",TCD,Central Africa
-214,HWF_0002,Medical doctors (number),TCD,Chad,1999,232.0,232,"Chad, Republic of",TCD,Central Africa
-215,HWF_0002,Medical doctors (number),TCD,Chad,1998,156.0,156,"Chad, Republic of",TCD,Central Africa
-216,HWF_0002,Medical doctors (number),TCD,Chad,1997,195.0,195,"Chad, Republic of",TCD,Central Africa
-217,HWF_0003,Generalist medical practitioners (number),TCD,Chad,2020,784.0,784,"Chad, Republic of",TCD,Central Africa
-218,HWF_0003,Generalist medical practitioners (number),TCD,Chad,2019,642.0,642,"Chad, Republic of",TCD,Central Africa
-219,HWF_0003,Generalist medical practitioners (number),TCD,Chad,2018,646.0,646,"Chad, Republic of",TCD,Central Africa
-220,HWF_0004,Specialist medical practitioners (number),TCD,Chad,2020,219.0,219,"Chad, Republic of",TCD,Central Africa
-221,HWF_0004,Specialist medical practitioners (number),TCD,Chad,2019,202.0,202,"Chad, Republic of",TCD,Central Africa
-222,HWF_0004,Specialist medical practitioners (number),TCD,Chad,2018,157.0,157,"Chad, Republic of",TCD,Central Africa
-223,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2019,15.0,15,"Chad, Republic of",TCD,Central Africa
-224,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2017,651.0,651,"Chad, Republic of",TCD,Central Africa
-225,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2016,540.0,540,"Chad, Republic of",TCD,Central Africa
-226,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2015,696.0,696,"Chad, Republic of",TCD,Central Africa
-227,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2014,608.0,608,"Chad, Republic of",TCD,Central Africa
-228,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2013,573.0,573,"Chad, Republic of",TCD,Central Africa
-229,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2012,528.0,528,"Chad, Republic of",TCD,Central Africa
-230,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2006,368.0,368,"Chad, Republic of",TCD,Central Africa
-231,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2004,345.0,345,"Chad, Republic of",TCD,Central Africa
-232,HWF_0005,Medical doctors not further defined (number),TCD,Chad,2000,235.0,235,"Chad, Republic of",TCD,Central Africa
-233,HWF_0005,Medical doctors not further defined (number),TCD,Chad,1999,232.0,232,"Chad, Republic of",TCD,Central Africa
-234,HWF_0005,Medical doctors not further defined (number),TCD,Chad,1998,156.0,156,"Chad, Republic of",TCD,Central Africa
-235,HWF_0005,Medical doctors not further defined (number),TCD,Chad,1997,195.0,195,"Chad, Republic of",TCD,Central Africa
 236,HWF_0001,"Medical doctors (per 10,000)",COM,Comoros,2018,2.64,2.64,"Comoros, Union of the",COM,East Africa
 237,HWF_0001,"Medical doctors (per 10,000)",COM,Comoros,2012,1.7,1.7,"Comoros, Union of the",COM,East Africa
 238,HWF_0001,"Medical doctors (per 10,000)",COM,Comoros,2009,1.9,1.9,"Comoros, Union of the",COM,East Africa
 239,HWF_0001,"Medical doctors (per 10,000)",COM,Comoros,2005,1.9,1.9,"Comoros, Union of the",COM,East Africa
 240,HWF_0001,"Medical doctors (per 10,000)",COM,Comoros,2004,1.93,1.93,"Comoros, Union of the",COM,East Africa
-241,HWF_0002,Medical doctors (number),COM,Comoros,2018,220.0,220,"Comoros, Union of the",COM,East Africa
-242,HWF_0002,Medical doctors (number),COM,Comoros,2012,123.0,123,"Comoros, Union of the",COM,East Africa
-243,HWF_0002,Medical doctors (number),COM,Comoros,2009,128.0,128,"Comoros, Union of the",COM,East Africa
-244,HWF_0002,Medical doctors (number),COM,Comoros,2005,116.0,116,"Comoros, Union of the",COM,East Africa
-245,HWF_0002,Medical doctors (number),COM,Comoros,2004,115.0,115,"Comoros, Union of the",COM,East Africa
-246,HWF_0003,Generalist medical practitioners (number),COM,Comoros,2018,130.0,130,"Comoros, Union of the",COM,East Africa
-247,HWF_0003,Generalist medical practitioners (number),COM,Comoros,2009,80.0,80,"Comoros, Union of the",COM,East Africa
-248,HWF_0004,Specialist medical practitioners (number),COM,Comoros,2018,90.0,90,"Comoros, Union of the",COM,East Africa
-249,HWF_0004,Specialist medical practitioners (number),COM,Comoros,2009,48.0,48,"Comoros, Union of the",COM,East Africa
-250,HWF_0005,Medical doctors not further defined (number),COM,Comoros,2012,123.0,123,"Comoros, Union of the",COM,East Africa
-251,HWF_0005,Medical doctors not further defined (number),COM,Comoros,2005,116.0,116,"Comoros, Union of the",COM,East Africa
-252,HWF_0005,Medical doctors not further defined (number),COM,Comoros,2004,115.0,115,"Comoros, Union of the",COM,East Africa
 254,HWF_0001,"Medical doctors (per 10,000)",COG,Congo,2018,1.04,1.04,"Congo, Republic of the",COG,Central Africa
 255,HWF_0001,"Medical doctors (per 10,000)",COG,Congo,2016,1.06,1.06,"Congo, Republic of the",COG,Central Africa
 256,HWF_0001,"Medical doctors (per 10,000)",COG,Congo,2011,1.65,1.65,"Congo, Republic of the",COG,Central Africa
@@ -260,35 +84,9 @@
 259,HWF_0001,"Medical doctors (per 10,000)",COG,Congo,2006,2.09,2.09,"Congo, Republic of the",COG,Central Africa
 260,HWF_0001,"Medical doctors (per 10,000)",COG,Congo,2004,2.15,2.15,"Congo, Republic of the",COG,Central Africa
 261,HWF_0001,"Medical doctors (per 10,000)",COG,Congo,1998,7.3,7.3,"Congo, Republic of the",COG,Central Africa
-262,HWF_0002,Medical doctors (number),COG,Congo,2018,544.0,544,"Congo, Republic of the",COG,Central Africa
-263,HWF_0002,Medical doctors (number),COG,Congo,2016,530.0,530,"Congo, Republic of the",COG,Central Africa
-264,HWF_0002,Medical doctors (number),COG,Congo,2011,723.0,723,"Congo, Republic of the",COG,Central Africa
-265,HWF_0002,Medical doctors (number),COG,Congo,2010,494.0,494,"Congo, Republic of the",COG,Central Africa
-266,HWF_0002,Medical doctors (number),COG,Congo,2007,401.0,401,"Congo, Republic of the",COG,Central Africa
-267,HWF_0002,Medical doctors (number),COG,Congo,2006,782.0,782,"Congo, Republic of the",COG,Central Africa
-268,HWF_0002,Medical doctors (number),COG,Congo,2004,756.0,756,"Congo, Republic of the",COG,Central Africa
-269,HWF_0002,Medical doctors (number),COG,Congo,1998,2155.0,2155,"Congo, Republic of the",COG,Central Africa
-270,HWF_0003,Generalist medical practitioners (number),COG,Congo,2018,269.0,269,"Congo, Republic of the",COG,Central Africa
-271,HWF_0003,Generalist medical practitioners (number),COG,Congo,2016,269.0,269,"Congo, Republic of the",COG,Central Africa
-272,HWF_0004,Specialist medical practitioners (number),COG,Congo,2018,275.0,275,"Congo, Republic of the",COG,Central Africa
-273,HWF_0004,Specialist medical practitioners (number),COG,Congo,2016,261.0,261,"Congo, Republic of the",COG,Central Africa
-274,HWF_0004,Specialist medical practitioners (number),COG,Congo,2011,200.0,200,"Congo, Republic of the",COG,Central Africa
-275,HWF_0005,Medical doctors not further defined (number),COG,Congo,2011,523.0,523,"Congo, Republic of the",COG,Central Africa
-276,HWF_0005,Medical doctors not further defined (number),COG,Congo,2010,494.0,494,"Congo, Republic of the",COG,Central Africa
-277,HWF_0005,Medical doctors not further defined (number),COG,Congo,2007,401.0,401,"Congo, Republic of the",COG,Central Africa
-278,HWF_0005,Medical doctors not further defined (number),COG,Congo,2006,782.0,782,"Congo, Republic of the",COG,Central Africa
-279,HWF_0005,Medical doctors not further defined (number),COG,Congo,2004,756.0,756,"Congo, Republic of the",COG,Central Africa
-280,HWF_0005,Medical doctors not further defined (number),COG,Congo,1998,2155.0,2155,"Congo, Republic of the",COG,Central Africa
 281,HWF_0001,"Medical doctors (per 10,000)",COD,Democratic Republic of the Congo,2018,3.75,3.75,"Congo, Democratic Republic of the",COD,Central Africa
 282,HWF_0001,"Medical doctors (per 10,000)",COD,Democratic Republic of the Congo,2013,0.9,0.9,"Congo, Democratic Republic of the",COD,Central Africa
 283,HWF_0001,"Medical doctors (per 10,000)",COD,Democratic Republic of the Congo,2009,0.93,0.93,"Congo, Democratic Republic of the",COD,Central Africa
-284,HWF_0002,Medical doctors (number),COD,Democratic Republic of the Congo,2018,31546.0,31 546,"Congo, Democratic Republic of the",COD,Central Africa
-285,HWF_0002,Medical doctors (number),COD,Democratic Republic of the Congo,2013,6418.0,6418,"Congo, Democratic Republic of the",COD,Central Africa
-286,HWF_0002,Medical doctors (number),COD,Democratic Republic of the Congo,2009,5832.0,5832,"Congo, Democratic Republic of the",COD,Central Africa
-287,HWF_0003,Generalist medical practitioners (number),COD,Democratic Republic of the Congo,2018,30768.0,30 768,"Congo, Democratic Republic of the",COD,Central Africa
-288,HWF_0004,Specialist medical practitioners (number),COD,Democratic Republic of the Congo,2018,778.0,778,"Congo, Democratic Republic of the",COD,Central Africa
-289,HWF_0005,Medical doctors not further defined (number),COD,Democratic Republic of the Congo,2013,6418.0,6418,"Congo, Democratic Republic of the",COD,Central Africa
-290,HWF_0005,Medical doctors not further defined (number),COD,Democratic Republic of the Congo,2009,5832.0,5832,"Congo, Democratic Republic of the",COD,Central Africa
 291,HWF_0001,"Medical doctors (per 10,000)",BEN,Benin,2019,0.65,0.65,"Benin, Republic of",BEN,West Africa
 292,HWF_0001,"Medical doctors (per 10,000)",BEN,Benin,2018,0.79,0.79,"Benin, Republic of",BEN,West Africa
 293,HWF_0001,"Medical doctors (per 10,000)",BEN,Benin,2016,0.48,0.48,"Benin, Republic of",BEN,West Africa
@@ -296,30 +94,8 @@
 295,HWF_0001,"Medical doctors (per 10,000)",BEN,Benin,2010,0.56,0.56,"Benin, Republic of",BEN,West Africa
 296,HWF_0001,"Medical doctors (per 10,000)",BEN,Benin,2008,0.62,0.62,"Benin, Republic of",BEN,West Africa
 297,HWF_0001,"Medical doctors (per 10,000)",BEN,Benin,2004,0.4,0.4,"Benin, Republic of",BEN,West Africa
-298,HWF_0002,Medical doctors (number),BEN,Benin,2019,763.0,763,"Benin, Republic of",BEN,West Africa
-299,HWF_0002,Medical doctors (number),BEN,Benin,2018,908.0,908,"Benin, Republic of",BEN,West Africa
-300,HWF_0002,Medical doctors (number),BEN,Benin,2016,523.0,523,"Benin, Republic of",BEN,West Africa
-301,HWF_0002,Medical doctors (number),BEN,Benin,2011,546.0,546,"Benin, Republic of",BEN,West Africa
-302,HWF_0002,Medical doctors (number),BEN,Benin,2010,513.0,513,"Benin, Republic of",BEN,West Africa
-303,HWF_0002,Medical doctors (number),BEN,Benin,2008,542.0,542,"Benin, Republic of",BEN,West Africa
-304,HWF_0002,Medical doctors (number),BEN,Benin,2004,311.0,311,"Benin, Republic of",BEN,West Africa
-305,HWF_0003,Generalist medical practitioners (number),BEN,Benin,2019,202.0,202,"Benin, Republic of",BEN,West Africa
-306,HWF_0003,Generalist medical practitioners (number),BEN,Benin,2018,346.0,346,"Benin, Republic of",BEN,West Africa
-307,HWF_0003,Generalist medical practitioners (number),BEN,Benin,2011,157.0,157,"Benin, Republic of",BEN,West Africa
-308,HWF_0003,Generalist medical practitioners (number),BEN,Benin,2010,160.0,160,"Benin, Republic of",BEN,West Africa
-309,HWF_0004,Specialist medical practitioners (number),BEN,Benin,2018,562.0,562,"Benin, Republic of",BEN,West Africa
-310,HWF_0004,Specialist medical practitioners (number),BEN,Benin,2011,389.0,389,"Benin, Republic of",BEN,West Africa
-311,HWF_0004,Specialist medical practitioners (number),BEN,Benin,2010,353.0,353,"Benin, Republic of",BEN,West Africa
-312,HWF_0005,Medical doctors not further defined (number),BEN,Benin,2019,561.0,561,"Benin, Republic of",BEN,West Africa
-313,HWF_0005,Medical doctors not further defined (number),BEN,Benin,2016,523.0,523,"Benin, Republic of",BEN,West Africa
-314,HWF_0005,Medical doctors not further defined (number),BEN,Benin,2008,542.0,542,"Benin, Republic of",BEN,West Africa
-315,HWF_0005,Medical doctors not further defined (number),BEN,Benin,2004,311.0,311,"Benin, Republic of",BEN,West Africa
 316,HWF_0001,"Medical doctors (per 10,000)",GNQ,Equatorial Guinea,2017,4.02,4.02,"Equatorial Guinea, Republic of",GNQ,Central Africa
 317,HWF_0001,"Medical doctors (per 10,000)",GNQ,Equatorial Guinea,2004,2.13,2.13,"Equatorial Guinea, Republic of",GNQ,Central Africa
-318,HWF_0002,Medical doctors (number),GNQ,Equatorial Guinea,2017,507.0,507,"Equatorial Guinea, Republic of",GNQ,Central Africa
-319,HWF_0002,Medical doctors (number),GNQ,Equatorial Guinea,2004,153.0,153,"Equatorial Guinea, Republic of",GNQ,Central Africa
-320,HWF_0005,Medical doctors not further defined (number),GNQ,Equatorial Guinea,2017,507.0,507,"Equatorial Guinea, Republic of",GNQ,Central Africa
-321,HWF_0005,Medical doctors not further defined (number),GNQ,Equatorial Guinea,2004,153.0,153,"Equatorial Guinea, Republic of",GNQ,Central Africa
 322,HWF_0001,"Medical doctors (per 10,000)",ETH,Ethiopia,2020,1.06,1.06,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
 323,HWF_0001,"Medical doctors (per 10,000)",ETH,Ethiopia,2018,0.77,0.77,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
 324,HWF_0001,"Medical doctors (per 10,000)",ETH,Ethiopia,2009,0.25,0.25,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
@@ -329,26 +105,6 @@
 328,HWF_0001,"Medical doctors (per 10,000)",ETH,Ethiopia,2005,0.32,0.32,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
 329,HWF_0001,"Medical doctors (per 10,000)",ETH,Ethiopia,2004,0.27,0.27,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
 330,HWF_0001,"Medical doctors (per 10,000)",ETH,Ethiopia,2003,0.27,0.27,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-331,HWF_0002,Medical doctors (number),ETH,Ethiopia,2020,12174.0,12 174,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-332,HWF_0002,Medical doctors (number),ETH,Ethiopia,2018,8395.0,8395,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-333,HWF_0002,Medical doctors (number),ETH,Ethiopia,2009,2152.0,2152,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-334,HWF_0002,Medical doctors (number),ETH,Ethiopia,2008,2085.0,2085,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-335,HWF_0002,Medical doctors (number),ETH,Ethiopia,2007,1806.0,1806,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-336,HWF_0002,Medical doctors (number),ETH,Ethiopia,2006,2115.0,2115,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-337,HWF_0002,Medical doctors (number),ETH,Ethiopia,2005,2453.0,2453,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-338,HWF_0002,Medical doctors (number),ETH,Ethiopia,2004,1996.0,1996,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-339,HWF_0002,Medical doctors (number),ETH,Ethiopia,2003,1936.0,1936,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-340,HWF_0003,Generalist medical practitioners (number),ETH,Ethiopia,2020,9361.0,9361,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-341,HWF_0003,Generalist medical practitioners (number),ETH,Ethiopia,2018,5867.0,5867,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-342,HWF_0004,Specialist medical practitioners (number),ETH,Ethiopia,2020,2813.0,2813,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-343,HWF_0004,Specialist medical practitioners (number),ETH,Ethiopia,2018,2528.0,2528,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-344,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2009,2152.0,2152,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-345,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2008,2085.0,2085,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-346,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2007,1806.0,1806,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-347,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2006,2115.0,2115,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-348,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2005,2453.0,2453,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-349,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2004,1996.0,1996,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
-350,HWF_0005,Medical doctors not further defined (number),ETH,Ethiopia,2003,1936.0,1936,"Ethiopia, Federal Democratic Republic of",ETH,East Africa
 351,HWF_0001,"Medical doctors (per 10,000)",ERI,Eritrea,2020,0.82,0.82,"Eritrea, State of",ERI,East Africa
 352,HWF_0001,"Medical doctors (per 10,000)",ERI,Eritrea,2019,0.71,0.71,"Eritrea, State of",ERI,East Africa
 353,HWF_0001,"Medical doctors (per 10,000)",ERI,Eritrea,2018,0.81,0.81,"Eritrea, State of",ERI,East Africa
@@ -370,64 +126,11 @@
 369,HWF_0001,"Medical doctors (per 10,000)",ERI,Eritrea,2002,0.53,0.53,"Eritrea, State of",ERI,East Africa
 370,HWF_0001,"Medical doctors (per 10,000)",ERI,Eritrea,2001,0.4,0.4,"Eritrea, State of",ERI,East Africa
 371,HWF_0001,"Medical doctors (per 10,000)",ERI,Eritrea,2000,0.44,0.44,"Eritrea, State of",ERI,East Africa
-372,HWF_0002,Medical doctors (number),ERI,Eritrea,2020,291.0,291,"Eritrea, State of",ERI,East Africa
-373,HWF_0002,Medical doctors (number),ERI,Eritrea,2019,248.0,248,"Eritrea, State of",ERI,East Africa
-374,HWF_0002,Medical doctors (number),ERI,Eritrea,2018,280.0,280,"Eritrea, State of",ERI,East Africa
-375,HWF_0002,Medical doctors (number),ERI,Eritrea,2017,224.0,224,"Eritrea, State of",ERI,East Africa
-376,HWF_0002,Medical doctors (number),ERI,Eritrea,2016,226.0,226,"Eritrea, State of",ERI,East Africa
-377,HWF_0002,Medical doctors (number),ERI,Eritrea,2015,212.0,212,"Eritrea, State of",ERI,East Africa
-378,HWF_0002,Medical doctors (number),ERI,Eritrea,2014,204.0,204,"Eritrea, State of",ERI,East Africa
-379,HWF_0002,Medical doctors (number),ERI,Eritrea,2013,172.0,172,"Eritrea, State of",ERI,East Africa
-380,HWF_0002,Medical doctors (number),ERI,Eritrea,2012,153.0,153,"Eritrea, State of",ERI,East Africa
-381,HWF_0002,Medical doctors (number),ERI,Eritrea,2011,136.0,136,"Eritrea, State of",ERI,East Africa
-382,HWF_0002,Medical doctors (number),ERI,Eritrea,2010,129.0,129,"Eritrea, State of",ERI,East Africa
-383,HWF_0002,Medical doctors (number),ERI,Eritrea,2009,128.0,128,"Eritrea, State of",ERI,East Africa
-384,HWF_0002,Medical doctors (number),ERI,Eritrea,2008,126.0,126,"Eritrea, State of",ERI,East Africa
-385,HWF_0002,Medical doctors (number),ERI,Eritrea,2007,124.0,124,"Eritrea, State of",ERI,East Africa
-386,HWF_0002,Medical doctors (number),ERI,Eritrea,2006,135.0,135,"Eritrea, State of",ERI,East Africa
-387,HWF_0002,Medical doctors (number),ERI,Eritrea,2005,122.0,122,"Eritrea, State of",ERI,East Africa
-388,HWF_0002,Medical doctors (number),ERI,Eritrea,2004,142.0,142,"Eritrea, State of",ERI,East Africa
-389,HWF_0002,Medical doctors (number),ERI,Eritrea,2003,104.0,104,"Eritrea, State of",ERI,East Africa
-390,HWF_0002,Medical doctors (number),ERI,Eritrea,2002,132.0,132,"Eritrea, State of",ERI,East Africa
-391,HWF_0002,Medical doctors (number),ERI,Eritrea,2001,95.0,95,"Eritrea, State of",ERI,East Africa
-392,HWF_0002,Medical doctors (number),ERI,Eritrea,2000,100.0,100,"Eritrea, State of",ERI,East Africa
-393,HWF_0003,Generalist medical practitioners (number),ERI,Eritrea,2018,160.0,160,"Eritrea, State of",ERI,East Africa
-394,HWF_0004,Specialist medical practitioners (number),ERI,Eritrea,2018,120.0,120,"Eritrea, State of",ERI,East Africa
-395,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2020,291.0,291,"Eritrea, State of",ERI,East Africa
-396,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2019,248.0,248,"Eritrea, State of",ERI,East Africa
-397,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2017,224.0,224,"Eritrea, State of",ERI,East Africa
-398,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2016,226.0,226,"Eritrea, State of",ERI,East Africa
-399,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2015,212.0,212,"Eritrea, State of",ERI,East Africa
-400,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2014,204.0,204,"Eritrea, State of",ERI,East Africa
-401,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2013,172.0,172,"Eritrea, State of",ERI,East Africa
-402,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2012,153.0,153,"Eritrea, State of",ERI,East Africa
-403,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2011,136.0,136,"Eritrea, State of",ERI,East Africa
-404,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2010,129.0,129,"Eritrea, State of",ERI,East Africa
-405,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2009,128.0,128,"Eritrea, State of",ERI,East Africa
-406,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2008,126.0,126,"Eritrea, State of",ERI,East Africa
-407,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2007,124.0,124,"Eritrea, State of",ERI,East Africa
-408,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2006,135.0,135,"Eritrea, State of",ERI,East Africa
-409,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2005,122.0,122,"Eritrea, State of",ERI,East Africa
-410,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2004,142.0,142,"Eritrea, State of",ERI,East Africa
-411,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2003,104.0,104,"Eritrea, State of",ERI,East Africa
-412,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2002,132.0,132,"Eritrea, State of",ERI,East Africa
-413,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2001,95.0,95,"Eritrea, State of",ERI,East Africa
-414,HWF_0005,Medical doctors not further defined (number),ERI,Eritrea,2000,100.0,100,"Eritrea, State of",ERI,East Africa
 415,HWF_0001,"Medical doctors (per 10,000)",DJI,Djibouti,2014,2.24,2.24,"Djibouti, Republic of",DJI,East Africa
 416,HWF_0001,"Medical doctors (per 10,000)",DJI,Djibouti,2006,2.33,2.33,"Djibouti, Republic of",DJI,East Africa
 417,HWF_0001,"Medical doctors (per 10,000)",DJI,Djibouti,2005,1.79,1.79,"Djibouti, Republic of",DJI,East Africa
 418,HWF_0001,"Medical doctors (per 10,000)",DJI,Djibouti,2004,1.67,1.67,"Djibouti, Republic of",DJI,East Africa
 419,HWF_0001,"Medical doctors (per 10,000)",DJI,Djibouti,1999,1.33,1.33,"Djibouti, Republic of",DJI,East Africa
-420,HWF_0002,Medical doctors (number),DJI,Djibouti,2014,201.0,201,"Djibouti, Republic of",DJI,East Africa
-421,HWF_0002,Medical doctors (number),DJI,Djibouti,2006,185.0,185,"Djibouti, Republic of",DJI,East Africa
-422,HWF_0002,Medical doctors (number),DJI,Djibouti,2005,140.0,140,"Djibouti, Republic of",DJI,East Africa
-423,HWF_0002,Medical doctors (number),DJI,Djibouti,2004,129.0,129,"Djibouti, Republic of",DJI,East Africa
-424,HWF_0002,Medical doctors (number),DJI,Djibouti,1999,93.0,93,"Djibouti, Republic of",DJI,East Africa
-425,HWF_0005,Medical doctors not further defined (number),DJI,Djibouti,2014,201.0,201,"Djibouti, Republic of",DJI,East Africa
-426,HWF_0005,Medical doctors not further defined (number),DJI,Djibouti,2006,185.0,185,"Djibouti, Republic of",DJI,East Africa
-427,HWF_0005,Medical doctors not further defined (number),DJI,Djibouti,2005,140.0,140,"Djibouti, Republic of",DJI,East Africa
-428,HWF_0005,Medical doctors not further defined (number),DJI,Djibouti,2004,129.0,129,"Djibouti, Republic of",DJI,East Africa
-429,HWF_0005,Medical doctors not further defined (number),DJI,Djibouti,1999,93.0,93,"Djibouti, Republic of",DJI,East Africa
 430,HWF_0001,"Medical doctors (per 10,000)",GAB,Gabon,2018,6.46,6.46,"Gabon, Gabonese Republic",GAB,Central Africa
 431,HWF_0001,"Medical doctors (per 10,000)",GAB,Gabon,2017,6.82,6.82,"Gabon, Gabonese Republic",GAB,Central Africa
 432,HWF_0001,"Medical doctors (per 10,000)",GAB,Gabon,2016,3.56,3.56,"Gabon, Gabonese Republic",GAB,Central Africa
@@ -437,28 +140,6 @@
 436,HWF_0001,"Medical doctors (per 10,000)",GAB,Gabon,1994,2.62,2.62,"Gabon, Gabonese Republic",GAB,Central Africa
 437,HWF_0001,"Medical doctors (per 10,000)",GAB,Gabon,1993,2.19,2.19,"Gabon, Gabonese Republic",GAB,Central Africa
 438,HWF_0001,"Medical doctors (per 10,000)",GAB,Gabon,1991,1.94,1.94,"Gabon, Gabonese Republic",GAB,Central Africa
-439,HWF_0002,Medical doctors (number),GAB,Gabon,2018,1368.0,1368,"Gabon, Gabonese Republic",GAB,Central Africa
-440,HWF_0002,Medical doctors (number),GAB,Gabon,2017,1408.0,1408,"Gabon, Gabonese Republic",GAB,Central Africa
-441,HWF_0002,Medical doctors (number),GAB,Gabon,2016,715.0,715,"Gabon, Gabonese Republic",GAB,Central Africa
-442,HWF_0002,Medical doctors (number),GAB,Gabon,2008,147.0,147,"Gabon, Gabonese Republic",GAB,Central Africa
-443,HWF_0002,Medical doctors (number),GAB,Gabon,2004,395.0,395,"Gabon, Gabonese Republic",GAB,Central Africa
-444,HWF_0002,Medical doctors (number),GAB,Gabon,1995,321.0,321,"Gabon, Gabonese Republic",GAB,Central Africa
-445,HWF_0002,Medical doctors (number),GAB,Gabon,1994,277.0,277,"Gabon, Gabonese Republic",GAB,Central Africa
-446,HWF_0002,Medical doctors (number),GAB,Gabon,1993,225.0,225,"Gabon, Gabonese Republic",GAB,Central Africa
-447,HWF_0002,Medical doctors (number),GAB,Gabon,1991,189.0,189,"Gabon, Gabonese Republic",GAB,Central Africa
-448,HWF_0003,Generalist medical practitioners (number),GAB,Gabon,2020,50.0,50,"Gabon, Gabonese Republic",GAB,Central Africa
-449,HWF_0003,Generalist medical practitioners (number),GAB,Gabon,2018,570.0,570,"Gabon, Gabonese Republic",GAB,Central Africa
-450,HWF_0003,Generalist medical practitioners (number),GAB,Gabon,2017,570.0,570,"Gabon, Gabonese Republic",GAB,Central Africa
-451,HWF_0003,Generalist medical practitioners (number),GAB,Gabon,2008,147.0,147,"Gabon, Gabonese Republic",GAB,Central Africa
-452,HWF_0004,Specialist medical practitioners (number),GAB,Gabon,2020,30.0,30,"Gabon, Gabonese Republic",GAB,Central Africa
-453,HWF_0004,Specialist medical practitioners (number),GAB,Gabon,2018,798.0,798,"Gabon, Gabonese Republic",GAB,Central Africa
-454,HWF_0004,Specialist medical practitioners (number),GAB,Gabon,2017,838.0,838,"Gabon, Gabonese Republic",GAB,Central Africa
-455,HWF_0005,Medical doctors not further defined (number),GAB,Gabon,2016,715.0,715,"Gabon, Gabonese Republic",GAB,Central Africa
-456,HWF_0005,Medical doctors not further defined (number),GAB,Gabon,2004,395.0,395,"Gabon, Gabonese Republic",GAB,Central Africa
-457,HWF_0005,Medical doctors not further defined (number),GAB,Gabon,1995,321.0,321,"Gabon, Gabonese Republic",GAB,Central Africa
-458,HWF_0005,Medical doctors not further defined (number),GAB,Gabon,1994,277.0,277,"Gabon, Gabonese Republic",GAB,Central Africa
-459,HWF_0005,Medical doctors not further defined (number),GAB,Gabon,1993,225.0,225,"Gabon, Gabonese Republic",GAB,Central Africa
-460,HWF_0005,Medical doctors not further defined (number),GAB,Gabon,1991,189.0,189,"Gabon, Gabonese Republic",GAB,Central Africa
 461,HWF_0001,"Medical doctors (per 10,000)",GMB,Gambia,2020,0.82,0.82,"Gambia, Republic of the",GMB,West Africa
 462,HWF_0001,"Medical doctors (per 10,000)",GMB,Gambia,2019,1.07,1.07,"Gambia, Republic of the",GMB,West Africa
 463,HWF_0001,"Medical doctors (per 10,000)",GMB,Gambia,2018,1.31,1.31,"Gambia, Republic of the",GMB,West Africa
@@ -470,32 +151,6 @@
 469,HWF_0001,"Medical doctors (per 10,000)",GMB,Gambia,2005,1.08,1.08,"Gambia, Republic of the",GMB,West Africa
 470,HWF_0001,"Medical doctors (per 10,000)",GMB,Gambia,2004,1.11,1.11,"Gambia, Republic of the",GMB,West Africa
 471,HWF_0001,"Medical doctors (per 10,000)",GMB,Gambia,2003,1.08,1.08,"Gambia, Republic of the",GMB,West Africa
-472,HWF_0002,Medical doctors (number),GMB,Gambia,2020,199.0,199,"Gambia, Republic of the",GMB,West Africa
-473,HWF_0002,Medical doctors (number),GMB,Gambia,2019,252.0,252,"Gambia, Republic of the",GMB,West Africa
-474,HWF_0002,Medical doctors (number),GMB,Gambia,2018,298.0,298,"Gambia, Republic of the",GMB,West Africa
-475,HWF_0002,Medical doctors (number),GMB,Gambia,2017,252.0,252,"Gambia, Republic of the",GMB,West Africa
-476,HWF_0002,Medical doctors (number),GMB,Gambia,2015,213.0,213,"Gambia, Republic of the",GMB,West Africa
-477,HWF_0002,Medical doctors (number),GMB,Gambia,2008,175.0,175,"Gambia, Republic of the",GMB,West Africa
-478,HWF_0002,Medical doctors (number),GMB,Gambia,2007,159.0,159,"Gambia, Republic of the",GMB,West Africa
-479,HWF_0002,Medical doctors (number),GMB,Gambia,2006,175.0,175,"Gambia, Republic of the",GMB,West Africa
-480,HWF_0002,Medical doctors (number),GMB,Gambia,2005,166.0,166,"Gambia, Republic of the",GMB,West Africa
-481,HWF_0002,Medical doctors (number),GMB,Gambia,2004,166.0,166,"Gambia, Republic of the",GMB,West Africa
-482,HWF_0002,Medical doctors (number),GMB,Gambia,2003,156.0,156,"Gambia, Republic of the",GMB,West Africa
-483,HWF_0003,Generalist medical practitioners (number),GMB,Gambia,2020,160.0,160,"Gambia, Republic of the",GMB,West Africa
-484,HWF_0003,Generalist medical practitioners (number),GMB,Gambia,2019,167.0,167,"Gambia, Republic of the",GMB,West Africa
-485,HWF_0003,Generalist medical practitioners (number),GMB,Gambia,2018,181.0,181,"Gambia, Republic of the",GMB,West Africa
-486,HWF_0003,Generalist medical practitioners (number),GMB,Gambia,2017,167.0,167,"Gambia, Republic of the",GMB,West Africa
-487,HWF_0004,Specialist medical practitioners (number),GMB,Gambia,2020,39.0,39,"Gambia, Republic of the",GMB,West Africa
-488,HWF_0004,Specialist medical practitioners (number),GMB,Gambia,2019,85.0,85,"Gambia, Republic of the",GMB,West Africa
-489,HWF_0004,Specialist medical practitioners (number),GMB,Gambia,2018,117.0,117,"Gambia, Republic of the",GMB,West Africa
-490,HWF_0004,Specialist medical practitioners (number),GMB,Gambia,2017,85.0,85,"Gambia, Republic of the",GMB,West Africa
-491,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2015,213.0,213,"Gambia, Republic of the",GMB,West Africa
-492,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2008,175.0,175,"Gambia, Republic of the",GMB,West Africa
-493,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2007,159.0,159,"Gambia, Republic of the",GMB,West Africa
-494,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2006,175.0,175,"Gambia, Republic of the",GMB,West Africa
-495,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2005,166.0,166,"Gambia, Republic of the",GMB,West Africa
-496,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2004,166.0,166,"Gambia, Republic of the",GMB,West Africa
-497,HWF_0005,Medical doctors not further defined (number),GMB,Gambia,2003,156.0,156,"Gambia, Republic of the",GMB,West Africa
 498,HWF_0001,"Medical doctors (per 10,000)",GHA,Ghana,2020,1.7,1.7,"Ghana, Republic of",GHA,West Africa
 499,HWF_0001,"Medical doctors (per 10,000)",GHA,Ghana,2019,1.06,1.06,"Ghana, Republic of",GHA,West Africa
 500,HWF_0001,"Medical doctors (per 10,000)",GHA,Ghana,2018,1.48,1.48,"Ghana, Republic of",GHA,West Africa
@@ -511,40 +166,6 @@
 510,HWF_0001,"Medical doctors (per 10,000)",GHA,Ghana,2008,0.79,0.79,"Ghana, Republic of",GHA,West Africa
 511,HWF_0001,"Medical doctors (per 10,000)",GHA,Ghana,2007,0.73,0.73,"Ghana, Republic of",GHA,West Africa
 512,HWF_0001,"Medical doctors (per 10,000)",GHA,Ghana,2004,1.52,1.52,"Ghana, Republic of",GHA,West Africa
-513,HWF_0002,Medical doctors (number),GHA,Ghana,2020,5285.0,5285,"Ghana, Republic of",GHA,West Africa
-514,HWF_0002,Medical doctors (number),GHA,Ghana,2019,3236.0,3236,"Ghana, Republic of",GHA,West Africa
-515,HWF_0002,Medical doctors (number),GHA,Ghana,2018,4406.0,4406,"Ghana, Republic of",GHA,West Africa
-516,HWF_0002,Medical doctors (number),GHA,Ghana,2017,2679.0,2679,"Ghana, Republic of",GHA,West Africa
-517,HWF_0002,Medical doctors (number),GHA,Ghana,2016,3618.0,3618,"Ghana, Republic of",GHA,West Africa
-518,HWF_0002,Medical doctors (number),GHA,Ghana,2015,3263.0,3263,"Ghana, Republic of",GHA,West Africa
-519,HWF_0002,Medical doctors (number),GHA,Ghana,2014,3016.0,3016,"Ghana, Republic of",GHA,West Africa
-520,HWF_0002,Medical doctors (number),GHA,Ghana,2013,2730.0,2730,"Ghana, Republic of",GHA,West Africa
-521,HWF_0002,Medical doctors (number),GHA,Ghana,2012,2486.0,2486,"Ghana, Republic of",GHA,West Africa
-522,HWF_0002,Medical doctors (number),GHA,Ghana,2011,2486.0,2486,"Ghana, Republic of",GHA,West Africa
-523,HWF_0002,Medical doctors (number),GHA,Ghana,2010,2325.0,2325,"Ghana, Republic of",GHA,West Africa
-524,HWF_0002,Medical doctors (number),GHA,Ghana,2009,2033.0,2033,"Ghana, Republic of",GHA,West Africa
-525,HWF_0002,Medical doctors (number),GHA,Ghana,2008,1855.0,1855,"Ghana, Republic of",GHA,West Africa
-526,HWF_0002,Medical doctors (number),GHA,Ghana,2007,1665.0,1665,"Ghana, Republic of",GHA,West Africa
-527,HWF_0002,Medical doctors (number),GHA,Ghana,2004,3240.0,3240,"Ghana, Republic of",GHA,West Africa
-528,HWF_0003,Generalist medical practitioners (number),GHA,Ghana,2019,2181.0,2181,"Ghana, Republic of",GHA,West Africa
-529,HWF_0003,Generalist medical practitioners (number),GHA,Ghana,2018,3316.0,3316,"Ghana, Republic of",GHA,West Africa
-530,HWF_0003,Generalist medical practitioners (number),GHA,Ghana,2017,1757.0,1757,"Ghana, Republic of",GHA,West Africa
-531,HWF_0004,Specialist medical practitioners (number),GHA,Ghana,2019,1055.0,1055,"Ghana, Republic of",GHA,West Africa
-532,HWF_0004,Specialist medical practitioners (number),GHA,Ghana,2018,1090.0,1090,"Ghana, Republic of",GHA,West Africa
-533,HWF_0004,Specialist medical practitioners (number),GHA,Ghana,2017,861.0,861,"Ghana, Republic of",GHA,West Africa
-534,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2020,5285.0,5285,"Ghana, Republic of",GHA,West Africa
-535,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2017,61.0,61,"Ghana, Republic of",GHA,West Africa
-536,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2016,3618.0,3618,"Ghana, Republic of",GHA,West Africa
-537,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2015,3263.0,3263,"Ghana, Republic of",GHA,West Africa
-538,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2014,3016.0,3016,"Ghana, Republic of",GHA,West Africa
-539,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2013,2730.0,2730,"Ghana, Republic of",GHA,West Africa
-540,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2012,2486.0,2486,"Ghana, Republic of",GHA,West Africa
-541,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2011,2486.0,2486,"Ghana, Republic of",GHA,West Africa
-542,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2010,2325.0,2325,"Ghana, Republic of",GHA,West Africa
-543,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2009,2033.0,2033,"Ghana, Republic of",GHA,West Africa
-544,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2008,1855.0,1855,"Ghana, Republic of",GHA,West Africa
-545,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2007,1665.0,1665,"Ghana, Republic of",GHA,West Africa
-546,HWF_0005,Medical doctors not further defined (number),GHA,Ghana,2004,3240.0,3240,"Ghana, Republic of",GHA,West Africa
 547,HWF_0001,"Medical doctors (per 10,000)",GIN,Guinea,2018,2.25,2.25,"Guinea, Republic of",GIN,West Africa
 548,HWF_0001,"Medical doctors (per 10,000)",GIN,Guinea,2016,0.83,0.83,"Guinea, Republic of",GIN,West Africa
 549,HWF_0001,"Medical doctors (per 10,000)",GIN,Guinea,2015,0.86,0.86,"Guinea, Republic of",GIN,West Africa
@@ -552,21 +173,6 @@
 551,HWF_0001,"Medical doctors (per 10,000)",GIN,Guinea,2005,1.03,1.03,"Guinea, Republic of",GIN,West Africa
 552,HWF_0001,"Medical doctors (per 10,000)",GIN,Guinea,2004,1.11,1.11,"Guinea, Republic of",GIN,West Africa
 553,HWF_0001,"Medical doctors (per 10,000)",GIN,Guinea,2000,0.93,0.93,"Guinea, Republic of",GIN,West Africa
-554,HWF_0002,Medical doctors (number),GIN,Guinea,2018,2787.0,2787,"Guinea, Republic of",GIN,West Africa
-555,HWF_0002,Medical doctors (number),GIN,Guinea,2016,977.0,977,"Guinea, Republic of",GIN,West Africa
-556,HWF_0002,Medical doctors (number),GIN,Guinea,2015,977.0,977,"Guinea, Republic of",GIN,West Africa
-557,HWF_0002,Medical doctors (number),GIN,Guinea,2014,1844.0,1844,"Guinea, Republic of",GIN,West Africa
-558,HWF_0002,Medical doctors (number),GIN,Guinea,2005,940.0,940,"Guinea, Republic of",GIN,West Africa
-559,HWF_0002,Medical doctors (number),GIN,Guinea,2004,987.0,987,"Guinea, Republic of",GIN,West Africa
-560,HWF_0002,Medical doctors (number),GIN,Guinea,2000,764.0,764,"Guinea, Republic of",GIN,West Africa
-561,HWF_0003,Generalist medical practitioners (number),GIN,Guinea,2018,2649.0,2649,"Guinea, Republic of",GIN,West Africa
-562,HWF_0004,Specialist medical practitioners (number),GIN,Guinea,2018,138.0,138,"Guinea, Republic of",GIN,West Africa
-563,HWF_0005,Medical doctors not further defined (number),GIN,Guinea,2016,977.0,977,"Guinea, Republic of",GIN,West Africa
-564,HWF_0005,Medical doctors not further defined (number),GIN,Guinea,2015,977.0,977,"Guinea, Republic of",GIN,West Africa
-565,HWF_0005,Medical doctors not further defined (number),GIN,Guinea,2014,1844.0,1844,"Guinea, Republic of",GIN,West Africa
-566,HWF_0005,Medical doctors not further defined (number),GIN,Guinea,2005,940.0,940,"Guinea, Republic of",GIN,West Africa
-567,HWF_0005,Medical doctors not further defined (number),GIN,Guinea,2004,987.0,987,"Guinea, Republic of",GIN,West Africa
-568,HWF_0005,Medical doctors not further defined (number),GIN,Guinea,2000,764.0,764,"Guinea, Republic of",GIN,West Africa
 569,HWF_0001,"Medical doctors (per 10,000)",CIV,Côte d’Ivoire,2019,1.62,1.62,"Cote d'Ivoire, Republic of",CIV,West Africa
 570,HWF_0001,"Medical doctors (per 10,000)",CIV,Côte d’Ivoire,2018,3.85,3.85,"Cote d'Ivoire, Republic of",CIV,West Africa
 571,HWF_0001,"Medical doctors (per 10,000)",CIV,Côte d’Ivoire,2014,2.31,2.31,"Cote d'Ivoire, Republic of",CIV,West Africa
@@ -574,22 +180,6 @@
 573,HWF_0001,"Medical doctors (per 10,000)",CIV,Côte d’Ivoire,2008,1.4,1.4,"Cote d'Ivoire, Republic of",CIV,West Africa
 574,HWF_0001,"Medical doctors (per 10,000)",CIV,Côte d’Ivoire,2005,0.93,0.93,"Cote d'Ivoire, Republic of",CIV,West Africa
 575,HWF_0001,"Medical doctors (per 10,000)",CIV,Côte d’Ivoire,2004,1.16,1.16,"Cote d'Ivoire, Republic of",CIV,West Africa
-576,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2019,4173.0,4173,"Cote d'Ivoire, Republic of",CIV,West Africa
-577,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2018,9647.0,9647,"Cote d'Ivoire, Republic of",CIV,West Africa
-578,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2014,5240.0,5240,"Cote d'Ivoire, Republic of",CIV,West Africa
-579,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2011,3220.0,3220,"Cote d'Ivoire, Republic of",CIV,West Africa
-580,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2008,2746.0,2746,"Cote d'Ivoire, Republic of",CIV,West Africa
-581,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2005,1698.0,1698,"Cote d'Ivoire, Republic of",CIV,West Africa
-582,HWF_0002,Medical doctors (number),CIV,Côte d’Ivoire,2004,2081.0,2081,"Cote d'Ivoire, Republic of",CIV,West Africa
-583,HWF_0003,Generalist medical practitioners (number),CIV,Côte d’Ivoire,2018,4246.0,4246,"Cote d'Ivoire, Republic of",CIV,West Africa
-584,HWF_0004,Specialist medical practitioners (number),CIV,Côte d’Ivoire,2018,1356.0,1356,"Cote d'Ivoire, Republic of",CIV,West Africa
-585,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2019,4173.0,4173,"Cote d'Ivoire, Republic of",CIV,West Africa
-586,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2018,4045.0,4045,"Cote d'Ivoire, Republic of",CIV,West Africa
-587,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2014,5240.0,5240,"Cote d'Ivoire, Republic of",CIV,West Africa
-588,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2011,3220.0,3220,"Cote d'Ivoire, Republic of",CIV,West Africa
-589,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2008,2746.0,2746,"Cote d'Ivoire, Republic of",CIV,West Africa
-590,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2005,1698.0,1698,"Cote d'Ivoire, Republic of",CIV,West Africa
-591,HWF_0005,Medical doctors not further defined (number),CIV,Côte d’Ivoire,2004,2081.0,2081,"Cote d'Ivoire, Republic of",CIV,West Africa
 592,HWF_0001,"Medical doctors (per 10,000)",KEN,Kenya,2018,1.57,1.57,"Kenya, Republic of",KEN,East Africa
 593,HWF_0001,"Medical doctors (per 10,000)",KEN,Kenya,2014,1.96,1.96,"Kenya, Republic of",KEN,East Africa
 594,HWF_0001,"Medical doctors (per 10,000)",KEN,Kenya,2013,1.91,1.91,"Kenya, Republic of",KEN,East Africa
@@ -599,54 +189,15 @@
 598,HWF_0001,"Medical doctors (per 10,000)",KEN,Kenya,2009,1.69,1.69,"Kenya, Republic of",KEN,East Africa
 599,HWF_0001,"Medical doctors (per 10,000)",KEN,Kenya,2008,1.66,1.66,"Kenya, Republic of",KEN,East Africa
 600,HWF_0001,"Medical doctors (per 10,000)",KEN,Kenya,2002,1.34,1.34,"Kenya, Republic of",KEN,East Africa
-601,HWF_0002,Medical doctors (number),KEN,Kenya,2018,8042.0,8042,"Kenya, Republic of",KEN,East Africa
-602,HWF_0002,Medical doctors (number),KEN,Kenya,2014,9149.0,9149,"Kenya, Republic of",KEN,East Africa
-603,HWF_0002,Medical doctors (number),KEN,Kenya,2013,8682.0,8682,"Kenya, Republic of",KEN,East Africa
-604,HWF_0002,Medical doctors (number),KEN,Kenya,2012,8092.0,8092,"Kenya, Republic of",KEN,East Africa
-605,HWF_0002,Medical doctors (number),KEN,Kenya,2011,7549.0,7549,"Kenya, Republic of",KEN,East Africa
-606,HWF_0002,Medical doctors (number),KEN,Kenya,2010,7129.0,7129,"Kenya, Republic of",KEN,East Africa
-607,HWF_0002,Medical doctors (number),KEN,Kenya,2009,6897.0,6897,"Kenya, Republic of",KEN,East Africa
-608,HWF_0002,Medical doctors (number),KEN,Kenya,2008,6623.0,6623,"Kenya, Republic of",KEN,East Africa
-609,HWF_0002,Medical doctors (number),KEN,Kenya,2002,4506.0,4506,"Kenya, Republic of",KEN,East Africa
-610,HWF_0003,Generalist medical practitioners (number),KEN,Kenya,2018,5602.0,5602,"Kenya, Republic of",KEN,East Africa
-611,HWF_0004,Specialist medical practitioners (number),KEN,Kenya,2018,2440.0,2440,"Kenya, Republic of",KEN,East Africa
-612,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2014,9149.0,9149,"Kenya, Republic of",KEN,East Africa
-613,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2013,8682.0,8682,"Kenya, Republic of",KEN,East Africa
-614,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2012,8092.0,8092,"Kenya, Republic of",KEN,East Africa
-615,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2011,7549.0,7549,"Kenya, Republic of",KEN,East Africa
-616,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2010,7129.0,7129,"Kenya, Republic of",KEN,East Africa
-617,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2009,6897.0,6897,"Kenya, Republic of",KEN,East Africa
-618,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2008,6623.0,6623,"Kenya, Republic of",KEN,East Africa
-619,HWF_0005,Medical doctors not further defined (number),KEN,Kenya,2002,4506.0,4506,"Kenya, Republic of",KEN,East Africa
 620,HWF_0001,"Medical doctors (per 10,000)",LSO,Lesotho,2018,4.73,4.73,"Lesotho, Kingdom of",LSO,Southern Africa
 621,HWF_0001,"Medical doctors (per 10,000)",LSO,Lesotho,2010,0.69,0.69,"Lesotho, Kingdom of",LSO,Southern Africa
 622,HWF_0001,"Medical doctors (per 10,000)",LSO,Lesotho,2003,0.44,0.44,"Lesotho, Kingdom of",LSO,Southern Africa
-623,HWF_0002,Medical doctors (number),LSO,Lesotho,2018,998.0,998,"Lesotho, Kingdom of",LSO,Southern Africa
-624,HWF_0002,Medical doctors (number),LSO,Lesotho,2010,138.0,138,"Lesotho, Kingdom of",LSO,Southern Africa
-625,HWF_0002,Medical doctors (number),LSO,Lesotho,2003,89.0,89,"Lesotho, Kingdom of",LSO,Southern Africa
-626,HWF_0003,Generalist medical practitioners (number),LSO,Lesotho,2018,815.0,815,"Lesotho, Kingdom of",LSO,Southern Africa
-627,HWF_0004,Specialist medical practitioners (number),LSO,Lesotho,2018,183.0,183,"Lesotho, Kingdom of",LSO,Southern Africa
-628,HWF_0005,Medical doctors not further defined (number),LSO,Lesotho,2010,138.0,138,"Lesotho, Kingdom of",LSO,Southern Africa
-629,HWF_0005,Medical doctors not further defined (number),LSO,Lesotho,2003,89.0,89,"Lesotho, Kingdom of",LSO,Southern Africa
 630,HWF_0001,"Medical doctors (per 10,000)",LBR,Liberia,2018,0.51,0.51,"Liberia, Republic of",LBR,West Africa
 631,HWF_0001,"Medical doctors (per 10,000)",LBR,Liberia,2015,0.38,0.38,"Liberia, Republic of",LBR,West Africa
 632,HWF_0001,"Medical doctors (per 10,000)",LBR,Liberia,2010,0.23,0.23,"Liberia, Republic of",LBR,West Africa
 633,HWF_0001,"Medical doctors (per 10,000)",LBR,Liberia,2009,0.24,0.24,"Liberia, Republic of",LBR,West Africa
 634,HWF_0001,"Medical doctors (per 10,000)",LBR,Liberia,2008,0.14,0.14,"Liberia, Republic of",LBR,West Africa
 635,HWF_0001,"Medical doctors (per 10,000)",LBR,Liberia,2004,0.33,0.33,"Liberia, Republic of",LBR,West Africa
-636,HWF_0002,Medical doctors (number),LBR,Liberia,2018,246.0,246,"Liberia, Republic of",LBR,West Africa
-637,HWF_0002,Medical doctors (number),LBR,Liberia,2015,168.0,168,"Liberia, Republic of",LBR,West Africa
-638,HWF_0002,Medical doctors (number),LBR,Liberia,2010,90.0,90,"Liberia, Republic of",LBR,West Africa
-639,HWF_0002,Medical doctors (number),LBR,Liberia,2009,90.0,90,"Liberia, Republic of",LBR,West Africa
-640,HWF_0002,Medical doctors (number),LBR,Liberia,2008,51.0,51,"Liberia, Republic of",LBR,West Africa
-641,HWF_0002,Medical doctors (number),LBR,Liberia,2004,103.0,103,"Liberia, Republic of",LBR,West Africa
-642,HWF_0003,Generalist medical practitioners (number),LBR,Liberia,2018,234.0,234,"Liberia, Republic of",LBR,West Africa
-643,HWF_0004,Specialist medical practitioners (number),LBR,Liberia,2018,12.0,12,"Liberia, Republic of",LBR,West Africa
-644,HWF_0005,Medical doctors not further defined (number),LBR,Liberia,2015,168.0,168,"Liberia, Republic of",LBR,West Africa
-645,HWF_0005,Medical doctors not further defined (number),LBR,Liberia,2010,90.0,90,"Liberia, Republic of",LBR,West Africa
-646,HWF_0005,Medical doctors not further defined (number),LBR,Liberia,2009,90.0,90,"Liberia, Republic of",LBR,West Africa
-647,HWF_0005,Medical doctors not further defined (number),LBR,Liberia,2008,51.0,51,"Liberia, Republic of",LBR,West Africa
-648,HWF_0005,Medical doctors not further defined (number),LBR,Liberia,2004,103.0,103,"Liberia, Republic of",LBR,West Africa
 649,HWF_0001,"Medical doctors (per 10,000)",LBY,Libya,2017,20.91,20.91,Libyan Arab Jamahiriya,LBY,North Africa
 650,HWF_0001,"Medical doctors (per 10,000)",LBY,Libya,2015,18.94,18.94,Libyan Arab Jamahiriya,LBY,North Africa
 651,HWF_0001,"Medical doctors (per 10,000)",LBY,Libya,2014,20.58,20.58,Libyan Arab Jamahiriya,LBY,North Africa
@@ -654,21 +205,6 @@
 653,HWF_0001,"Medical doctors (per 10,000)",LBY,Libya,2008,18.43,18.43,Libyan Arab Jamahiriya,LBY,North Africa
 654,HWF_0001,"Medical doctors (per 10,000)",LBY,Libya,2004,12.38,12.38,Libyan Arab Jamahiriya,LBY,North Africa
 655,HWF_0001,"Medical doctors (per 10,000)",LBY,Libya,1997,12.45,12.45,Libyan Arab Jamahiriya,LBY,North Africa
-656,HWF_0002,Medical doctors (number),LBY,Libya,2017,13757.0,13 757,Libyan Arab Jamahiriya,LBY,North Africa
-657,HWF_0002,Medical doctors (number),LBY,Libya,2015,12158.0,12 158,Libyan Arab Jamahiriya,LBY,North Africa
-658,HWF_0002,Medical doctors (number),LBY,Libya,2014,13095.0,13 095,Libyan Arab Jamahiriya,LBY,North Africa
-659,HWF_0002,Medical doctors (number),LBY,Libya,2009,12009.0,12 009,Libyan Arab Jamahiriya,LBY,North Africa
-660,HWF_0002,Medical doctors (number),LBY,Libya,2008,11163.0,11 163,Libyan Arab Jamahiriya,LBY,North Africa
-661,HWF_0002,Medical doctors (number),LBY,Libya,2004,7070.0,7070,Libyan Arab Jamahiriya,LBY,North Africa
-662,HWF_0002,Medical doctors (number),LBY,Libya,1997,6371.0,6371,Libyan Arab Jamahiriya,LBY,North Africa
-663,HWF_0003,Generalist medical practitioners (number),LBY,Libya,2017,9366.0,9366,Libyan Arab Jamahiriya,LBY,North Africa
-664,HWF_0004,Specialist medical practitioners (number),LBY,Libya,2017,4391.0,4391,Libyan Arab Jamahiriya,LBY,North Africa
-665,HWF_0005,Medical doctors not further defined (number),LBY,Libya,2015,12158.0,12 158,Libyan Arab Jamahiriya,LBY,North Africa
-666,HWF_0005,Medical doctors not further defined (number),LBY,Libya,2014,13095.0,13 095,Libyan Arab Jamahiriya,LBY,North Africa
-667,HWF_0005,Medical doctors not further defined (number),LBY,Libya,2009,12009.0,12 009,Libyan Arab Jamahiriya,LBY,North Africa
-668,HWF_0005,Medical doctors not further defined (number),LBY,Libya,2008,11163.0,11 163,Libyan Arab Jamahiriya,LBY,North Africa
-669,HWF_0005,Medical doctors not further defined (number),LBY,Libya,2004,7070.0,7070,Libyan Arab Jamahiriya,LBY,North Africa
-670,HWF_0005,Medical doctors not further defined (number),LBY,Libya,1997,6371.0,6371,Libyan Arab Jamahiriya,LBY,North Africa
 671,HWF_0001,"Medical doctors (per 10,000)",MDG,Madagascar,2018,1.99,1.99,"Madagascar, Republic of",MDG,East Africa
 672,HWF_0001,"Medical doctors (per 10,000)",MDG,Madagascar,2014,1.81,1.81,"Madagascar, Republic of",MDG,East Africa
 673,HWF_0001,"Medical doctors (per 10,000)",MDG,Madagascar,2013,1.53,1.53,"Madagascar, Republic of",MDG,East Africa
@@ -683,36 +219,6 @@
 682,HWF_0001,"Medical doctors (per 10,000)",MDG,Madagascar,2004,1.56,1.56,"Madagascar, Republic of",MDG,East Africa
 683,HWF_0001,"Medical doctors (per 10,000)",MDG,Madagascar,2003,1.48,1.48,"Madagascar, Republic of",MDG,East Africa
 684,HWF_0001,"Medical doctors (per 10,000)",MDG,Madagascar,2002,1.36,1.36,"Madagascar, Republic of",MDG,East Africa
-685,HWF_0002,Medical doctors (number),MDG,Madagascar,2018,5230.0,5230,"Madagascar, Republic of",MDG,East Africa
-686,HWF_0002,Medical doctors (number),MDG,Madagascar,2014,4275.0,4275,"Madagascar, Republic of",MDG,East Africa
-687,HWF_0002,Medical doctors (number),MDG,Madagascar,2013,3523.0,3523,"Madagascar, Republic of",MDG,East Africa
-688,HWF_0002,Medical doctors (number),MDG,Madagascar,2012,3188.0,3188,"Madagascar, Republic of",MDG,East Africa
-689,HWF_0002,Medical doctors (number),MDG,Madagascar,2011,3131.0,3131,"Madagascar, Republic of",MDG,East Africa
-690,HWF_0002,Medical doctors (number),MDG,Madagascar,2010,4130.0,4130,"Madagascar, Republic of",MDG,East Africa
-691,HWF_0002,Medical doctors (number),MDG,Madagascar,2009,3730.0,3730,"Madagascar, Republic of",MDG,East Africa
-692,HWF_0002,Medical doctors (number),MDG,Madagascar,2008,3719.0,3719,"Madagascar, Republic of",MDG,East Africa
-693,HWF_0002,Medical doctors (number),MDG,Madagascar,2007,3524.0,3524,"Madagascar, Republic of",MDG,East Africa
-694,HWF_0002,Medical doctors (number),MDG,Madagascar,2006,3219.0,3219,"Madagascar, Republic of",MDG,East Africa
-695,HWF_0002,Medical doctors (number),MDG,Madagascar,2005,3303.0,3303,"Madagascar, Republic of",MDG,East Africa
-696,HWF_0002,Medical doctors (number),MDG,Madagascar,2004,2780.0,2780,"Madagascar, Republic of",MDG,East Africa
-697,HWF_0002,Medical doctors (number),MDG,Madagascar,2003,2550.0,2550,"Madagascar, Republic of",MDG,East Africa
-698,HWF_0002,Medical doctors (number),MDG,Madagascar,2002,2283.0,2283,"Madagascar, Republic of",MDG,East Africa
-699,HWF_0003,Generalist medical practitioners (number),MDG,Madagascar,2018,4593.0,4593,"Madagascar, Republic of",MDG,East Africa
-700,HWF_0003,Generalist medical practitioners (number),MDG,Madagascar,2013,3028.0,3028,"Madagascar, Republic of",MDG,East Africa
-701,HWF_0004,Specialist medical practitioners (number),MDG,Madagascar,2018,637.0,637,"Madagascar, Republic of",MDG,East Africa
-702,HWF_0004,Specialist medical practitioners (number),MDG,Madagascar,2013,495.0,495,"Madagascar, Republic of",MDG,East Africa
-703,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2014,4275.0,4275,"Madagascar, Republic of",MDG,East Africa
-704,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2012,3188.0,3188,"Madagascar, Republic of",MDG,East Africa
-705,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2011,3131.0,3131,"Madagascar, Republic of",MDG,East Africa
-706,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2010,4130.0,4130,"Madagascar, Republic of",MDG,East Africa
-707,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2009,3730.0,3730,"Madagascar, Republic of",MDG,East Africa
-708,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2008,3719.0,3719,"Madagascar, Republic of",MDG,East Africa
-709,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2007,3524.0,3524,"Madagascar, Republic of",MDG,East Africa
-710,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2006,3219.0,3219,"Madagascar, Republic of",MDG,East Africa
-711,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2005,3303.0,3303,"Madagascar, Republic of",MDG,East Africa
-712,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2004,2780.0,2780,"Madagascar, Republic of",MDG,East Africa
-713,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2003,2550.0,2550,"Madagascar, Republic of",MDG,East Africa
-714,HWF_0005,Medical doctors not further defined (number),MDG,Madagascar,2002,2283.0,2283,"Madagascar, Republic of",MDG,East Africa
 715,HWF_0001,"Medical doctors (per 10,000)",MWI,Malawi,2020,0.5,0.5,"Malawi, Republic of",MWI,East Africa
 716,HWF_0001,"Medical doctors (per 10,000)",MWI,Malawi,2018,1.52,1.52,"Malawi, Republic of",MWI,East Africa
 717,HWF_0001,"Medical doctors (per 10,000)",MWI,Malawi,2016,0.31,0.31,"Malawi, Republic of",MWI,East Africa
@@ -720,26 +226,6 @@
 719,HWF_0001,"Medical doctors (per 10,000)",MWI,Malawi,2009,0.19,0.19,"Malawi, Republic of",MWI,East Africa
 720,HWF_0001,"Medical doctors (per 10,000)",MWI,Malawi,2008,0.19,0.19,"Malawi, Republic of",MWI,East Africa
 721,HWF_0001,"Medical doctors (per 10,000)",MWI,Malawi,2004,0.22,0.22,"Malawi, Republic of",MWI,East Africa
-722,HWF_0002,Medical doctors (number),MWI,Malawi,2020,958.0,958,"Malawi, Republic of",MWI,East Africa
-723,HWF_0002,Medical doctors (number),MWI,Malawi,2018,2760.0,2760,"Malawi, Republic of",MWI,East Africa
-724,HWF_0002,Medical doctors (number),MWI,Malawi,2016,539.0,539,"Malawi, Republic of",MWI,East Africa
-725,HWF_0002,Medical doctors (number),MWI,Malawi,2013,200.0,200,"Malawi, Republic of",MWI,East Africa
-726,HWF_0002,Medical doctors (number),MWI,Malawi,2009,265.0,265,"Malawi, Republic of",MWI,East Africa
-727,HWF_0002,Medical doctors (number),MWI,Malawi,2008,257.0,257,"Malawi, Republic of",MWI,East Africa
-728,HWF_0002,Medical doctors (number),MWI,Malawi,2004,266.0,266,"Malawi, Republic of",MWI,East Africa
-729,HWF_0003,Generalist medical practitioners (number),MWI,Malawi,2020,639.0,639,"Malawi, Republic of",MWI,East Africa
-730,HWF_0003,Generalist medical practitioners (number),MWI,Malawi,2018,2582.0,2582,"Malawi, Republic of",MWI,East Africa
-731,HWF_0003,Generalist medical practitioners (number),MWI,Malawi,2016,255.0,255,"Malawi, Republic of",MWI,East Africa
-732,HWF_0003,Generalist medical practitioners (number),MWI,Malawi,2008,190.0,190,"Malawi, Republic of",MWI,East Africa
-733,HWF_0004,Specialist medical practitioners (number),MWI,Malawi,2020,319.0,319,"Malawi, Republic of",MWI,East Africa
-734,HWF_0004,Specialist medical practitioners (number),MWI,Malawi,2018,178.0,178,"Malawi, Republic of",MWI,East Africa
-735,HWF_0004,Specialist medical practitioners (number),MWI,Malawi,2013,32.0,32,"Malawi, Republic of",MWI,East Africa
-736,HWF_0004,Specialist medical practitioners (number),MWI,Malawi,2008,67.0,67,"Malawi, Republic of",MWI,East Africa
-737,HWF_0005,Medical doctors not further defined (number),MWI,Malawi,2020,0.0,0,"Malawi, Republic of",MWI,East Africa
-738,HWF_0005,Medical doctors not further defined (number),MWI,Malawi,2016,284.0,284,"Malawi, Republic of",MWI,East Africa
-739,HWF_0005,Medical doctors not further defined (number),MWI,Malawi,2013,168.0,168,"Malawi, Republic of",MWI,East Africa
-740,HWF_0005,Medical doctors not further defined (number),MWI,Malawi,2009,265.0,265,"Malawi, Republic of",MWI,East Africa
-741,HWF_0005,Medical doctors not further defined (number),MWI,Malawi,2004,266.0,266,"Malawi, Republic of",MWI,East Africa
 742,HWF_0001,"Medical doctors (per 10,000)",MLI,Mali,2018,1.29,1.29,"Mali, Republic of",MLI,West Africa
 743,HWF_0001,"Medical doctors (per 10,000)",MLI,Mali,2017,1.21,1.21,"Mali, Republic of",MLI,West Africa
 744,HWF_0001,"Medical doctors (per 10,000)",MLI,Mali,2016,1.25,1.25,"Mali, Republic of",MLI,West Africa
@@ -755,37 +241,6 @@
 754,HWF_0001,"Medical doctors (per 10,000)",MLI,Mali,2006,0.6,0.6,"Mali, Republic of",MLI,West Africa
 755,HWF_0001,"Medical doctors (per 10,000)",MLI,Mali,2005,0.64,0.64,"Mali, Republic of",MLI,West Africa
 756,HWF_0001,"Medical doctors (per 10,000)",MLI,Mali,2004,0.58,0.58,"Mali, Republic of",MLI,West Africa
-757,HWF_0002,Medical doctors (number),MLI,Mali,2018,2454.0,2454,"Mali, Republic of",MLI,West Africa
-758,HWF_0002,Medical doctors (number),MLI,Mali,2017,2247.0,2247,"Mali, Republic of",MLI,West Africa
-759,HWF_0002,Medical doctors (number),MLI,Mali,2016,2247.0,2247,"Mali, Republic of",MLI,West Africa
-760,HWF_0002,Medical doctors (number),MLI,Mali,2015,1750.0,1750,"Mali, Republic of",MLI,West Africa
-761,HWF_0002,Medical doctors (number),MLI,Mali,2014,1750.0,1750,"Mali, Republic of",MLI,West Africa
-762,HWF_0002,Medical doctors (number),MLI,Mali,2013,1971.0,1971,"Mali, Republic of",MLI,West Africa
-763,HWF_0002,Medical doctors (number),MLI,Mali,2012,1704.0,1704,"Mali, Republic of",MLI,West Africa
-764,HWF_0002,Medical doctors (number),MLI,Mali,2011,1829.0,1829,"Mali, Republic of",MLI,West Africa
-765,HWF_0002,Medical doctors (number),MLI,Mali,2010,1536.0,1536,"Mali, Republic of",MLI,West Africa
-766,HWF_0002,Medical doctors (number),MLI,Mali,2009,1786.0,1786,"Mali, Republic of",MLI,West Africa
-767,HWF_0002,Medical doctors (number),MLI,Mali,2008,934.0,934,"Mali, Republic of",MLI,West Africa
-768,HWF_0002,Medical doctors (number),MLI,Mali,2007,864.0,864,"Mali, Republic of",MLI,West Africa
-769,HWF_0002,Medical doctors (number),MLI,Mali,2006,794.0,794,"Mali, Republic of",MLI,West Africa
-770,HWF_0002,Medical doctors (number),MLI,Mali,2005,811.0,811,"Mali, Republic of",MLI,West Africa
-771,HWF_0002,Medical doctors (number),MLI,Mali,2004,721.0,721,"Mali, Republic of",MLI,West Africa
-772,HWF_0003,Generalist medical practitioners (number),MLI,Mali,2018,1417.0,1417,"Mali, Republic of",MLI,West Africa
-773,HWF_0004,Specialist medical practitioners (number),MLI,Mali,2018,1037.0,1037,"Mali, Republic of",MLI,West Africa
-774,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2017,2247.0,2247,"Mali, Republic of",MLI,West Africa
-775,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2016,2247.0,2247,"Mali, Republic of",MLI,West Africa
-776,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2015,1750.0,1750,"Mali, Republic of",MLI,West Africa
-777,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2014,1750.0,1750,"Mali, Republic of",MLI,West Africa
-778,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2013,1971.0,1971,"Mali, Republic of",MLI,West Africa
-779,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2012,1704.0,1704,"Mali, Republic of",MLI,West Africa
-780,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2011,1829.0,1829,"Mali, Republic of",MLI,West Africa
-781,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2010,1536.0,1536,"Mali, Republic of",MLI,West Africa
-782,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2009,1786.0,1786,"Mali, Republic of",MLI,West Africa
-783,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2008,934.0,934,"Mali, Republic of",MLI,West Africa
-784,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2007,864.0,864,"Mali, Republic of",MLI,West Africa
-785,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2006,794.0,794,"Mali, Republic of",MLI,West Africa
-786,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2005,811.0,811,"Mali, Republic of",MLI,West Africa
-787,HWF_0005,Medical doctors not further defined (number),MLI,Mali,2004,721.0,721,"Mali, Republic of",MLI,West Africa
 788,HWF_0001,"Medical doctors (per 10,000)",MRT,Mauritania,2018,1.87,1.87,"Mauritania, Islamic Republic of",MRT,West Africa
 789,HWF_0001,"Medical doctors (per 10,000)",MRT,Mauritania,2017,1.85,1.85,"Mauritania, Islamic Republic of",MRT,West Africa
 790,HWF_0001,"Medical doctors (per 10,000)",MRT,Mauritania,2015,1.71,1.71,"Mauritania, Islamic Republic of",MRT,West Africa
@@ -793,22 +248,6 @@
 792,HWF_0001,"Medical doctors (per 10,000)",MRT,Mauritania,2010,1.57,1.57,"Mauritania, Islamic Republic of",MRT,West Africa
 793,HWF_0001,"Medical doctors (per 10,000)",MRT,Mauritania,2009,1.31,1.31,"Mauritania, Islamic Republic of",MRT,West Africa
 794,HWF_0001,"Medical doctors (per 10,000)",MRT,Mauritania,2004,1.07,1.07,"Mauritania, Islamic Republic of",MRT,West Africa
-795,HWF_0002,Medical doctors (number),MRT,Mauritania,2018,821.0,821,"Mauritania, Islamic Republic of",MRT,West Africa
-796,HWF_0002,Medical doctors (number),MRT,Mauritania,2017,791.0,791,"Mauritania, Islamic Republic of",MRT,West Africa
-797,HWF_0002,Medical doctors (number),MRT,Mauritania,2015,692.0,692,"Mauritania, Islamic Republic of",MRT,West Africa
-798,HWF_0002,Medical doctors (number),MRT,Mauritania,2014,622.0,622,"Mauritania, Islamic Republic of",MRT,West Africa
-799,HWF_0002,Medical doctors (number),MRT,Mauritania,2010,547.0,547,"Mauritania, Islamic Republic of",MRT,West Africa
-800,HWF_0002,Medical doctors (number),MRT,Mauritania,2009,445.0,445,"Mauritania, Islamic Republic of",MRT,West Africa
-801,HWF_0002,Medical doctors (number),MRT,Mauritania,2004,313.0,313,"Mauritania, Islamic Republic of",MRT,West Africa
-802,HWF_0003,Generalist medical practitioners (number),MRT,Mauritania,2018,448.0,448,"Mauritania, Islamic Republic of",MRT,West Africa
-803,HWF_0003,Generalist medical practitioners (number),MRT,Mauritania,2010,338.0,338,"Mauritania, Islamic Republic of",MRT,West Africa
-804,HWF_0004,Specialist medical practitioners (number),MRT,Mauritania,2018,373.0,373,"Mauritania, Islamic Republic of",MRT,West Africa
-805,HWF_0004,Specialist medical practitioners (number),MRT,Mauritania,2010,209.0,209,"Mauritania, Islamic Republic of",MRT,West Africa
-806,HWF_0005,Medical doctors not further defined (number),MRT,Mauritania,2017,791.0,791,"Mauritania, Islamic Republic of",MRT,West Africa
-807,HWF_0005,Medical doctors not further defined (number),MRT,Mauritania,2015,692.0,692,"Mauritania, Islamic Republic of",MRT,West Africa
-808,HWF_0005,Medical doctors not further defined (number),MRT,Mauritania,2014,622.0,622,"Mauritania, Islamic Republic of",MRT,West Africa
-809,HWF_0005,Medical doctors not further defined (number),MRT,Mauritania,2009,445.0,445,"Mauritania, Islamic Republic of",MRT,West Africa
-810,HWF_0005,Medical doctors not further defined (number),MRT,Mauritania,2004,313.0,313,"Mauritania, Islamic Republic of",MRT,West Africa
 811,HWF_0001,"Medical doctors (per 10,000)",MUS,Mauritius,2020,27.13,27.13,"Mauritius, Republic of",MUS,East Africa
 812,HWF_0001,"Medical doctors (per 10,000)",MUS,Mauritius,2019,25.91,25.91,"Mauritius, Republic of",MUS,East Africa
 813,HWF_0001,"Medical doctors (per 10,000)",MUS,Mauritius,2018,18.9,18.9,"Mauritius, Republic of",MUS,East Africa
@@ -830,69 +269,12 @@
 829,HWF_0001,"Medical doctors (per 10,000)",MUS,Mauritius,2002,9.87,9.87,"Mauritius, Republic of",MUS,East Africa
 830,HWF_0001,"Medical doctors (per 10,000)",MUS,Mauritius,2001,9.27,9.27,"Mauritius, Republic of",MUS,East Africa
 831,HWF_0001,"Medical doctors (per 10,000)",MUS,Mauritius,2000,9.11,9.11,"Mauritius, Republic of",MUS,East Africa
-832,HWF_0002,Medical doctors (number),MUS,Mauritius,2020,3450.0,3450,"Mauritius, Republic of",MUS,East Africa
-833,HWF_0002,Medical doctors (number),MUS,Mauritius,2019,3290.0,3290,"Mauritius, Republic of",MUS,East Africa
-834,HWF_0002,Medical doctors (number),MUS,Mauritius,2018,2395.0,2395,"Mauritius, Republic of",MUS,East Africa
-835,HWF_0002,Medical doctors (number),MUS,Mauritius,2017,2927.0,2927,"Mauritius, Republic of",MUS,East Africa
-836,HWF_0002,Medical doctors (number),MUS,Mauritius,2016,2769.0,2769,"Mauritius, Republic of",MUS,East Africa
-837,HWF_0002,Medical doctors (number),MUS,Mauritius,2015,2550.0,2550,"Mauritius, Republic of",MUS,East Africa
-838,HWF_0002,Medical doctors (number),MUS,Mauritius,2014,2429.0,2429,"Mauritius, Republic of",MUS,East Africa
-839,HWF_0002,Medical doctors (number),MUS,Mauritius,2013,2046.0,2046,"Mauritius, Republic of",MUS,East Africa
-840,HWF_0002,Medical doctors (number),MUS,Mauritius,2012,1722.0,1722,"Mauritius, Republic of",MUS,East Africa
-841,HWF_0002,Medical doctors (number),MUS,Mauritius,2011,1810.0,1810,"Mauritius, Republic of",MUS,East Africa
-842,HWF_0002,Medical doctors (number),MUS,Mauritius,2010,1500.0,1500,"Mauritius, Republic of",MUS,East Africa
-843,HWF_0002,Medical doctors (number),MUS,Mauritius,2009,1475.0,1475,"Mauritius, Republic of",MUS,East Africa
-844,HWF_0002,Medical doctors (number),MUS,Mauritius,2008,1450.0,1450,"Mauritius, Republic of",MUS,East Africa
-845,HWF_0002,Medical doctors (number),MUS,Mauritius,2007,1425.0,1425,"Mauritius, Republic of",MUS,East Africa
-846,HWF_0002,Medical doctors (number),MUS,Mauritius,2006,1400.0,1400,"Mauritius, Republic of",MUS,East Africa
-847,HWF_0002,Medical doctors (number),MUS,Mauritius,2005,1342.0,1342,"Mauritius, Republic of",MUS,East Africa
-848,HWF_0002,Medical doctors (number),MUS,Mauritius,2004,1303.0,1303,"Mauritius, Republic of",MUS,East Africa
-849,HWF_0002,Medical doctors (number),MUS,Mauritius,2003,1173.0,1173,"Mauritius, Republic of",MUS,East Africa
-850,HWF_0002,Medical doctors (number),MUS,Mauritius,2002,1186.0,1186,"Mauritius, Republic of",MUS,East Africa
-851,HWF_0002,Medical doctors (number),MUS,Mauritius,2001,1107.0,1107,"Mauritius, Republic of",MUS,East Africa
-852,HWF_0002,Medical doctors (number),MUS,Mauritius,2000,1080.0,1080,"Mauritius, Republic of",MUS,East Africa
-853,HWF_0003,Generalist medical practitioners (number),MUS,Mauritius,2018,1188.0,1188,"Mauritius, Republic of",MUS,East Africa
-854,HWF_0004,Specialist medical practitioners (number),MUS,Mauritius,2018,1207.0,1207,"Mauritius, Republic of",MUS,East Africa
-855,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2020,3450.0,3450,"Mauritius, Republic of",MUS,East Africa
-856,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2019,3290.0,3290,"Mauritius, Republic of",MUS,East Africa
-857,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2017,2927.0,2927,"Mauritius, Republic of",MUS,East Africa
-858,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2016,2769.0,2769,"Mauritius, Republic of",MUS,East Africa
-859,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2015,2550.0,2550,"Mauritius, Republic of",MUS,East Africa
-860,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2014,2429.0,2429,"Mauritius, Republic of",MUS,East Africa
-861,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2013,2046.0,2046,"Mauritius, Republic of",MUS,East Africa
-862,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2012,1722.0,1722,"Mauritius, Republic of",MUS,East Africa
-863,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2011,1810.0,1810,"Mauritius, Republic of",MUS,East Africa
-864,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2010,1500.0,1500,"Mauritius, Republic of",MUS,East Africa
-865,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2009,1475.0,1475,"Mauritius, Republic of",MUS,East Africa
-866,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2008,1450.0,1450,"Mauritius, Republic of",MUS,East Africa
-867,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2007,1425.0,1425,"Mauritius, Republic of",MUS,East Africa
-868,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2006,1400.0,1400,"Mauritius, Republic of",MUS,East Africa
-869,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2005,1342.0,1342,"Mauritius, Republic of",MUS,East Africa
-870,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2004,1303.0,1303,"Mauritius, Republic of",MUS,East Africa
-871,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2003,1173.0,1173,"Mauritius, Republic of",MUS,East Africa
-872,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2002,1186.0,1186,"Mauritius, Republic of",MUS,East Africa
-873,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2001,1107.0,1107,"Mauritius, Republic of",MUS,East Africa
-874,HWF_0005,Medical doctors not further defined (number),MUS,Mauritius,2000,1080.0,1080,"Mauritius, Republic of",MUS,East Africa
 875,HWF_0001,"Medical doctors (per 10,000)",MAR,Morocco,2017,7.31,7.31,"Morocco, Kingdom of",MAR,North Africa
 876,HWF_0001,"Medical doctors (per 10,000)",MAR,Morocco,2014,9.14,9.14,"Morocco, Kingdom of",MAR,North Africa
 877,HWF_0001,"Medical doctors (per 10,000)",MAR,Morocco,2013,6.32,6.32,"Morocco, Kingdom of",MAR,North Africa
 878,HWF_0001,"Medical doctors (per 10,000)",MAR,Morocco,2009,6.48,6.48,"Morocco, Kingdom of",MAR,North Africa
 879,HWF_0001,"Medical doctors (per 10,000)",MAR,Morocco,2007,5.86,5.86,"Morocco, Kingdom of",MAR,North Africa
 880,HWF_0001,"Medical doctors (per 10,000)",MAR,Morocco,2004,5.31,5.31,"Morocco, Kingdom of",MAR,North Africa
-881,HWF_0002,Medical doctors (number),MAR,Morocco,2017,26003.0,26 003,"Morocco, Kingdom of",MAR,North Africa
-882,HWF_0002,Medical doctors (number),MAR,Morocco,2014,31235.0,31 235,"Morocco, Kingdom of",MAR,North Africa
-883,HWF_0002,Medical doctors (number),MAR,Morocco,2013,21309.0,21 309,"Morocco, Kingdom of",MAR,North Africa
-884,HWF_0002,Medical doctors (number),MAR,Morocco,2009,20682.0,20 682,"Morocco, Kingdom of",MAR,North Africa
-885,HWF_0002,Medical doctors (number),MAR,Morocco,2007,18269.0,18 269,"Morocco, Kingdom of",MAR,North Africa
-886,HWF_0002,Medical doctors (number),MAR,Morocco,2004,15991.0,15 991,"Morocco, Kingdom of",MAR,North Africa
-887,HWF_0003,Generalist medical practitioners (number),MAR,Morocco,2017,9094.0,9094,"Morocco, Kingdom of",MAR,North Africa
-888,HWF_0003,Generalist medical practitioners (number),MAR,Morocco,2014,10288.0,10 288,"Morocco, Kingdom of",MAR,North Africa
-889,HWF_0004,Specialist medical practitioners (number),MAR,Morocco,2017,16909.0,16 909,"Morocco, Kingdom of",MAR,North Africa
-890,HWF_0005,Medical doctors not further defined (number),MAR,Morocco,2014,20947.0,20 947,"Morocco, Kingdom of",MAR,North Africa
-891,HWF_0005,Medical doctors not further defined (number),MAR,Morocco,2013,21309.0,21 309,"Morocco, Kingdom of",MAR,North Africa
-892,HWF_0005,Medical doctors not further defined (number),MAR,Morocco,2009,20682.0,20 682,"Morocco, Kingdom of",MAR,North Africa
-893,HWF_0005,Medical doctors not further defined (number),MAR,Morocco,2007,18269.0,18 269,"Morocco, Kingdom of",MAR,North Africa
-894,HWF_0005,Medical doctors not further defined (number),MAR,Morocco,2004,15991.0,15 991,"Morocco, Kingdom of",MAR,North Africa
 895,HWF_0001,"Medical doctors (per 10,000)",MOZ,Mozambique,2020,0.85,0.85,"Mozambique, Republic of",MOZ,East Africa
 896,HWF_0001,"Medical doctors (per 10,000)",MOZ,Mozambique,2019,0.85,0.85,"Mozambique, Republic of",MOZ,East Africa
 897,HWF_0001,"Medical doctors (per 10,000)",MOZ,Mozambique,2018,0.84,0.84,"Mozambique, Republic of",MOZ,East Africa
@@ -904,45 +286,10 @@
 903,HWF_0001,"Medical doctors (per 10,000)",MOZ,Mozambique,2009,0.46,0.46,"Mozambique, Republic of",MOZ,East Africa
 904,HWF_0001,"Medical doctors (per 10,000)",MOZ,Mozambique,2006,0.26,0.26,"Mozambique, Republic of",MOZ,East Africa
 905,HWF_0001,"Medical doctors (per 10,000)",MOZ,Mozambique,2004,0.26,0.26,"Mozambique, Republic of",MOZ,East Africa
-906,HWF_0002,Medical doctors (number),MOZ,Mozambique,2020,2658.0,2658,"Mozambique, Republic of",MOZ,East Africa
-907,HWF_0002,Medical doctors (number),MOZ,Mozambique,2019,2570.0,2570,"Mozambique, Republic of",MOZ,East Africa
-908,HWF_0002,Medical doctors (number),MOZ,Mozambique,2018,2473.0,2473,"Mozambique, Republic of",MOZ,East Africa
-909,HWF_0002,Medical doctors (number),MOZ,Mozambique,2017,2180.0,2180,"Mozambique, Republic of",MOZ,East Africa
-910,HWF_0002,Medical doctors (number),MOZ,Mozambique,2013,1452.0,1452,"Mozambique, Republic of",MOZ,East Africa
-911,HWF_0002,Medical doctors (number),MOZ,Mozambique,2012,1358.0,1358,"Mozambique, Republic of",MOZ,East Africa
-912,HWF_0002,Medical doctors (number),MOZ,Mozambique,2011,1268.0,1268,"Mozambique, Republic of",MOZ,East Africa
-913,HWF_0002,Medical doctors (number),MOZ,Mozambique,2010,1145.0,1145,"Mozambique, Republic of",MOZ,East Africa
-914,HWF_0002,Medical doctors (number),MOZ,Mozambique,2009,1042.0,1042,"Mozambique, Republic of",MOZ,East Africa
-915,HWF_0002,Medical doctors (number),MOZ,Mozambique,2006,548.0,548,"Mozambique, Republic of",MOZ,East Africa
-916,HWF_0002,Medical doctors (number),MOZ,Mozambique,2004,514.0,514,"Mozambique, Republic of",MOZ,East Africa
-917,HWF_0003,Generalist medical practitioners (number),MOZ,Mozambique,2020,1740.0,1740,"Mozambique, Republic of",MOZ,East Africa
-918,HWF_0003,Generalist medical practitioners (number),MOZ,Mozambique,2019,1715.0,1715,"Mozambique, Republic of",MOZ,East Africa
-919,HWF_0003,Generalist medical practitioners (number),MOZ,Mozambique,2018,1695.0,1695,"Mozambique, Republic of",MOZ,East Africa
-920,HWF_0003,Generalist medical practitioners (number),MOZ,Mozambique,2017,1555.0,1555,"Mozambique, Republic of",MOZ,East Africa
-921,HWF_0004,Specialist medical practitioners (number),MOZ,Mozambique,2020,918.0,918,"Mozambique, Republic of",MOZ,East Africa
-922,HWF_0004,Specialist medical practitioners (number),MOZ,Mozambique,2019,855.0,855,"Mozambique, Republic of",MOZ,East Africa
-923,HWF_0004,Specialist medical practitioners (number),MOZ,Mozambique,2018,778.0,778,"Mozambique, Republic of",MOZ,East Africa
-924,HWF_0004,Specialist medical practitioners (number),MOZ,Mozambique,2017,625.0,625,"Mozambique, Republic of",MOZ,East Africa
-925,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2013,1452.0,1452,"Mozambique, Republic of",MOZ,East Africa
-926,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2012,1358.0,1358,"Mozambique, Republic of",MOZ,East Africa
-927,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2011,1268.0,1268,"Mozambique, Republic of",MOZ,East Africa
-928,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2010,1145.0,1145,"Mozambique, Republic of",MOZ,East Africa
-929,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2009,1042.0,1042,"Mozambique, Republic of",MOZ,East Africa
-930,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2006,548.0,548,"Mozambique, Republic of",MOZ,East Africa
-931,HWF_0005,Medical doctors not further defined (number),MOZ,Mozambique,2004,514.0,514,"Mozambique, Republic of",MOZ,East Africa
 932,HWF_0001,"Medical doctors (per 10,000)",NAM,Namibia,2018,5.9,5.9,"Namibia, Republic of",NAM,Southern Africa
 933,HWF_0001,"Medical doctors (per 10,000)",NAM,Namibia,2017,5.91,5.91,"Namibia, Republic of",NAM,Southern Africa
 934,HWF_0001,"Medical doctors (per 10,000)",NAM,Namibia,2007,3.86,3.86,"Namibia, Republic of",NAM,Southern Africa
 935,HWF_0001,"Medical doctors (per 10,000)",NAM,Namibia,2004,3.14,3.14,"Namibia, Republic of",NAM,Southern Africa
-936,HWF_0002,Medical doctors (number),NAM,Namibia,2018,1445.0,1445,"Namibia, Republic of",NAM,Southern Africa
-937,HWF_0002,Medical doctors (number),NAM,Namibia,2017,1421.0,1421,"Namibia, Republic of",NAM,Southern Africa
-938,HWF_0002,Medical doctors (number),NAM,Namibia,2007,774.0,774,"Namibia, Republic of",NAM,Southern Africa
-939,HWF_0002,Medical doctors (number),NAM,Namibia,2004,598.0,598,"Namibia, Republic of",NAM,Southern Africa
-940,HWF_0003,Generalist medical practitioners (number),NAM,Namibia,2018,1044.0,1044,"Namibia, Republic of",NAM,Southern Africa
-941,HWF_0004,Specialist medical practitioners (number),NAM,Namibia,2018,401.0,401,"Namibia, Republic of",NAM,Southern Africa
-942,HWF_0005,Medical doctors not further defined (number),NAM,Namibia,2017,1421.0,1421,"Namibia, Republic of",NAM,Southern Africa
-943,HWF_0005,Medical doctors not further defined (number),NAM,Namibia,2007,774.0,774,"Namibia, Republic of",NAM,Southern Africa
-944,HWF_0005,Medical doctors not further defined (number),NAM,Namibia,2004,598.0,598,"Namibia, Republic of",NAM,Southern Africa
 945,HWF_0001,"Medical doctors (per 10,000)",NER,Niger,2020,0.35,0.35,"Niger, Republic of",NER,West Africa
 946,HWF_0001,"Medical doctors (per 10,000)",NER,Niger,2019,0.38,0.38,"Niger, Republic of",NER,West Africa
 947,HWF_0001,"Medical doctors (per 10,000)",NER,Niger,2018,0.16,0.16,"Niger, Republic of",NER,West Africa
@@ -955,30 +302,6 @@
 954,HWF_0001,"Medical doctors (per 10,000)",NER,Niger,2009,0.28,0.28,"Niger, Republic of",NER,West Africa
 955,HWF_0001,"Medical doctors (per 10,000)",NER,Niger,2008,0.19,0.19,"Niger, Republic of",NER,West Africa
 956,HWF_0001,"Medical doctors (per 10,000)",NER,Niger,2004,0.23,0.23,"Niger, Republic of",NER,West Africa
-957,HWF_0002,Medical doctors (number),NER,Niger,2020,835.0,835,"Niger, Republic of",NER,West Africa
-958,HWF_0002,Medical doctors (number),NER,Niger,2019,888.0,888,"Niger, Republic of",NER,West Africa
-959,HWF_0002,Medical doctors (number),NER,Niger,2018,364.0,364,"Niger, Republic of",NER,West Africa
-960,HWF_0002,Medical doctors (number),NER,Niger,2017,472.0,472,"Niger, Republic of",NER,West Africa
-961,HWF_0002,Medical doctors (number),NER,Niger,2016,681.0,681,"Niger, Republic of",NER,West Africa
-962,HWF_0002,Medical doctors (number),NER,Niger,2015,634.0,634,"Niger, Republic of",NER,West Africa
-963,HWF_0002,Medical doctors (number),NER,Niger,2014,523.0,523,"Niger, Republic of",NER,West Africa
-964,HWF_0002,Medical doctors (number),NER,Niger,2013,946.0,946,"Niger, Republic of",NER,West Africa
-965,HWF_0002,Medical doctors (number),NER,Niger,2012,952.0,952,"Niger, Republic of",NER,West Africa
-966,HWF_0002,Medical doctors (number),NER,Niger,2009,439.0,439,"Niger, Republic of",NER,West Africa
-967,HWF_0002,Medical doctors (number),NER,Niger,2008,288.0,288,"Niger, Republic of",NER,West Africa
-968,HWF_0002,Medical doctors (number),NER,Niger,2004,296.0,296,"Niger, Republic of",NER,West Africa
-969,HWF_0005,Medical doctors not further defined (number),NER,Niger,2020,835.0,835,"Niger, Republic of",NER,West Africa
-970,HWF_0005,Medical doctors not further defined (number),NER,Niger,2019,888.0,888,"Niger, Republic of",NER,West Africa
-971,HWF_0005,Medical doctors not further defined (number),NER,Niger,2018,364.0,364,"Niger, Republic of",NER,West Africa
-972,HWF_0005,Medical doctors not further defined (number),NER,Niger,2017,472.0,472,"Niger, Republic of",NER,West Africa
-973,HWF_0005,Medical doctors not further defined (number),NER,Niger,2016,681.0,681,"Niger, Republic of",NER,West Africa
-974,HWF_0005,Medical doctors not further defined (number),NER,Niger,2015,634.0,634,"Niger, Republic of",NER,West Africa
-975,HWF_0005,Medical doctors not further defined (number),NER,Niger,2014,523.0,523,"Niger, Republic of",NER,West Africa
-976,HWF_0005,Medical doctors not further defined (number),NER,Niger,2013,946.0,946,"Niger, Republic of",NER,West Africa
-977,HWF_0005,Medical doctors not further defined (number),NER,Niger,2012,952.0,952,"Niger, Republic of",NER,West Africa
-978,HWF_0005,Medical doctors not further defined (number),NER,Niger,2009,439.0,439,"Niger, Republic of",NER,West Africa
-979,HWF_0005,Medical doctors not further defined (number),NER,Niger,2008,288.0,288,"Niger, Republic of",NER,West Africa
-980,HWF_0005,Medical doctors not further defined (number),NER,Niger,2004,296.0,296,"Niger, Republic of",NER,West Africa
 981,HWF_0001,"Medical doctors (per 10,000)",NGA,Nigeria,2018,3.81,3.81,"Nigeria, Federal Republic of",NGA,West Africa
 982,HWF_0001,"Medical doctors (per 10,000)",NGA,Nigeria,2016,4.49,4.49,"Nigeria, Federal Republic of",NGA,West Africa
 983,HWF_0001,"Medical doctors (per 10,000)",NGA,Nigeria,2013,3.83,3.83,"Nigeria, Federal Republic of",NGA,West Africa
@@ -988,25 +311,6 @@
 987,HWF_0001,"Medical doctors (per 10,000)",NGA,Nigeria,2006,3.48,3.48,"Nigeria, Federal Republic of",NGA,West Africa
 988,HWF_0001,"Medical doctors (per 10,000)",NGA,Nigeria,2005,2.82,2.82,"Nigeria, Federal Republic of",NGA,West Africa
 989,HWF_0001,"Medical doctors (per 10,000)",NGA,Nigeria,2003,2.65,2.65,"Nigeria, Federal Republic of",NGA,West Africa
-990,HWF_0002,Medical doctors (number),NGA,Nigeria,2018,74543.0,74 543,"Nigeria, Federal Republic of",NGA,West Africa
-991,HWF_0002,Medical doctors (number),NGA,Nigeria,2016,83565.0,83 565,"Nigeria, Federal Republic of",NGA,West Africa
-992,HWF_0002,Medical doctors (number),NGA,Nigeria,2013,65759.0,65 759,"Nigeria, Federal Republic of",NGA,West Africa
-993,HWF_0002,Medical doctors (number),NGA,Nigeria,2009,58363.0,58 363,"Nigeria, Federal Republic of",NGA,West Africa
-994,HWF_0002,Medical doctors (number),NGA,Nigeria,2008,56526.0,56 526,"Nigeria, Federal Republic of",NGA,West Africa
-995,HWF_0002,Medical doctors (number),NGA,Nigeria,2007,55376.0,55 376,"Nigeria, Federal Republic of",NGA,West Africa
-996,HWF_0002,Medical doctors (number),NGA,Nigeria,2006,49612.0,49 612,"Nigeria, Federal Republic of",NGA,West Africa
-997,HWF_0002,Medical doctors (number),NGA,Nigeria,2005,39210.0,39 210,"Nigeria, Federal Republic of",NGA,West Africa
-998,HWF_0002,Medical doctors (number),NGA,Nigeria,2003,34923.0,34 923,"Nigeria, Federal Republic of",NGA,West Africa
-999,HWF_0003,Generalist medical practitioners (number),NGA,Nigeria,2018,71508.0,71 508,"Nigeria, Federal Republic of",NGA,West Africa
-1000,HWF_0004,Specialist medical practitioners (number),NGA,Nigeria,2018,3035.0,3035,"Nigeria, Federal Republic of",NGA,West Africa
-1001,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2016,83565.0,83 565,"Nigeria, Federal Republic of",NGA,West Africa
-1002,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2013,65759.0,65 759,"Nigeria, Federal Republic of",NGA,West Africa
-1003,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2009,58363.0,58 363,"Nigeria, Federal Republic of",NGA,West Africa
-1004,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2008,56526.0,56 526,"Nigeria, Federal Republic of",NGA,West Africa
-1005,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2007,55376.0,55 376,"Nigeria, Federal Republic of",NGA,West Africa
-1006,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2006,49612.0,49 612,"Nigeria, Federal Republic of",NGA,West Africa
-1007,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2005,39210.0,39 210,"Nigeria, Federal Republic of",NGA,West Africa
-1008,HWF_0005,Medical doctors not further defined (number),NGA,Nigeria,2003,34923.0,34 923,"Nigeria, Federal Republic of",NGA,West Africa
 1009,HWF_0001,"Medical doctors (per 10,000)",GNB,Guinea-Bissau,2020,1.96,1.96,"Guinea-Bissau, Republic of",GNB,West Africa
 1010,HWF_0001,"Medical doctors (per 10,000)",GNB,Guinea-Bissau,2018,1.7,1.7,"Guinea-Bissau, Republic of",GNB,West Africa
 1011,HWF_0001,"Medical doctors (per 10,000)",GNB,Guinea-Bissau,2016,1.27,1.27,"Guinea-Bissau, Republic of",GNB,West Africa
@@ -1015,26 +319,6 @@
 1014,HWF_0001,"Medical doctors (per 10,000)",GNB,Guinea-Bissau,2009,0.84,0.84,"Guinea-Bissau, Republic of",GNB,West Africa
 1015,HWF_0001,"Medical doctors (per 10,000)",GNB,Guinea-Bissau,2008,0.54,0.54,"Guinea-Bissau, Republic of",GNB,West Africa
 1016,HWF_0001,"Medical doctors (per 10,000)",GNB,Guinea-Bissau,2004,1.43,1.43,"Guinea-Bissau, Republic of",GNB,West Africa
-1017,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2020,385.0,385,"Guinea-Bissau, Republic of",GNB,West Africa
-1018,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2018,318.0,318,"Guinea-Bissau, Republic of",GNB,West Africa
-1019,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2016,227.0,227,"Guinea-Bissau, Republic of",GNB,West Africa
-1020,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2015,354.0,354,"Guinea-Bissau, Republic of",GNB,West Africa
-1021,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2011,100.0,100,"Guinea-Bissau, Republic of",GNB,West Africa
-1022,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2009,124.0,124,"Guinea-Bissau, Republic of",GNB,West Africa
-1023,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2008,78.0,78,"Guinea-Bissau, Republic of",GNB,West Africa
-1024,HWF_0002,Medical doctors (number),GNB,Guinea-Bissau,2004,188.0,188,"Guinea-Bissau, Republic of",GNB,West Africa
-1025,HWF_0003,Generalist medical practitioners (number),GNB,Guinea-Bissau,2020,375.0,375,"Guinea-Bissau, Republic of",GNB,West Africa
-1026,HWF_0003,Generalist medical practitioners (number),GNB,Guinea-Bissau,2018,290.0,290,"Guinea-Bissau, Republic of",GNB,West Africa
-1027,HWF_0003,Generalist medical practitioners (number),GNB,Guinea-Bissau,2016,197.0,197,"Guinea-Bissau, Republic of",GNB,West Africa
-1028,HWF_0004,Specialist medical practitioners (number),GNB,Guinea-Bissau,2020,10.0,10,"Guinea-Bissau, Republic of",GNB,West Africa
-1029,HWF_0004,Specialist medical practitioners (number),GNB,Guinea-Bissau,2018,28.0,28,"Guinea-Bissau, Republic of",GNB,West Africa
-1030,HWF_0004,Specialist medical practitioners (number),GNB,Guinea-Bissau,2016,30.0,30,"Guinea-Bissau, Republic of",GNB,West Africa
-1031,HWF_0005,Medical doctors not further defined (number),GNB,Guinea-Bissau,2020,0.0,0,"Guinea-Bissau, Republic of",GNB,West Africa
-1032,HWF_0005,Medical doctors not further defined (number),GNB,Guinea-Bissau,2015,354.0,354,"Guinea-Bissau, Republic of",GNB,West Africa
-1033,HWF_0005,Medical doctors not further defined (number),GNB,Guinea-Bissau,2011,100.0,100,"Guinea-Bissau, Republic of",GNB,West Africa
-1034,HWF_0005,Medical doctors not further defined (number),GNB,Guinea-Bissau,2009,124.0,124,"Guinea-Bissau, Republic of",GNB,West Africa
-1035,HWF_0005,Medical doctors not further defined (number),GNB,Guinea-Bissau,2008,78.0,78,"Guinea-Bissau, Republic of",GNB,West Africa
-1036,HWF_0005,Medical doctors not further defined (number),GNB,Guinea-Bissau,2004,188.0,188,"Guinea-Bissau, Republic of",GNB,West Africa
 1038,HWF_0001,"Medical doctors (per 10,000)",RWA,Rwanda,2019,1.18,1.18,"Rwanda, Republic of",RWA,East Africa
 1039,HWF_0001,"Medical doctors (per 10,000)",RWA,Rwanda,2018,1.34,1.34,"Rwanda, Republic of",RWA,East Africa
 1040,HWF_0001,"Medical doctors (per 10,000)",RWA,Rwanda,2017,1.38,1.38,"Rwanda, Republic of",RWA,East Africa
@@ -1042,36 +326,9 @@
 1042,HWF_0001,"Medical doctors (per 10,000)",RWA,Rwanda,2015,1.13,1.13,"Rwanda, Republic of",RWA,East Africa
 1043,HWF_0001,"Medical doctors (per 10,000)",RWA,Rwanda,2014,0.91,0.91,"Rwanda, Republic of",RWA,East Africa
 1044,HWF_0001,"Medical doctors (per 10,000)",RWA,Rwanda,2013,1.02,1.02,"Rwanda, Republic of",RWA,East Africa
-1045,HWF_0002,Medical doctors (number),RWA,Rwanda,2019,1492.0,1492,"Rwanda, Republic of",RWA,East Africa
-1046,HWF_0002,Medical doctors (number),RWA,Rwanda,2018,1648.0,1648,"Rwanda, Republic of",RWA,East Africa
-1047,HWF_0002,Medical doctors (number),RWA,Rwanda,2017,1648.0,1648,"Rwanda, Republic of",RWA,East Africa
-1048,HWF_0002,Medical doctors (number),RWA,Rwanda,2016,1431.0,1431,"Rwanda, Republic of",RWA,East Africa
-1049,HWF_0002,Medical doctors (number),RWA,Rwanda,2015,1284.0,1284,"Rwanda, Republic of",RWA,East Africa
-1050,HWF_0002,Medical doctors (number),RWA,Rwanda,2014,1008.0,1008,"Rwanda, Republic of",RWA,East Africa
-1051,HWF_0002,Medical doctors (number),RWA,Rwanda,2013,1104.0,1104,"Rwanda, Republic of",RWA,East Africa
-1052,HWF_0003,Generalist medical practitioners (number),RWA,Rwanda,2018,1114.0,1114,"Rwanda, Republic of",RWA,East Africa
-1053,HWF_0003,Generalist medical practitioners (number),RWA,Rwanda,2017,1114.0,1114,"Rwanda, Republic of",RWA,East Africa
-1054,HWF_0003,Generalist medical practitioners (number),RWA,Rwanda,2016,1107.0,1107,"Rwanda, Republic of",RWA,East Africa
-1055,HWF_0003,Generalist medical practitioners (number),RWA,Rwanda,2015,1042.0,1042,"Rwanda, Republic of",RWA,East Africa
-1056,HWF_0003,Generalist medical practitioners (number),RWA,Rwanda,2014,834.0,834,"Rwanda, Republic of",RWA,East Africa
-1057,HWF_0003,Generalist medical practitioners (number),RWA,Rwanda,2013,609.0,609,"Rwanda, Republic of",RWA,East Africa
-1058,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2018,534.0,534,"Rwanda, Republic of",RWA,East Africa
-1059,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2017,534.0,534,"Rwanda, Republic of",RWA,East Africa
-1060,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2016,324.0,324,"Rwanda, Republic of",RWA,East Africa
-1061,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2015,242.0,242,"Rwanda, Republic of",RWA,East Africa
-1062,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2014,174.0,174,"Rwanda, Republic of",RWA,East Africa
-1063,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2013,495.0,495,"Rwanda, Republic of",RWA,East Africa
-1064,HWF_0004,Specialist medical practitioners (number),RWA,Rwanda,2011,133.0,133,"Rwanda, Republic of",RWA,East Africa
-1065,HWF_0005,Medical doctors not further defined (number),RWA,Rwanda,2019,1492.0,1492,"Rwanda, Republic of",RWA,East Africa
 1067,HWF_0001,"Medical doctors (per 10,000)",STP,Sao Tome and Principe,2019,4.88,4.88,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
 1068,HWF_0001,"Medical doctors (per 10,000)",STP,Sao Tome and Principe,2015,3.16,3.16,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
 1069,HWF_0001,"Medical doctors (per 10,000)",STP,Sao Tome and Principe,2004,5.27,5.27,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
-1070,HWF_0002,Medical doctors (number),STP,Sao Tome and Principe,2019,105.0,105,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
-1071,HWF_0002,Medical doctors (number),STP,Sao Tome and Principe,2015,63.0,63,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
-1072,HWF_0002,Medical doctors (number),STP,Sao Tome and Principe,2004,81.0,81,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
-1073,HWF_0005,Medical doctors not further defined (number),STP,Sao Tome and Principe,2019,105.0,105,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
-1074,HWF_0005,Medical doctors not further defined (number),STP,Sao Tome and Principe,2015,63.0,63,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
-1075,HWF_0005,Medical doctors not further defined (number),STP,Sao Tome and Principe,2004,81.0,81,"Sao Tome and Principe, Democratic Republic of",STP,Central Africa
 1076,HWF_0001,"Medical doctors (per 10,000)",SEN,Senegal,2019,0.88,0.88,"Senegal, Republic of",SEN,West Africa
 1077,HWF_0001,"Medical doctors (per 10,000)",SEN,Senegal,2017,0.69,0.69,"Senegal, Republic of",SEN,West Africa
 1078,HWF_0001,"Medical doctors (per 10,000)",SEN,Senegal,2016,0.77,0.77,"Senegal, Republic of",SEN,West Africa
@@ -1079,24 +336,6 @@
 1080,HWF_0001,"Medical doctors (per 10,000)",SEN,Senegal,2013,3.18,3.18,"Senegal, Republic of",SEN,West Africa
 1081,HWF_0001,"Medical doctors (per 10,000)",SEN,Senegal,2008,0.62,0.62,"Senegal, Republic of",SEN,West Africa
 1082,HWF_0001,"Medical doctors (per 10,000)",SEN,Senegal,2004,0.55,0.55,"Senegal, Republic of",SEN,West Africa
-1083,HWF_0002,Medical doctors (number),SEN,Senegal,2019,1435.0,1435,"Senegal, Republic of",SEN,West Africa
-1084,HWF_0002,Medical doctors (number),SEN,Senegal,2017,1066.0,1066,"Senegal, Republic of",SEN,West Africa
-1085,HWF_0002,Medical doctors (number),SEN,Senegal,2016,1154.0,1154,"Senegal, Republic of",SEN,West Africa
-1086,HWF_0002,Medical doctors (number),SEN,Senegal,2015,3023.0,3023,"Senegal, Republic of",SEN,West Africa
-1087,HWF_0002,Medical doctors (number),SEN,Senegal,2013,4381.0,4381,"Senegal, Republic of",SEN,West Africa
-1088,HWF_0002,Medical doctors (number),SEN,Senegal,2008,741.0,741,"Senegal, Republic of",SEN,West Africa
-1089,HWF_0002,Medical doctors (number),SEN,Senegal,2004,594.0,594,"Senegal, Republic of",SEN,West Africa
-1090,HWF_0003,Generalist medical practitioners (number),SEN,Senegal,2019,353.0,353,"Senegal, Republic of",SEN,West Africa
-1091,HWF_0003,Generalist medical practitioners (number),SEN,Senegal,2016,267.0,267,"Senegal, Republic of",SEN,West Africa
-1092,HWF_0003,Generalist medical practitioners (number),SEN,Senegal,2013,1116.0,1116,"Senegal, Republic of",SEN,West Africa
-1093,HWF_0004,Specialist medical practitioners (number),SEN,Senegal,2019,1082.0,1082,"Senegal, Republic of",SEN,West Africa
-1094,HWF_0004,Specialist medical practitioners (number),SEN,Senegal,2016,887.0,887,"Senegal, Republic of",SEN,West Africa
-1095,HWF_0004,Specialist medical practitioners (number),SEN,Senegal,2013,3265.0,3265,"Senegal, Republic of",SEN,West Africa
-1096,HWF_0005,Medical doctors not further defined (number),SEN,Senegal,2019,0.0,0,"Senegal, Republic of",SEN,West Africa
-1097,HWF_0005,Medical doctors not further defined (number),SEN,Senegal,2017,1066.0,1066,"Senegal, Republic of",SEN,West Africa
-1098,HWF_0005,Medical doctors not further defined (number),SEN,Senegal,2015,3023.0,3023,"Senegal, Republic of",SEN,West Africa
-1099,HWF_0005,Medical doctors not further defined (number),SEN,Senegal,2008,741.0,741,"Senegal, Republic of",SEN,West Africa
-1100,HWF_0005,Medical doctors not further defined (number),SEN,Senegal,2004,594.0,594,"Senegal, Republic of",SEN,West Africa
 1101,HWF_0001,"Medical doctors (per 10,000)",SYC,Seychelles,2019,22.52,22.52,"Seychelles, Republic of",SYC,East Africa
 1102,HWF_0001,"Medical doctors (per 10,000)",SYC,Seychelles,2018,24.72,24.72,"Seychelles, Republic of",SYC,East Africa
 1103,HWF_0001,"Medical doctors (per 10,000)",SYC,Seychelles,2016,21.21,21.21,"Seychelles, Republic of",SYC,East Africa
@@ -1109,71 +348,18 @@
 1110,HWF_0001,"Medical doctors (per 10,000)",SYC,Seychelles,2006,8.38,8.38,"Seychelles, Republic of",SYC,East Africa
 1111,HWF_0001,"Medical doctors (per 10,000)",SYC,Seychelles,2005,11.73,11.73,"Seychelles, Republic of",SYC,East Africa
 1112,HWF_0001,"Medical doctors (per 10,000)",SYC,Seychelles,2004,13.84,13.84,"Seychelles, Republic of",SYC,East Africa
-1113,HWF_0002,Medical doctors (number),SYC,Seychelles,2019,220.0,220,"Seychelles, Republic of",SYC,East Africa
-1114,HWF_0002,Medical doctors (number),SYC,Seychelles,2018,240.0,240,"Seychelles, Republic of",SYC,East Africa
-1115,HWF_0002,Medical doctors (number),SYC,Seychelles,2016,203.0,203,"Seychelles, Republic of",SYC,East Africa
-1116,HWF_0002,Medical doctors (number),SYC,Seychelles,2012,93.0,93,"Seychelles, Republic of",SYC,East Africa
-1117,HWF_0002,Medical doctors (number),SYC,Seychelles,2011,107.0,107,"Seychelles, Republic of",SYC,East Africa
-1118,HWF_0002,Medical doctors (number),SYC,Seychelles,2010,100.0,100,"Seychelles, Republic of",SYC,East Africa
-1119,HWF_0002,Medical doctors (number),SYC,Seychelles,2009,103.0,103,"Seychelles, Republic of",SYC,East Africa
-1120,HWF_0002,Medical doctors (number),SYC,Seychelles,2008,70.0,70,"Seychelles, Republic of",SYC,East Africa
-1121,HWF_0002,Medical doctors (number),SYC,Seychelles,2007,91.0,91,"Seychelles, Republic of",SYC,East Africa
-1122,HWF_0002,Medical doctors (number),SYC,Seychelles,2006,75.0,75,"Seychelles, Republic of",SYC,East Africa
-1123,HWF_0002,Medical doctors (number),SYC,Seychelles,2005,104.0,104,"Seychelles, Republic of",SYC,East Africa
-1124,HWF_0002,Medical doctors (number),SYC,Seychelles,2004,121.0,121,"Seychelles, Republic of",SYC,East Africa
-1125,HWF_0003,Generalist medical practitioners (number),SYC,Seychelles,2018,125.0,125,"Seychelles, Republic of",SYC,East Africa
-1126,HWF_0003,Generalist medical practitioners (number),SYC,Seychelles,2016,82.0,82,"Seychelles, Republic of",SYC,East Africa
-1127,HWF_0004,Specialist medical practitioners (number),SYC,Seychelles,2018,115.0,115,"Seychelles, Republic of",SYC,East Africa
-1128,HWF_0004,Specialist medical practitioners (number),SYC,Seychelles,2016,121.0,121,"Seychelles, Republic of",SYC,East Africa
-1129,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2019,220.0,220,"Seychelles, Republic of",SYC,East Africa
-1130,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2012,93.0,93,"Seychelles, Republic of",SYC,East Africa
-1131,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2011,107.0,107,"Seychelles, Republic of",SYC,East Africa
-1132,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2010,100.0,100,"Seychelles, Republic of",SYC,East Africa
-1133,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2009,103.0,103,"Seychelles, Republic of",SYC,East Africa
-1134,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2008,70.0,70,"Seychelles, Republic of",SYC,East Africa
-1135,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2007,91.0,91,"Seychelles, Republic of",SYC,East Africa
-1136,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2006,75.0,75,"Seychelles, Republic of",SYC,East Africa
-1137,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2005,104.0,104,"Seychelles, Republic of",SYC,East Africa
-1138,HWF_0005,Medical doctors not further defined (number),SYC,Seychelles,2004,121.0,121,"Seychelles, Republic of",SYC,East Africa
 1139,HWF_0001,"Medical doctors (per 10,000)",SLE,Sierra Leone,2018,0.74,0.74,"Sierra Leone, Republic of",SLE,West Africa
 1140,HWF_0001,"Medical doctors (per 10,000)",SLE,Sierra Leone,2011,0.25,0.25,"Sierra Leone, Republic of",SLE,West Africa
 1141,HWF_0001,"Medical doctors (per 10,000)",SLE,Sierra Leone,2010,0.21,0.21,"Sierra Leone, Republic of",SLE,West Africa
 1142,HWF_0001,"Medical doctors (per 10,000)",SLE,Sierra Leone,2008,0.16,0.16,"Sierra Leone, Republic of",SLE,West Africa
 1143,HWF_0001,"Medical doctors (per 10,000)",SLE,Sierra Leone,2004,0.31,0.31,"Sierra Leone, Republic of",SLE,West Africa
-1144,HWF_0002,Medical doctors (number),SLE,Sierra Leone,2018,566.0,566,"Sierra Leone, Republic of",SLE,West Africa
-1145,HWF_0002,Medical doctors (number),SLE,Sierra Leone,2011,165.0,165,"Sierra Leone, Republic of",SLE,West Africa
-1146,HWF_0002,Medical doctors (number),SLE,Sierra Leone,2010,136.0,136,"Sierra Leone, Republic of",SLE,West Africa
-1147,HWF_0002,Medical doctors (number),SLE,Sierra Leone,2008,95.0,95,"Sierra Leone, Republic of",SLE,West Africa
-1148,HWF_0002,Medical doctors (number),SLE,Sierra Leone,2004,168.0,168,"Sierra Leone, Republic of",SLE,West Africa
-1149,HWF_0003,Generalist medical practitioners (number),SLE,Sierra Leone,2018,500.0,500,"Sierra Leone, Republic of",SLE,West Africa
-1150,HWF_0003,Generalist medical practitioners (number),SLE,Sierra Leone,2011,79.0,79,"Sierra Leone, Republic of",SLE,West Africa
-1151,HWF_0004,Specialist medical practitioners (number),SLE,Sierra Leone,2018,66.0,66,"Sierra Leone, Republic of",SLE,West Africa
-1152,HWF_0004,Specialist medical practitioners (number),SLE,Sierra Leone,2011,86.0,86,"Sierra Leone, Republic of",SLE,West Africa
-1153,HWF_0005,Medical doctors not further defined (number),SLE,Sierra Leone,2010,136.0,136,"Sierra Leone, Republic of",SLE,West Africa
-1154,HWF_0005,Medical doctors not further defined (number),SLE,Sierra Leone,2008,95.0,95,"Sierra Leone, Republic of",SLE,West Africa
-1155,HWF_0005,Medical doctors not further defined (number),SLE,Sierra Leone,2004,168.0,168,"Sierra Leone, Republic of",SLE,West Africa
 1156,HWF_0001,"Medical doctors (per 10,000)",SOM,Somalia,2014,0.23,0.23,"Somalia, Somali Republic",SOM,East Africa
 1157,HWF_0001,"Medical doctors (per 10,000)",SOM,Somalia,2006,0.28,0.28,"Somalia, Somali Republic",SOM,East Africa
-1158,HWF_0002,Medical doctors (number),SOM,Somalia,2014,309.0,309,"Somalia, Somali Republic",SOM,East Africa
-1159,HWF_0002,Medical doctors (number),SOM,Somalia,2006,300.0,300,"Somalia, Somali Republic",SOM,East Africa
-1160,HWF_0005,Medical doctors not further defined (number),SOM,Somalia,2014,309.0,309,"Somalia, Somali Republic",SOM,East Africa
-1161,HWF_0005,Medical doctors not further defined (number),SOM,Somalia,2006,300.0,300,"Somalia, Somali Republic",SOM,East Africa
 1162,HWF_0001,"Medical doctors (per 10,000)",ZAF,South Africa,2019,7.92,7.92,"South Africa, Republic of",ZAF,Southern Africa
 1163,HWF_0001,"Medical doctors (per 10,000)",ZAF,South Africa,2018,7.53,7.53,"South Africa, Republic of",ZAF,Southern Africa
 1164,HWF_0001,"Medical doctors (per 10,000)",ZAF,South Africa,2017,7.83,7.83,"South Africa, Republic of",ZAF,Southern Africa
 1165,HWF_0001,"Medical doctors (per 10,000)",ZAF,South Africa,2016,7.68,7.68,"South Africa, Republic of",ZAF,Southern Africa
 1166,HWF_0001,"Medical doctors (per 10,000)",ZAF,South Africa,2004,7.37,7.37,"South Africa, Republic of",ZAF,Southern Africa
-1167,HWF_0002,Medical doctors (number),ZAF,South Africa,2019,46393.0,46 393,"South Africa, Republic of",ZAF,Southern Africa
-1168,HWF_0002,Medical doctors (number),ZAF,South Africa,2018,43503.0,43 503,"South Africa, Republic of",ZAF,Southern Africa
-1169,HWF_0002,Medical doctors (number),ZAF,South Africa,2017,44653.0,44 653,"South Africa, Republic of",ZAF,Southern Africa
-1170,HWF_0002,Medical doctors (number),ZAF,South Africa,2016,43141.0,43 141,"South Africa, Republic of",ZAF,Southern Africa
-1171,HWF_0002,Medical doctors (number),ZAF,South Africa,2004,34829.0,34 829,"South Africa, Republic of",ZAF,Southern Africa
-1172,HWF_0003,Generalist medical practitioners (number),ZAF,South Africa,2018,29311.0,29 311,"South Africa, Republic of",ZAF,Southern Africa
-1173,HWF_0004,Specialist medical practitioners (number),ZAF,South Africa,2018,14192.0,14 192,"South Africa, Republic of",ZAF,Southern Africa
-1174,HWF_0005,Medical doctors not further defined (number),ZAF,South Africa,2019,46393.0,46 393,"South Africa, Republic of",ZAF,Southern Africa
-1175,HWF_0005,Medical doctors not further defined (number),ZAF,South Africa,2017,44653.0,44 653,"South Africa, Republic of",ZAF,Southern Africa
-1176,HWF_0005,Medical doctors not further defined (number),ZAF,South Africa,2016,43141.0,43 141,"South Africa, Republic of",ZAF,Southern Africa
-1177,HWF_0005,Medical doctors not further defined (number),ZAF,South Africa,2004,34829.0,34 829,"South Africa, Republic of",ZAF,Southern Africa
 1178,HWF_0001,"Medical doctors (per 10,000)",ZWE,Zimbabwe,2020,1.99,1.99,"Zimbabwe, Republic of",ZWE,East Africa
 1179,HWF_0001,"Medical doctors (per 10,000)",ZWE,Zimbabwe,2018,2.1,2.1,"Zimbabwe, Republic of",ZWE,East Africa
 1180,HWF_0001,"Medical doctors (per 10,000)",ZWE,Zimbabwe,2017,1.86,1.86,"Zimbabwe, Republic of",ZWE,East Africa
@@ -1192,83 +378,13 @@
 1193,HWF_0001,"Medical doctors (per 10,000)",ZWE,Zimbabwe,2000,1.26,1.26,"Zimbabwe, Republic of",ZWE,East Africa
 1194,HWF_0001,"Medical doctors (per 10,000)",ZWE,Zimbabwe,1995,1.43,1.43,"Zimbabwe, Republic of",ZWE,East Africa
 1195,HWF_0001,"Medical doctors (per 10,000)",ZWE,Zimbabwe,1990,1.27,1.27,"Zimbabwe, Republic of",ZWE,East Africa
-1196,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2020,2957.0,2957,"Zimbabwe, Republic of",ZWE,East Africa
-1197,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2018,3026.0,3026,"Zimbabwe, Republic of",ZWE,East Africa
-1198,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2017,2646.0,2646,"Zimbabwe, Republic of",ZWE,East Africa
-1199,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2016,2508.0,2508,"Zimbabwe, Republic of",ZWE,East Africa
-1200,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2015,2508.0,2508,"Zimbabwe, Republic of",ZWE,East Africa
-1201,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2014,1685.0,1685,"Zimbabwe, Republic of",ZWE,East Africa
-1202,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2013,1114.0,1114,"Zimbabwe, Republic of",ZWE,East Africa
-1203,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2012,1059.0,1059,"Zimbabwe, Republic of",ZWE,East Africa
-1204,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2011,1054.0,1054,"Zimbabwe, Republic of",ZWE,East Africa
-1205,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2010,1615.0,1615,"Zimbabwe, Republic of",ZWE,East Africa
-1206,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2009,1516.0,1516,"Zimbabwe, Republic of",ZWE,East Africa
-1207,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2008,738.0,738,"Zimbabwe, Republic of",ZWE,East Africa
-1208,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2007,667.0,667,"Zimbabwe, Republic of",ZWE,East Africa
-1209,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2005,1516.0,1516,"Zimbabwe, Republic of",ZWE,East Africa
-1210,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2004,2086.0,2086,"Zimbabwe, Republic of",ZWE,East Africa
-1211,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,2000,1499.0,1499,"Zimbabwe, Republic of",ZWE,East Africa
-1212,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,1995,1630.0,1630,"Zimbabwe, Republic of",ZWE,East Africa
-1213,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,1990,1320.0,1320,"Zimbabwe, Republic of",ZWE,East Africa
-1214,HWF_0002,Medical doctors (number),ZWE,Zimbabwe,1985,1058.0,1058,"Zimbabwe, Republic of",ZWE,East Africa
-1215,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2018,1863.0,1863,"Zimbabwe, Republic of",ZWE,East Africa
-1216,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2017,1754.0,1754,"Zimbabwe, Republic of",ZWE,East Africa
-1217,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2016,1754.0,1754,"Zimbabwe, Republic of",ZWE,East Africa
-1218,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2015,1754.0,1754,"Zimbabwe, Republic of",ZWE,East Africa
-1219,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2014,1458.0,1458,"Zimbabwe, Republic of",ZWE,East Africa
-1220,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2010,954.0,954,"Zimbabwe, Republic of",ZWE,East Africa
-1221,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2009,1002.0,1002,"Zimbabwe, Republic of",ZWE,East Africa
-1222,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2005,1002.0,1002,"Zimbabwe, Republic of",ZWE,East Africa
-1223,HWF_0003,Generalist medical practitioners (number),ZWE,Zimbabwe,2000,1066.0,1066,"Zimbabwe, Republic of",ZWE,East Africa
-1224,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2018,619.0,619,"Zimbabwe, Republic of",ZWE,East Africa
-1225,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2017,446.0,446,"Zimbabwe, Republic of",ZWE,East Africa
-1226,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2016,446.0,446,"Zimbabwe, Republic of",ZWE,East Africa
-1227,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2015,446.0,446,"Zimbabwe, Republic of",ZWE,East Africa
-1228,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2014,227.0,227,"Zimbabwe, Republic of",ZWE,East Africa
-1229,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2010,318.0,318,"Zimbabwe, Republic of",ZWE,East Africa
-1230,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2009,295.0,295,"Zimbabwe, Republic of",ZWE,East Africa
-1231,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2005,295.0,295,"Zimbabwe, Republic of",ZWE,East Africa
-1232,HWF_0004,Specialist medical practitioners (number),ZWE,Zimbabwe,2000,297.0,297,"Zimbabwe, Republic of",ZWE,East Africa
-1233,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2020,2957.0,2957,"Zimbabwe, Republic of",ZWE,East Africa
-1234,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2018,544.0,544,"Zimbabwe, Republic of",ZWE,East Africa
-1235,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2017,446.0,446,"Zimbabwe, Republic of",ZWE,East Africa
-1236,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2016,308.0,308,"Zimbabwe, Republic of",ZWE,East Africa
-1237,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2015,308.0,308,"Zimbabwe, Republic of",ZWE,East Africa
-1238,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2013,1114.0,1114,"Zimbabwe, Republic of",ZWE,East Africa
-1239,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2012,1059.0,1059,"Zimbabwe, Republic of",ZWE,East Africa
-1240,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2011,1054.0,1054,"Zimbabwe, Republic of",ZWE,East Africa
-1241,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2010,343.0,343,"Zimbabwe, Republic of",ZWE,East Africa
-1242,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2009,219.0,219,"Zimbabwe, Republic of",ZWE,East Africa
-1243,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2008,738.0,738,"Zimbabwe, Republic of",ZWE,East Africa
-1244,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2007,667.0,667,"Zimbabwe, Republic of",ZWE,East Africa
-1245,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2005,219.0,219,"Zimbabwe, Republic of",ZWE,East Africa
-1246,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2004,2086.0,2086,"Zimbabwe, Republic of",ZWE,East Africa
-1247,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,2000,136.0,136,"Zimbabwe, Republic of",ZWE,East Africa
-1248,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,1995,1630.0,1630,"Zimbabwe, Republic of",ZWE,East Africa
-1249,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,1990,1320.0,1320,"Zimbabwe, Republic of",ZWE,East Africa
-1250,HWF_0005,Medical doctors not further defined (number),ZWE,Zimbabwe,1985,1058.0,1058,"Zimbabwe, Republic of",ZWE,East Africa
 1251,HWF_0001,"Medical doctors (per 10,000)",SSD,South Sudan,2018,0.37,0.37,South Sudan,SSD,East Africa
-1252,HWF_0002,Medical doctors (number),SSD,South Sudan,2018,411.0,411,South Sudan,SSD,East Africa
-1253,HWF_0003,Generalist medical practitioners (number),SSD,South Sudan,2018,338.0,338,South Sudan,SSD,East Africa
-1254,HWF_0004,Specialist medical practitioners (number),SSD,South Sudan,2018,73.0,73,South Sudan,SSD,East Africa
 1256,HWF_0001,"Medical doctors (per 10,000)",SDN,Sudan,2017,2.62,2.62,"Sudan, Republic of",SDN,North Africa
 1257,HWF_0001,"Medical doctors (per 10,000)",SDN,Sudan,2015,4.07,4.07,"Sudan, Republic of",SDN,North Africa
 1258,HWF_0001,"Medical doctors (per 10,000)",SDN,Sudan,2008,3.27,3.27,"Sudan, Republic of",SDN,North Africa
 1259,HWF_0001,"Medical doctors (per 10,000)",SDN,Sudan,2007,3.5,3.5,"Sudan, Republic of",SDN,North Africa
 1260,HWF_0001,"Medical doctors (per 10,000)",SDN,Sudan,2006,3.5,3.5,"Sudan, Republic of",SDN,North Africa
 1261,HWF_0001,"Medical doctors (per 10,000)",SDN,Sudan,2004,2.5,2.5,"Sudan, Republic of",SDN,North Africa
-1262,HWF_0002,Medical doctors (number),SDN,Sudan,2017,10683.0,10 683,"Sudan, Republic of",SDN,North Africa
-1263,HWF_0002,Medical doctors (number),SDN,Sudan,2015,15845.0,15 845,"Sudan, Republic of",SDN,North Africa
-1264,HWF_0002,Medical doctors (number),SDN,Sudan,2008,10813.0,10 813,"Sudan, Republic of",SDN,North Africa
-1265,HWF_0002,Medical doctors (number),SDN,Sudan,2007,11337.0,11 337,"Sudan, Republic of",SDN,North Africa
-1266,HWF_0002,Medical doctors (number),SDN,Sudan,2006,11083.0,11 083,"Sudan, Republic of",SDN,North Africa
-1267,HWF_0002,Medical doctors (number),SDN,Sudan,2004,7552.0,7552,"Sudan, Republic of",SDN,North Africa
-1268,HWF_0005,Medical doctors not further defined (number),SDN,Sudan,2017,10683.0,10 683,"Sudan, Republic of",SDN,North Africa
-1269,HWF_0005,Medical doctors not further defined (number),SDN,Sudan,2015,15845.0,15 845,"Sudan, Republic of",SDN,North Africa
-1270,HWF_0005,Medical doctors not further defined (number),SDN,Sudan,2008,10813.0,10 813,"Sudan, Republic of",SDN,North Africa
-1271,HWF_0005,Medical doctors not further defined (number),SDN,Sudan,2007,11337.0,11 337,"Sudan, Republic of",SDN,North Africa
-1272,HWF_0005,Medical doctors not further defined (number),SDN,Sudan,2006,11083.0,11 083,"Sudan, Republic of",SDN,North Africa
-1273,HWF_0005,Medical doctors not further defined (number),SDN,Sudan,2004,7552.0,7552,"Sudan, Republic of",SDN,North Africa
 1274,HWF_0001,"Medical doctors (per 10,000)",SWZ,Eswatini,2020,1.42,1.42,"Swaziland, Kingdom of",SWZ,Southern Africa
 1275,HWF_0001,"Medical doctors (per 10,000)",SWZ,Eswatini,2018,2.45,2.45,"Swaziland, Kingdom of",SWZ,Southern Africa
 1276,HWF_0001,"Medical doctors (per 10,000)",SWZ,Eswatini,2017,1.85,1.85,"Swaziland, Kingdom of",SWZ,Southern Africa
@@ -1278,26 +394,6 @@
 1280,HWF_0001,"Medical doctors (per 10,000)",SWZ,Eswatini,2004,1.67,1.67,"Swaziland, Kingdom of",SWZ,Southern Africa
 1281,HWF_0001,"Medical doctors (per 10,000)",SWZ,Eswatini,2003,1.56,1.56,"Swaziland, Kingdom of",SWZ,Southern Africa
 1282,HWF_0001,"Medical doctors (per 10,000)",SWZ,Eswatini,2001,1.77,1.77,"Swaziland, Kingdom of",SWZ,Southern Africa
-1283,HWF_0002,Medical doctors (number),SWZ,Eswatini,2020,165.0,165,"Swaziland, Kingdom of",SWZ,Southern Africa
-1284,HWF_0002,Medical doctors (number),SWZ,Eswatini,2018,278.0,278,"Swaziland, Kingdom of",SWZ,Southern Africa
-1285,HWF_0002,Medical doctors (number),SWZ,Eswatini,2017,208.0,208,"Swaziland, Kingdom of",SWZ,Southern Africa
-1286,HWF_0002,Medical doctors (number),SWZ,Eswatini,2016,107.0,107,"Swaziland, Kingdom of",SWZ,Southern Africa
-1287,HWF_0002,Medical doctors (number),SWZ,Eswatini,2011,109.0,109,"Swaziland, Kingdom of",SWZ,Southern Africa
-1288,HWF_0002,Medical doctors (number),SWZ,Eswatini,2009,173.0,173,"Swaziland, Kingdom of",SWZ,Southern Africa
-1289,HWF_0002,Medical doctors (number),SWZ,Eswatini,2004,171.0,171,"Swaziland, Kingdom of",SWZ,Southern Africa
-1290,HWF_0002,Medical doctors (number),SWZ,Eswatini,2003,160.0,160,"Swaziland, Kingdom of",SWZ,Southern Africa
-1291,HWF_0002,Medical doctors (number),SWZ,Eswatini,2001,179.0,179,"Swaziland, Kingdom of",SWZ,Southern Africa
-1292,HWF_0003,Generalist medical practitioners (number),SWZ,Eswatini,2020,136.0,136,"Swaziland, Kingdom of",SWZ,Southern Africa
-1293,HWF_0003,Generalist medical practitioners (number),SWZ,Eswatini,2018,211.0,211,"Swaziland, Kingdom of",SWZ,Southern Africa
-1294,HWF_0004,Specialist medical practitioners (number),SWZ,Eswatini,2020,29.0,29,"Swaziland, Kingdom of",SWZ,Southern Africa
-1295,HWF_0004,Specialist medical practitioners (number),SWZ,Eswatini,2018,67.0,67,"Swaziland, Kingdom of",SWZ,Southern Africa
-1296,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2017,208.0,208,"Swaziland, Kingdom of",SWZ,Southern Africa
-1297,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2016,107.0,107,"Swaziland, Kingdom of",SWZ,Southern Africa
-1298,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2011,109.0,109,"Swaziland, Kingdom of",SWZ,Southern Africa
-1299,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2009,173.0,173,"Swaziland, Kingdom of",SWZ,Southern Africa
-1300,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2004,171.0,171,"Swaziland, Kingdom of",SWZ,Southern Africa
-1301,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2003,160.0,160,"Swaziland, Kingdom of",SWZ,Southern Africa
-1302,HWF_0005,Medical doctors not further defined (number),SWZ,Eswatini,2001,179.0,179,"Swaziland, Kingdom of",SWZ,Southern Africa
 1303,HWF_0001,"Medical doctors (per 10,000)",TGO,Togo,2020,0.83,0.83,"Togo, Togolese Republic",TGO,West Africa
 1304,HWF_0001,"Medical doctors (per 10,000)",TGO,Togo,2019,0.78,0.78,"Togo, Togolese Republic",TGO,West Africa
 1305,HWF_0001,"Medical doctors (per 10,000)",TGO,Togo,2018,0.77,0.77,"Togo, Togolese Republic",TGO,West Africa
@@ -1308,31 +404,6 @@
 1310,HWF_0001,"Medical doctors (per 10,000)",TGO,Togo,2008,0.57,0.57,"Togo, Togolese Republic",TGO,West Africa
 1311,HWF_0001,"Medical doctors (per 10,000)",TGO,Togo,2007,0.49,0.49,"Togo, Togolese Republic",TGO,West Africa
 1312,HWF_0001,"Medical doctors (per 10,000)",TGO,Togo,2004,0.45,0.45,"Togo, Togolese Republic",TGO,West Africa
-1313,HWF_0002,Medical doctors (number),TGO,Togo,2020,685.0,685,"Togo, Togolese Republic",TGO,West Africa
-1314,HWF_0002,Medical doctors (number),TGO,Togo,2019,627.0,627,"Togo, Togolese Republic",TGO,West Africa
-1315,HWF_0002,Medical doctors (number),TGO,Togo,2018,611.0,611,"Togo, Togolese Republic",TGO,West Africa
-1316,HWF_0002,Medical doctors (number),TGO,Togo,2017,583.0,583,"Togo, Togolese Republic",TGO,West Africa
-1317,HWF_0002,Medical doctors (number),TGO,Togo,2016,347.0,347,"Togo, Togolese Republic",TGO,West Africa
-1318,HWF_0002,Medical doctors (number),TGO,Togo,2015,361.0,361,"Togo, Togolese Republic",TGO,West Africa
-1319,HWF_0002,Medical doctors (number),TGO,Togo,2010,325.0,325,"Togo, Togolese Republic",TGO,West Africa
-1320,HWF_0002,Medical doctors (number),TGO,Togo,2008,349.0,349,"Togo, Togolese Republic",TGO,West Africa
-1321,HWF_0002,Medical doctors (number),TGO,Togo,2007,290.0,290,"Togo, Togolese Republic",TGO,West Africa
-1322,HWF_0002,Medical doctors (number),TGO,Togo,2004,244.0,244,"Togo, Togolese Republic",TGO,West Africa
-1323,HWF_0003,Generalist medical practitioners (number),TGO,Togo,2020,354.0,354,"Togo, Togolese Republic",TGO,West Africa
-1324,HWF_0003,Generalist medical practitioners (number),TGO,Togo,2019,230.0,230,"Togo, Togolese Republic",TGO,West Africa
-1325,HWF_0003,Generalist medical practitioners (number),TGO,Togo,2018,219.0,219,"Togo, Togolese Republic",TGO,West Africa
-1326,HWF_0003,Generalist medical practitioners (number),TGO,Togo,2017,230.0,230,"Togo, Togolese Republic",TGO,West Africa
-1327,HWF_0003,Generalist medical practitioners (number),TGO,Togo,2015,97.0,97,"Togo, Togolese Republic",TGO,West Africa
-1328,HWF_0004,Specialist medical practitioners (number),TGO,Togo,2020,331.0,331,"Togo, Togolese Republic",TGO,West Africa
-1329,HWF_0004,Specialist medical practitioners (number),TGO,Togo,2019,397.0,397,"Togo, Togolese Republic",TGO,West Africa
-1330,HWF_0004,Specialist medical practitioners (number),TGO,Togo,2018,392.0,392,"Togo, Togolese Republic",TGO,West Africa
-1331,HWF_0004,Specialist medical practitioners (number),TGO,Togo,2017,353.0,353,"Togo, Togolese Republic",TGO,West Africa
-1332,HWF_0004,Specialist medical practitioners (number),TGO,Togo,2015,264.0,264,"Togo, Togolese Republic",TGO,West Africa
-1333,HWF_0004,Specialist medical practitioners (number),TGO,Togo,2010,325.0,325,"Togo, Togolese Republic",TGO,West Africa
-1334,HWF_0005,Medical doctors not further defined (number),TGO,Togo,2016,347.0,347,"Togo, Togolese Republic",TGO,West Africa
-1335,HWF_0005,Medical doctors not further defined (number),TGO,Togo,2008,349.0,349,"Togo, Togolese Republic",TGO,West Africa
-1336,HWF_0005,Medical doctors not further defined (number),TGO,Togo,2007,290.0,290,"Togo, Togolese Republic",TGO,West Africa
-1337,HWF_0005,Medical doctors not further defined (number),TGO,Togo,2004,244.0,244,"Togo, Togolese Republic",TGO,West Africa
 1338,HWF_0001,"Medical doctors (per 10,000)",TUN,Tunisia,2017,13.03,13.03,"Tunisia, Tunisian Republic",TUN,North Africa
 1339,HWF_0001,"Medical doctors (per 10,000)",TUN,Tunisia,2016,12.83,12.83,"Tunisia, Tunisian Republic",TUN,North Africa
 1340,HWF_0001,"Medical doctors (per 10,000)",TUN,Tunisia,2015,13.11,13.11,"Tunisia, Tunisian Republic",TUN,North Africa
@@ -1356,54 +427,6 @@
 1358,HWF_0001,"Medical doctors (per 10,000)",TUN,Tunisia,1992,5.92,5.92,"Tunisia, Tunisian Republic",TUN,North Africa
 1359,HWF_0001,"Medical doctors (per 10,000)",TUN,Tunisia,1991,5.34,5.34,"Tunisia, Tunisian Republic",TUN,North Africa
 1360,HWF_0001,"Medical doctors (per 10,000)",TUN,Tunisia,1990,5.37,5.37,"Tunisia, Tunisian Republic",TUN,North Africa
-1361,HWF_0002,Medical doctors (number),TUN,Tunisia,2017,14892.0,14 892,"Tunisia, Tunisian Republic",TUN,North Africa
-1362,HWF_0002,Medical doctors (number),TUN,Tunisia,2016,14507.0,14 507,"Tunisia, Tunisian Republic",TUN,North Africa
-1363,HWF_0002,Medical doctors (number),TUN,Tunisia,2015,14655.0,14 655,"Tunisia, Tunisian Republic",TUN,North Africa
-1364,HWF_0002,Medical doctors (number),TUN,Tunisia,2014,14127.0,14 127,"Tunisia, Tunisian Republic",TUN,North Africa
-1365,HWF_0002,Medical doctors (number),TUN,Tunisia,2010,12996.0,12 996,"Tunisia, Tunisian Republic",TUN,North Africa
-1366,HWF_0002,Medical doctors (number),TUN,Tunisia,2008,11533.0,11 533,"Tunisia, Tunisian Republic",TUN,North Africa
-1367,HWF_0002,Medical doctors (number),TUN,Tunisia,2007,10554.0,10 554,"Tunisia, Tunisian Republic",TUN,North Africa
-1368,HWF_0002,Medical doctors (number),TUN,Tunisia,2005,9422.0,9422,"Tunisia, Tunisian Republic",TUN,North Africa
-1369,HWF_0002,Medical doctors (number),TUN,Tunisia,2004,13330.0,13 330,"Tunisia, Tunisian Republic",TUN,North Africa
-1370,HWF_0002,Medical doctors (number),TUN,Tunisia,2003,8189.0,8189,"Tunisia, Tunisian Republic",TUN,North Africa
-1371,HWF_0002,Medical doctors (number),TUN,Tunisia,2002,7964.0,7964,"Tunisia, Tunisian Republic",TUN,North Africa
-1372,HWF_0002,Medical doctors (number),TUN,Tunisia,2001,7767.0,7767,"Tunisia, Tunisian Republic",TUN,North Africa
-1373,HWF_0002,Medical doctors (number),TUN,Tunisia,2000,7444.0,7444,"Tunisia, Tunisian Republic",TUN,North Africa
-1374,HWF_0002,Medical doctors (number),TUN,Tunisia,1999,7149.0,7149,"Tunisia, Tunisian Republic",TUN,North Africa
-1375,HWF_0002,Medical doctors (number),TUN,Tunisia,1998,6819.0,6819,"Tunisia, Tunisian Republic",TUN,North Africa
-1376,HWF_0002,Medical doctors (number),TUN,Tunisia,1997,6464.0,6464,"Tunisia, Tunisian Republic",TUN,North Africa
-1377,HWF_0002,Medical doctors (number),TUN,Tunisia,1996,6177.0,6177,"Tunisia, Tunisian Republic",TUN,North Africa
-1378,HWF_0002,Medical doctors (number),TUN,Tunisia,1995,5965.0,5965,"Tunisia, Tunisian Republic",TUN,North Africa
-1379,HWF_0002,Medical doctors (number),TUN,Tunisia,1994,5344.0,5344,"Tunisia, Tunisian Republic",TUN,North Africa
-1380,HWF_0002,Medical doctors (number),TUN,Tunisia,1993,5257.0,5257,"Tunisia, Tunisian Republic",TUN,North Africa
-1381,HWF_0002,Medical doctors (number),TUN,Tunisia,1992,5099.0,5099,"Tunisia, Tunisian Republic",TUN,North Africa
-1382,HWF_0002,Medical doctors (number),TUN,Tunisia,1991,4500.0,4500,"Tunisia, Tunisian Republic",TUN,North Africa
-1383,HWF_0002,Medical doctors (number),TUN,Tunisia,1990,4424.0,4424,"Tunisia, Tunisian Republic",TUN,North Africa
-1384,HWF_0003,Generalist medical practitioners (number),TUN,Tunisia,2017,6491.0,6491,"Tunisia, Tunisian Republic",TUN,North Africa
-1385,HWF_0003,Generalist medical practitioners (number),TUN,Tunisia,2016,6752.0,6752,"Tunisia, Tunisian Republic",TUN,North Africa
-1386,HWF_0004,Specialist medical practitioners (number),TUN,Tunisia,2017,8401.0,8401,"Tunisia, Tunisian Republic",TUN,North Africa
-1387,HWF_0004,Specialist medical practitioners (number),TUN,Tunisia,2016,7755.0,7755,"Tunisia, Tunisian Republic",TUN,North Africa
-1388,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2015,14655.0,14 655,"Tunisia, Tunisian Republic",TUN,North Africa
-1389,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2014,14127.0,14 127,"Tunisia, Tunisian Republic",TUN,North Africa
-1390,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2010,12996.0,12 996,"Tunisia, Tunisian Republic",TUN,North Africa
-1391,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2008,11533.0,11 533,"Tunisia, Tunisian Republic",TUN,North Africa
-1392,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2007,10554.0,10 554,"Tunisia, Tunisian Republic",TUN,North Africa
-1393,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2005,9422.0,9422,"Tunisia, Tunisian Republic",TUN,North Africa
-1394,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2004,13330.0,13 330,"Tunisia, Tunisian Republic",TUN,North Africa
-1395,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2003,8189.0,8189,"Tunisia, Tunisian Republic",TUN,North Africa
-1396,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2002,7964.0,7964,"Tunisia, Tunisian Republic",TUN,North Africa
-1397,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2001,7767.0,7767,"Tunisia, Tunisian Republic",TUN,North Africa
-1398,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,2000,7444.0,7444,"Tunisia, Tunisian Republic",TUN,North Africa
-1399,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1999,7149.0,7149,"Tunisia, Tunisian Republic",TUN,North Africa
-1400,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1998,6819.0,6819,"Tunisia, Tunisian Republic",TUN,North Africa
-1401,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1997,6464.0,6464,"Tunisia, Tunisian Republic",TUN,North Africa
-1402,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1996,6177.0,6177,"Tunisia, Tunisian Republic",TUN,North Africa
-1403,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1995,5965.0,5965,"Tunisia, Tunisian Republic",TUN,North Africa
-1404,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1994,5344.0,5344,"Tunisia, Tunisian Republic",TUN,North Africa
-1405,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1993,5257.0,5257,"Tunisia, Tunisian Republic",TUN,North Africa
-1406,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1992,5099.0,5099,"Tunisia, Tunisian Republic",TUN,North Africa
-1407,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1991,4500.0,4500,"Tunisia, Tunisian Republic",TUN,North Africa
-1408,HWF_0005,Medical doctors not further defined (number),TUN,Tunisia,1990,4424.0,4424,"Tunisia, Tunisian Republic",TUN,North Africa
 1409,HWF_0001,"Medical doctors (per 10,000)",UGA,Uganda,2020,1.54,1.54,"Uganda, Republic of",UGA,East Africa
 1410,HWF_0001,"Medical doctors (per 10,000)",UGA,Uganda,2018,4.02,4.02,"Uganda, Republic of",UGA,East Africa
 1411,HWF_0001,"Medical doctors (per 10,000)",UGA,Uganda,2017,1.68,1.68,"Uganda, Republic of",UGA,East Africa
@@ -1411,21 +434,6 @@
 1413,HWF_0001,"Medical doctors (per 10,000)",UGA,Uganda,2012,0.98,0.98,"Uganda, Republic of",UGA,East Africa
 1414,HWF_0001,"Medical doctors (per 10,000)",UGA,Uganda,2005,1.21,1.21,"Uganda, Republic of",UGA,East Africa
 1415,HWF_0001,"Medical doctors (per 10,000)",UGA,Uganda,2004,0.82,0.82,"Uganda, Republic of",UGA,East Africa
-1416,HWF_0002,Medical doctors (number),UGA,Uganda,2020,7031.0,7031,"Uganda, Republic of",UGA,East Africa
-1417,HWF_0002,Medical doctors (number),UGA,Uganda,2018,17186.0,17 186,"Uganda, Republic of",UGA,East Africa
-1418,HWF_0002,Medical doctors (number),UGA,Uganda,2017,6918.0,6918,"Uganda, Republic of",UGA,East Africa
-1419,HWF_0002,Medical doctors (number),UGA,Uganda,2015,3645.0,3645,"Uganda, Republic of",UGA,East Africa
-1420,HWF_0002,Medical doctors (number),UGA,Uganda,2012,3370.0,3370,"Uganda, Republic of",UGA,East Africa
-1421,HWF_0002,Medical doctors (number),UGA,Uganda,2005,3361.0,3361,"Uganda, Republic of",UGA,East Africa
-1422,HWF_0002,Medical doctors (number),UGA,Uganda,2004,2209.0,2209,"Uganda, Republic of",UGA,East Africa
-1423,HWF_0003,Generalist medical practitioners (number),UGA,Uganda,2018,17007.0,17 007,"Uganda, Republic of",UGA,East Africa
-1424,HWF_0004,Specialist medical practitioners (number),UGA,Uganda,2018,179.0,179,"Uganda, Republic of",UGA,East Africa
-1425,HWF_0005,Medical doctors not further defined (number),UGA,Uganda,2020,7031.0,7031,"Uganda, Republic of",UGA,East Africa
-1426,HWF_0005,Medical doctors not further defined (number),UGA,Uganda,2017,6918.0,6918,"Uganda, Republic of",UGA,East Africa
-1427,HWF_0005,Medical doctors not further defined (number),UGA,Uganda,2015,3645.0,3645,"Uganda, Republic of",UGA,East Africa
-1428,HWF_0005,Medical doctors not further defined (number),UGA,Uganda,2012,3370.0,3370,"Uganda, Republic of",UGA,East Africa
-1429,HWF_0005,Medical doctors not further defined (number),UGA,Uganda,2005,3361.0,3361,"Uganda, Republic of",UGA,East Africa
-1430,HWF_0005,Medical doctors not further defined (number),UGA,Uganda,2004,2209.0,2209,"Uganda, Republic of",UGA,East Africa
 1431,HWF_0001,"Medical doctors (per 10,000)",EGY,Egypt,2019,7.46,7.46,"Egypt, Arab Republic of",EGY,North Africa
 1432,HWF_0001,"Medical doctors (per 10,000)",EGY,Egypt,2018,7.69,7.69,"Egypt, Arab Republic of",EGY,North Africa
 1433,HWF_0001,"Medical doctors (per 10,000)",EGY,Egypt,2017,7.99,7.99,"Egypt, Arab Republic of",EGY,North Africa
@@ -1433,35 +441,10 @@
 1435,HWF_0001,"Medical doctors (per 10,000)",EGY,Egypt,2015,8.22,8.22,"Egypt, Arab Republic of",EGY,North Africa
 1436,HWF_0001,"Medical doctors (per 10,000)",EGY,Egypt,2014,7.88,7.88,"Egypt, Arab Republic of",EGY,North Africa
 1437,HWF_0001,"Medical doctors (per 10,000)",EGY,Egypt,2003,5.29,5.29,"Egypt, Arab Republic of",EGY,North Africa
-1438,HWF_0002,Medical doctors (number),EGY,Egypt,2019,74923.0,74 923,"Egypt, Arab Republic of",EGY,North Africa
-1439,HWF_0002,Medical doctors (number),EGY,Egypt,2018,75686.0,75 686,"Egypt, Arab Republic of",EGY,North Africa
-1440,HWF_0002,Medical doctors (number),EGY,Egypt,2017,77083.0,77 083,"Egypt, Arab Republic of",EGY,North Africa
-1441,HWF_0002,Medical doctors (number),EGY,Egypt,2016,77579.0,77 579,"Egypt, Arab Republic of",EGY,North Africa
-1442,HWF_0002,Medical doctors (number),EGY,Egypt,2015,75960.0,75 960,"Egypt, Arab Republic of",EGY,North Africa
-1443,HWF_0002,Medical doctors (number),EGY,Egypt,2014,71221.0,71 221,"Egypt, Arab Republic of",EGY,North Africa
-1444,HWF_0002,Medical doctors (number),EGY,Egypt,2003,38485.0,38 485,"Egypt, Arab Republic of",EGY,North Africa
-1445,HWF_0003,Generalist medical practitioners (number),EGY,Egypt,2019,31944.0,31 944,"Egypt, Arab Republic of",EGY,North Africa
-1446,HWF_0004,Specialist medical practitioners (number),EGY,Egypt,2019,42979.0,42 979,"Egypt, Arab Republic of",EGY,North Africa
-1447,HWF_0005,Medical doctors not further defined (number),EGY,Egypt,2018,75686.0,75 686,"Egypt, Arab Republic of",EGY,North Africa
-1448,HWF_0005,Medical doctors not further defined (number),EGY,Egypt,2017,77083.0,77 083,"Egypt, Arab Republic of",EGY,North Africa
-1449,HWF_0005,Medical doctors not further defined (number),EGY,Egypt,2016,77579.0,77 579,"Egypt, Arab Republic of",EGY,North Africa
-1450,HWF_0005,Medical doctors not further defined (number),EGY,Egypt,2015,75960.0,75 960,"Egypt, Arab Republic of",EGY,North Africa
-1451,HWF_0005,Medical doctors not further defined (number),EGY,Egypt,2014,71221.0,71 221,"Egypt, Arab Republic of",EGY,North Africa
-1452,HWF_0005,Medical doctors not further defined (number),EGY,Egypt,2003,38485.0,38 485,"Egypt, Arab Republic of",EGY,North Africa
 1453,HWF_0001,"Medical doctors (per 10,000)",TZA,United Republic of Tanzania,2018,0.51,0.51,"Tanzania, United Republic of",TZA,East Africa
 1454,HWF_0001,"Medical doctors (per 10,000)",TZA,United Republic of Tanzania,2014,0.6,0.6,"Tanzania, United Republic of",TZA,East Africa
 1455,HWF_0001,"Medical doctors (per 10,000)",TZA,United Republic of Tanzania,2012,0.32,0.32,"Tanzania, United Republic of",TZA,East Africa
 1456,HWF_0001,"Medical doctors (per 10,000)",TZA,United Republic of Tanzania,2002,0.23,0.23,"Tanzania, United Republic of",TZA,East Africa
-1457,HWF_0002,Medical doctors (number),TZA,United Republic of Tanzania,2018,2885.0,2885,"Tanzania, United Republic of",TZA,East Africa
-1458,HWF_0002,Medical doctors (number),TZA,United Republic of Tanzania,2014,3015.0,3015,"Tanzania, United Republic of",TZA,East Africa
-1459,HWF_0002,Medical doctors (number),TZA,United Republic of Tanzania,2012,1481.0,1481,"Tanzania, United Republic of",TZA,East Africa
-1460,HWF_0002,Medical doctors (number),TZA,United Republic of Tanzania,2002,822.0,822,"Tanzania, United Republic of",TZA,East Africa
-1461,HWF_0003,Generalist medical practitioners (number),TZA,United Republic of Tanzania,2018,2434.0,2434,"Tanzania, United Republic of",TZA,East Africa
-1462,HWF_0004,Specialist medical practitioners (number),TZA,United Republic of Tanzania,2018,451.0,451,"Tanzania, United Republic of",TZA,East Africa
-1463,HWF_0004,Specialist medical practitioners (number),TZA,United Republic of Tanzania,2014,929.0,929,"Tanzania, United Republic of",TZA,East Africa
-1464,HWF_0005,Medical doctors not further defined (number),TZA,United Republic of Tanzania,2014,2086.0,2086,"Tanzania, United Republic of",TZA,East Africa
-1465,HWF_0005,Medical doctors not further defined (number),TZA,United Republic of Tanzania,2012,1481.0,1481,"Tanzania, United Republic of",TZA,East Africa
-1466,HWF_0005,Medical doctors not further defined (number),TZA,United Republic of Tanzania,2002,822.0,822,"Tanzania, United Republic of",TZA,East Africa
 1467,HWF_0001,"Medical doctors (per 10,000)",BFA,Burkina Faso,2019,0.94,0.94,Burkina Faso,BFA,West Africa
 1468,HWF_0001,"Medical doctors (per 10,000)",BFA,Burkina Faso,2018,0.85,0.85,Burkina Faso,BFA,West Africa
 1469,HWF_0001,"Medical doctors (per 10,000)",BFA,Burkina Faso,2017,0.85,0.85,Burkina Faso,BFA,West Africa
@@ -1475,35 +458,6 @@
 1477,HWF_0001,"Medical doctors (per 10,000)",BFA,Burkina Faso,2009,0.45,0.45,Burkina Faso,BFA,West Africa
 1478,HWF_0001,"Medical doctors (per 10,000)",BFA,Burkina Faso,2008,0.32,0.32,Burkina Faso,BFA,West Africa
 1479,HWF_0001,"Medical doctors (per 10,000)",BFA,Burkina Faso,2004,0.54,0.54,Burkina Faso,BFA,West Africa
-1480,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2019,1910.0,1910,Burkina Faso,BFA,West Africa
-1481,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2018,1684.0,1684,Burkina Faso,BFA,West Africa
-1482,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2017,1626.0,1626,Burkina Faso,BFA,West Africa
-1483,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2016,1202.0,1202,Burkina Faso,BFA,West Africa
-1484,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2015,1189.0,1189,Burkina Faso,BFA,West Africa
-1485,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2014,857.0,857,Burkina Faso,BFA,West Africa
-1486,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2013,803.0,803,Burkina Faso,BFA,West Africa
-1487,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2012,787.0,787,Burkina Faso,BFA,West Africa
-1488,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2011,620.0,620,Burkina Faso,BFA,West Africa
-1489,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2010,713.0,713,Burkina Faso,BFA,West Africa
-1490,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2009,676.0,676,Burkina Faso,BFA,West Africa
-1491,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2008,473.0,473,Burkina Faso,BFA,West Africa
-1492,HWF_0002,Medical doctors (number),BFA,Burkina Faso,2004,708.0,708,Burkina Faso,BFA,West Africa
-1493,HWF_0003,Generalist medical practitioners (number),BFA,Burkina Faso,2019,1026.0,1026,Burkina Faso,BFA,West Africa
-1494,HWF_0003,Generalist medical practitioners (number),BFA,Burkina Faso,2018,732.0,732,Burkina Faso,BFA,West Africa
-1495,HWF_0003,Generalist medical practitioners (number),BFA,Burkina Faso,2017,888.0,888,Burkina Faso,BFA,West Africa
-1496,HWF_0004,Specialist medical practitioners (number),BFA,Burkina Faso,2019,884.0,884,Burkina Faso,BFA,West Africa
-1497,HWF_0004,Specialist medical practitioners (number),BFA,Burkina Faso,2018,952.0,952,Burkina Faso,BFA,West Africa
-1498,HWF_0004,Specialist medical practitioners (number),BFA,Burkina Faso,2017,738.0,738,Burkina Faso,BFA,West Africa
-1499,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2016,1202.0,1202,Burkina Faso,BFA,West Africa
-1500,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2015,1189.0,1189,Burkina Faso,BFA,West Africa
-1501,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2014,857.0,857,Burkina Faso,BFA,West Africa
-1502,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2013,803.0,803,Burkina Faso,BFA,West Africa
-1503,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2012,787.0,787,Burkina Faso,BFA,West Africa
-1504,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2011,620.0,620,Burkina Faso,BFA,West Africa
-1505,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2010,713.0,713,Burkina Faso,BFA,West Africa
-1506,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2009,676.0,676,Burkina Faso,BFA,West Africa
-1507,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2008,473.0,473,Burkina Faso,BFA,West Africa
-1508,HWF_0005,Medical doctors not further defined (number),BFA,Burkina Faso,2004,708.0,708,Burkina Faso,BFA,West Africa
 1509,HWF_0001,"Medical doctors (per 10,000)",ZMB,Zambia,2018,1.17,1.17,"Zambia, Republic of",ZMB,East Africa
 1510,HWF_0001,"Medical doctors (per 10,000)",ZMB,Zambia,2016,0.93,0.93,"Zambia, Republic of",ZMB,East Africa
 1511,HWF_0001,"Medical doctors (per 10,000)",ZMB,Zambia,2010,0.61,0.61,"Zambia, Republic of",ZMB,East Africa
@@ -1512,20 +466,3 @@
 1514,HWF_0001,"Medical doctors (per 10,000)",ZMB,Zambia,2006,0.53,0.53,"Zambia, Republic of",ZMB,East Africa
 1515,HWF_0001,"Medical doctors (per 10,000)",ZMB,Zambia,2005,0.55,0.55,"Zambia, Republic of",ZMB,East Africa
 1516,HWF_0001,"Medical doctors (per 10,000)",ZMB,Zambia,2004,1.3,1.3,"Zambia, Republic of",ZMB,East Africa
-1517,HWF_0002,Medical doctors (number),ZMB,Zambia,2018,2026.0,2026,"Zambia, Republic of",ZMB,East Africa
-1518,HWF_0002,Medical doctors (number),ZMB,Zambia,2016,1514.0,1514,"Zambia, Republic of",ZMB,East Africa
-1519,HWF_0002,Medical doctors (number),ZMB,Zambia,2010,836.0,836,"Zambia, Republic of",ZMB,East Africa
-1520,HWF_0002,Medical doctors (number),ZMB,Zambia,2009,801.0,801,"Zambia, Republic of",ZMB,East Africa
-1521,HWF_0002,Medical doctors (number),ZMB,Zambia,2008,795.0,795,"Zambia, Republic of",ZMB,East Africa
-1522,HWF_0002,Medical doctors (number),ZMB,Zambia,2006,649.0,649,"Zambia, Republic of",ZMB,East Africa
-1523,HWF_0002,Medical doctors (number),ZMB,Zambia,2005,646.0,646,"Zambia, Republic of",ZMB,East Africa
-1524,HWF_0002,Medical doctors (number),ZMB,Zambia,2004,1499.0,1499,"Zambia, Republic of",ZMB,East Africa
-1525,HWF_0003,Generalist medical practitioners (number),ZMB,Zambia,2018,1701.0,1701,"Zambia, Republic of",ZMB,East Africa
-1526,HWF_0004,Specialist medical practitioners (number),ZMB,Zambia,2018,325.0,325,"Zambia, Republic of",ZMB,East Africa
-1527,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2016,1514.0,1514,"Zambia, Republic of",ZMB,East Africa
-1528,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2010,836.0,836,"Zambia, Republic of",ZMB,East Africa
-1529,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2009,801.0,801,"Zambia, Republic of",ZMB,East Africa
-1530,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2008,795.0,795,"Zambia, Republic of",ZMB,East Africa
-1531,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2006,649.0,649,"Zambia, Republic of",ZMB,East Africa
-1532,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2005,646.0,646,"Zambia, Republic of",ZMB,East Africa
-1533,HWF_0005,Medical doctors not further defined (number),ZMB,Zambia,2004,1499.0,1499,"Zambia, Republic of",ZMB,East Africa
