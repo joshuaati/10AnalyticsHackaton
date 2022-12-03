@@ -1,0 +1,991 @@
+,Entity,Code,Year,Country_Name,Country_Code,African_Region,variable,Cause of Death
+0,United States,USA,2007,United States of America,USA,,Number of executions (Amnesty International),42
+1,United States,USA,2008,United States of America,USA,,Number of executions (Amnesty International),37
+2,United States,USA,2009,United States of America,USA,,Number of executions (Amnesty International),52
+3,United States,USA,2010,United States of America,USA,,Number of executions (Amnesty International),46
+4,United States,USA,2011,United States of America,USA,,Number of executions (Amnesty International),43
+5,United States,USA,2012,United States of America,USA,,Number of executions (Amnesty International),43
+6,United States,USA,2013,United States of America,USA,,Number of executions (Amnesty International),39
+7,United States,USA,2014,United States of America,USA,,Number of executions (Amnesty International),35
+8,United States,USA,2015,United States of America,USA,,Number of executions (Amnesty International),28
+9,United States,USA,2016,United States of America,USA,,Number of executions (Amnesty International),20
+10,United States,USA,1990,United States of America,USA,,Number of executions (Amnesty International),
+11,United States,USA,1991,United States of America,USA,,Number of executions (Amnesty International),
+12,United States,USA,1992,United States of America,USA,,Number of executions (Amnesty International),
+13,United States,USA,1993,United States of America,USA,,Number of executions (Amnesty International),
+14,United States,USA,1994,United States of America,USA,,Number of executions (Amnesty International),
+15,United States,USA,1995,United States of America,USA,,Number of executions (Amnesty International),
+16,United States,USA,1996,United States of America,USA,,Number of executions (Amnesty International),
+17,United States,USA,1997,United States of America,USA,,Number of executions (Amnesty International),
+18,United States,USA,1998,United States of America,USA,,Number of executions (Amnesty International),
+19,United States,USA,1999,United States of America,USA,,Number of executions (Amnesty International),
+20,United States,USA,2000,United States of America,USA,,Number of executions (Amnesty International),
+21,United States,USA,2001,United States of America,USA,,Number of executions (Amnesty International),
+22,United States,USA,2002,United States of America,USA,,Number of executions (Amnesty International),
+23,United States,USA,2003,United States of America,USA,,Number of executions (Amnesty International),
+24,United States,USA,2004,United States of America,USA,,Number of executions (Amnesty International),
+25,United States,USA,2005,United States of America,USA,,Number of executions (Amnesty International),
+26,United States,USA,2006,United States of America,USA,,Number of executions (Amnesty International),
+27,United States,USA,2017,United States of America,USA,,Number of executions (Amnesty International),
+28,United States,USA,2018,United States of America,USA,,Number of executions (Amnesty International),
+29,United States,USA,2019,United States of America,USA,,Number of executions (Amnesty International),
+30,United States,USA,2007,United States of America,USA,,Meningitis,1249.0
+31,United States,USA,2008,United States of America,USA,,Meningitis,1223.0
+32,United States,USA,2009,United States of America,USA,,Meningitis,1186.0
+33,United States,USA,2010,United States of America,USA,,Meningitis,1141.0
+34,United States,USA,2011,United States of America,USA,,Meningitis,1126.0
+35,United States,USA,2012,United States of America,USA,,Meningitis,1108.0
+36,United States,USA,2013,United States of America,USA,,Meningitis,1106.0
+37,United States,USA,2014,United States of America,USA,,Meningitis,1102.0
+38,United States,USA,2015,United States of America,USA,,Meningitis,1115.0
+39,United States,USA,2016,United States of America,USA,,Meningitis,1131.0
+40,United States,USA,1990,United States of America,USA,,Meningitis,1830.0
+41,United States,USA,1991,United States of America,USA,,Meningitis,1615.0
+42,United States,USA,1992,United States of America,USA,,Meningitis,1558.0
+43,United States,USA,1993,United States of America,USA,,Meningitis,1550.0
+44,United States,USA,1994,United States of America,USA,,Meningitis,1530.0
+45,United States,USA,1995,United States of America,USA,,Meningitis,1514.0
+46,United States,USA,1996,United States of America,USA,,Meningitis,1504.0
+47,United States,USA,1997,United States of America,USA,,Meningitis,1514.0
+48,United States,USA,1998,United States of America,USA,,Meningitis,1517.0
+49,United States,USA,1999,United States of America,USA,,Meningitis,1566.0
+50,United States,USA,2000,United States of America,USA,,Meningitis,1458.0
+51,United States,USA,2001,United States of America,USA,,Meningitis,1399.0
+52,United States,USA,2002,United States of America,USA,,Meningitis,1367.0
+53,United States,USA,2003,United States of America,USA,,Meningitis,1344.0
+54,United States,USA,2004,United States of America,USA,,Meningitis,1293.0
+55,United States,USA,2005,United States of America,USA,,Meningitis,1288.0
+56,United States,USA,2006,United States of America,USA,,Meningitis,1273.0
+57,United States,USA,2017,United States of America,USA,,Meningitis,1137.0
+58,United States,USA,2018,United States of America,USA,,Meningitis,1142.0
+59,United States,USA,2019,United States of America,USA,,Meningitis,1146.0
+60,United States,USA,2007,United States of America,USA,,Alzheimer's disease and other dementias,114585.0
+61,United States,USA,2008,United States of America,USA,,Alzheimer's disease and other dementias,117064.0
+62,United States,USA,2009,United States of America,USA,,Alzheimer's disease and other dementias,118965.0
+63,United States,USA,2010,United States of America,USA,,Alzheimer's disease and other dementias,121781.0
+64,United States,USA,2011,United States of America,USA,,Alzheimer's disease and other dementias,124656.0
+65,United States,USA,2012,United States of America,USA,,Alzheimer's disease and other dementias,127120.0
+66,United States,USA,2013,United States of America,USA,,Alzheimer's disease and other dementias,129640.0
+67,United States,USA,2014,United States of America,USA,,Alzheimer's disease and other dementias,131616.0
+68,United States,USA,2015,United States of America,USA,,Alzheimer's disease and other dementias,134411.0
+69,United States,USA,2016,United States of America,USA,,Alzheimer's disease and other dementias,136673.0
+70,United States,USA,1990,United States of America,USA,,Alzheimer's disease and other dementias,73079.0
+71,United States,USA,1991,United States of America,USA,,Alzheimer's disease and other dementias,78365.0
+72,United States,USA,1992,United States of America,USA,,Alzheimer's disease and other dementias,83053.0
+73,United States,USA,1993,United States of America,USA,,Alzheimer's disease and other dementias,87768.0
+74,United States,USA,1994,United States of America,USA,,Alzheimer's disease and other dementias,91491.0
+75,United States,USA,1995,United States of America,USA,,Alzheimer's disease and other dementias,94855.0
+76,United States,USA,1996,United States of America,USA,,Alzheimer's disease and other dementias,96526.0
+77,United States,USA,1997,United States of America,USA,,Alzheimer's disease and other dementias,96342.0
+78,United States,USA,1998,United States of America,USA,,Alzheimer's disease and other dementias,95816.0
+79,United States,USA,1999,United States of America,USA,,Alzheimer's disease and other dementias,95512.0
+80,United States,USA,2000,United States of America,USA,,Alzheimer's disease and other dementias,96426.0
+81,United States,USA,2001,United States of America,USA,,Alzheimer's disease and other dementias,98558.0
+82,United States,USA,2002,United States of America,USA,,Alzheimer's disease and other dementias,101170.0
+83,United States,USA,2003,United States of America,USA,,Alzheimer's disease and other dementias,104024.0
+84,United States,USA,2004,United States of America,USA,,Alzheimer's disease and other dementias,106572.0
+85,United States,USA,2005,United States of America,USA,,Alzheimer's disease and other dementias,109900.0
+86,United States,USA,2006,United States of America,USA,,Alzheimer's disease and other dementias,112291.0
+87,United States,USA,2017,United States of America,USA,,Alzheimer's disease and other dementias,138750.0
+88,United States,USA,2018,United States of America,USA,,Alzheimer's disease and other dementias,141681.0
+89,United States,USA,2019,United States of America,USA,,Alzheimer's disease and other dementias,143919.0
+90,United States,USA,2007,United States of America,USA,,Parkinson's disease,23705.0
+91,United States,USA,2008,United States of America,USA,,Parkinson's disease,24369.0
+92,United States,USA,2009,United States of America,USA,,Parkinson's disease,24760.0
+93,United States,USA,2010,United States of America,USA,,Parkinson's disease,25309.0
+94,United States,USA,2011,United States of America,USA,,Parkinson's disease,26123.0
+95,United States,USA,2012,United States of America,USA,,Parkinson's disease,26781.0
+96,United States,USA,2013,United States of America,USA,,Parkinson's disease,27531.0
+97,United States,USA,2014,United States of America,USA,,Parkinson's disease,28193.0
+98,United States,USA,2015,United States of America,USA,,Parkinson's disease,29081.0
+99,United States,USA,2016,United States of America,USA,,Parkinson's disease,29748.0
+100,United States,USA,1990,United States of America,USA,,Parkinson's disease,12895.0
+101,United States,USA,1991,United States of America,USA,,Parkinson's disease,13217.0
+102,United States,USA,1992,United States of America,USA,,Parkinson's disease,13600.0
+103,United States,USA,1993,United States of America,USA,,Parkinson's disease,14301.0
+104,United States,USA,1994,United States of America,USA,,Parkinson's disease,14816.0
+105,United States,USA,1995,United States of America,USA,,Parkinson's disease,15434.0
+106,United States,USA,1996,United States of America,USA,,Parkinson's disease,15962.0
+107,United States,USA,1997,United States of America,USA,,Parkinson's disease,16545.0
+108,United States,USA,1998,United States of America,USA,,Parkinson's disease,17349.0
+109,United States,USA,1999,United States of America,USA,,Parkinson's disease,18354.0
+110,United States,USA,2000,United States of America,USA,,Parkinson's disease,19242.0
+111,United States,USA,2001,United States of America,USA,,Parkinson's disease,20082.0
+112,United States,USA,2002,United States of America,USA,,Parkinson's disease,20907.0
+113,United States,USA,2003,United States of America,USA,,Parkinson's disease,21562.0
+114,United States,USA,2004,United States of America,USA,,Parkinson's disease,21922.0
+115,United States,USA,2005,United States of America,USA,,Parkinson's disease,22755.0
+116,United States,USA,2006,United States of America,USA,,Parkinson's disease,23243.0
+117,United States,USA,2017,United States of America,USA,,Parkinson's disease,30014.0
+118,United States,USA,2018,United States of America,USA,,Parkinson's disease,31277.0
+119,United States,USA,2019,United States of America,USA,,Parkinson's disease,32211.0
+120,United States,USA,2007,United States of America,USA,,Nutritional deficiencies,4238.0
+121,United States,USA,2008,United States of America,USA,,Nutritional deficiencies,4280.0
+122,United States,USA,2009,United States of America,USA,,Nutritional deficiencies,4277.0
+123,United States,USA,2010,United States of America,USA,,Nutritional deficiencies,4367.0
+124,United States,USA,2011,United States of America,USA,,Nutritional deficiencies,4538.0
+125,United States,USA,2012,United States of America,USA,,Nutritional deficiencies,4707.0
+126,United States,USA,2013,United States of America,USA,,Nutritional deficiencies,4943.0
+127,United States,USA,2014,United States of America,USA,,Nutritional deficiencies,5268.0
+128,United States,USA,2015,United States of America,USA,,Nutritional deficiencies,5661.0
+129,United States,USA,2016,United States of America,USA,,Nutritional deficiencies,5952.0
+130,United States,USA,1990,United States of America,USA,,Nutritional deficiencies,2795.0
+131,United States,USA,1991,United States of America,USA,,Nutritional deficiencies,2855.0
+132,United States,USA,1992,United States of America,USA,,Nutritional deficiencies,2945.0
+133,United States,USA,1993,United States of America,USA,,Nutritional deficiencies,3148.0
+134,United States,USA,1994,United States of America,USA,,Nutritional deficiencies,3312.0
+135,United States,USA,1995,United States of America,USA,,Nutritional deficiencies,3530.0
+136,United States,USA,1996,United States of America,USA,,Nutritional deficiencies,3741.0
+137,United States,USA,1997,United States of America,USA,,Nutritional deficiencies,3978.0
+138,United States,USA,1998,United States of America,USA,,Nutritional deficiencies,4263.0
+139,United States,USA,1999,United States of America,USA,,Nutritional deficiencies,4617.0
+140,United States,USA,2000,United States of America,USA,,Nutritional deficiencies,4760.0
+141,United States,USA,2001,United States of America,USA,,Nutritional deficiencies,4736.0
+142,United States,USA,2002,United States of America,USA,,Nutritional deficiencies,4704.0
+143,United States,USA,2003,United States of America,USA,,Nutritional deficiencies,4570.0
+144,United States,USA,2004,United States of America,USA,,Nutritional deficiencies,4392.0
+145,United States,USA,2005,United States of America,USA,,Nutritional deficiencies,4372.0
+146,United States,USA,2006,United States of America,USA,,Nutritional deficiencies,4257.0
+147,United States,USA,2017,United States of America,USA,,Nutritional deficiencies,5814.0
+148,United States,USA,2018,United States of America,USA,,Nutritional deficiencies,5934.0
+149,United States,USA,2019,United States of America,USA,,Nutritional deficiencies,6090.0
+150,United States,USA,2007,United States of America,USA,,Malaria,0.0
+151,United States,USA,2008,United States of America,USA,,Malaria,0.0
+152,United States,USA,2009,United States of America,USA,,Malaria,0.0
+153,United States,USA,2010,United States of America,USA,,Malaria,0.0
+154,United States,USA,2011,United States of America,USA,,Malaria,0.0
+155,United States,USA,2012,United States of America,USA,,Malaria,0.0
+156,United States,USA,2013,United States of America,USA,,Malaria,0.0
+157,United States,USA,2014,United States of America,USA,,Malaria,0.0
+158,United States,USA,2015,United States of America,USA,,Malaria,0.0
+159,United States,USA,2016,United States of America,USA,,Malaria,0.0
+160,United States,USA,1990,United States of America,USA,,Malaria,0.0
+161,United States,USA,1991,United States of America,USA,,Malaria,0.0
+162,United States,USA,1992,United States of America,USA,,Malaria,0.0
+163,United States,USA,1993,United States of America,USA,,Malaria,0.0
+164,United States,USA,1994,United States of America,USA,,Malaria,0.0
+165,United States,USA,1995,United States of America,USA,,Malaria,0.0
+166,United States,USA,1996,United States of America,USA,,Malaria,0.0
+167,United States,USA,1997,United States of America,USA,,Malaria,0.0
+168,United States,USA,1998,United States of America,USA,,Malaria,0.0
+169,United States,USA,1999,United States of America,USA,,Malaria,0.0
+170,United States,USA,2000,United States of America,USA,,Malaria,0.0
+171,United States,USA,2001,United States of America,USA,,Malaria,0.0
+172,United States,USA,2002,United States of America,USA,,Malaria,0.0
+173,United States,USA,2003,United States of America,USA,,Malaria,0.0
+174,United States,USA,2004,United States of America,USA,,Malaria,0.0
+175,United States,USA,2005,United States of America,USA,,Malaria,0.0
+176,United States,USA,2006,United States of America,USA,,Malaria,0.0
+177,United States,USA,2017,United States of America,USA,,Malaria,0.0
+178,United States,USA,2018,United States of America,USA,,Malaria,0.0
+179,United States,USA,2019,United States of America,USA,,Malaria,0.0
+180,United States,USA,2007,United States of America,USA,,Drowning,3864.0
+181,United States,USA,2008,United States of America,USA,,Drowning,3819.0
+182,United States,USA,2009,United States of America,USA,,Drowning,3753.0
+183,United States,USA,2010,United States of America,USA,,Drowning,3684.0
+184,United States,USA,2011,United States of America,USA,,Drowning,3669.0
+185,United States,USA,2012,United States of America,USA,,Drowning,3647.0
+186,United States,USA,2013,United States of America,USA,,Drowning,3606.0
+187,United States,USA,2014,United States of America,USA,,Drowning,3627.0
+188,United States,USA,2015,United States of America,USA,,Drowning,3727.0
+189,United States,USA,2016,United States of America,USA,,Drowning,3846.0
+190,United States,USA,1990,United States of America,USA,,Drowning,4370.0
+191,United States,USA,1991,United States of America,USA,,Drowning,4246.0
+192,United States,USA,1992,United States of America,USA,,Drowning,4069.0
+193,United States,USA,1993,United States of America,USA,,Drowning,4075.0
+194,United States,USA,1994,United States of America,USA,,Drowning,3999.0
+195,United States,USA,1995,United States of America,USA,,Drowning,3967.0
+196,United States,USA,1996,United States of America,USA,,Drowning,3857.0
+197,United States,USA,1997,United States of America,USA,,Drowning,3810.0
+198,United States,USA,1998,United States of America,USA,,Drowning,3831.0
+199,United States,USA,1999,United States of America,USA,,Drowning,3749.0
+200,United States,USA,2000,United States of America,USA,,Drowning,3728.0
+201,United States,USA,2001,United States of America,USA,,Drowning,3720.0
+202,United States,USA,2002,United States of America,USA,,Drowning,3772.0
+203,United States,USA,2003,United States of America,USA,,Drowning,3761.0
+204,United States,USA,2004,United States of America,USA,,Drowning,3747.0
+205,United States,USA,2005,United States of America,USA,,Drowning,3850.0
+206,United States,USA,2006,United States of America,USA,,Drowning,3888.0
+207,United States,USA,2017,United States of America,USA,,Drowning,3769.0
+208,United States,USA,2018,United States of America,USA,,Drowning,3687.0
+209,United States,USA,2019,United States of America,USA,,Drowning,3615.0
+210,United States,USA,2007,United States of America,USA,,Interpersonal violence,19370.0
+211,United States,USA,2008,United States of America,USA,,Interpersonal violence,18716.0
+212,United States,USA,2009,United States of America,USA,,Interpersonal violence,17944.0
+213,United States,USA,2010,United States of America,USA,,Interpersonal violence,17329.0
+214,United States,USA,2011,United States of America,USA,,Interpersonal violence,17224.0
+215,United States,USA,2012,United States of America,USA,,Interpersonal violence,17577.0
+216,United States,USA,2013,United States of America,USA,,Interpersonal violence,16767.0
+217,United States,USA,2014,United States of America,USA,,Interpersonal violence,16618.0
+218,United States,USA,2015,United States of America,USA,,Interpersonal violence,18164.0
+219,United States,USA,2016,United States of America,USA,,Interpersonal violence,19254.0
+220,United States,USA,1990,United States of America,USA,,Interpersonal violence,25341.0
+221,United States,USA,1991,United States of America,USA,,Interpersonal violence,26081.0
+222,United States,USA,1992,United States of America,USA,,Interpersonal violence,25307.0
+223,United States,USA,1993,United States of America,USA,,Interpersonal violence,25598.0
+224,United States,USA,1994,United States of America,USA,,Interpersonal violence,24898.0
+225,United States,USA,1995,United States of America,USA,,Interpersonal violence,23477.0
+226,United States,USA,1996,United States of America,USA,,Interpersonal violence,21706.0
+227,United States,USA,1997,United States of America,USA,,Interpersonal violence,20385.0
+228,United States,USA,1998,United States of America,USA,,Interpersonal violence,19286.0
+229,United States,USA,1999,United States of America,USA,,Interpersonal violence,18421.0
+230,United States,USA,2000,United States of America,USA,,Interpersonal violence,18204.0
+231,United States,USA,2001,United States of America,USA,,Interpersonal violence,18723.0
+232,United States,USA,2002,United States of America,USA,,Interpersonal violence,18979.0
+233,United States,USA,2003,United States of America,USA,,Interpersonal violence,18911.0
+234,United States,USA,2004,United States of America,USA,,Interpersonal violence,18767.0
+235,United States,USA,2005,United States of America,USA,,Interpersonal violence,19380.0
+236,United States,USA,2006,United States of America,USA,,Interpersonal violence,19765.0
+237,United States,USA,2017,United States of America,USA,,Interpersonal violence,18831.0
+238,United States,USA,2018,United States of America,USA,,Interpersonal violence,18086.0
+239,United States,USA,2019,United States of America,USA,,Interpersonal violence,17709.0
+240,United States,USA,2007,United States of America,USA,,Maternal disorders,1062.0
+241,United States,USA,2008,United States of America,USA,,Maternal disorders,1103.0
+242,United States,USA,2009,United States of America,USA,,Maternal disorders,1080.0
+243,United States,USA,2010,United States of America,USA,,Maternal disorders,991.0
+244,United States,USA,2011,United States of America,USA,,Maternal disorders,1050.0
+245,United States,USA,2012,United States of America,USA,,Maternal disorders,1090.0
+246,United States,USA,2013,United States of America,USA,,Maternal disorders,1172.0
+247,United States,USA,2014,United States of America,USA,,Maternal disorders,1188.0
+248,United States,USA,2015,United States of America,USA,,Maternal disorders,1200.0
+249,United States,USA,2016,United States of America,USA,,Maternal disorders,1252.0
+250,United States,USA,1990,United States of America,USA,,Maternal disorders,538.0
+251,United States,USA,1991,United States of America,USA,,Maternal disorders,525.0
+252,United States,USA,1992,United States of America,USA,,Maternal disorders,509.0
+253,United States,USA,1993,United States of America,USA,,Maternal disorders,511.0
+254,United States,USA,1994,United States of America,USA,,Maternal disorders,524.0
+255,United States,USA,1995,United States of America,USA,,Maternal disorders,489.0
+256,United States,USA,1996,United States of America,USA,,Maternal disorders,508.0
+257,United States,USA,1997,United States of America,USA,,Maternal disorders,534.0
+258,United States,USA,1998,United States of America,USA,,Maternal disorders,508.0
+259,United States,USA,1999,United States of America,USA,,Maternal disorders,575.0
+260,United States,USA,2000,United States of America,USA,,Maternal disorders,617.0
+261,United States,USA,2001,United States of America,USA,,Maternal disorders,644.0
+262,United States,USA,2002,United States of America,USA,,Maternal disorders,634.0
+263,United States,USA,2003,United States of America,USA,,Maternal disorders,793.0
+264,United States,USA,2004,United States of America,USA,,Maternal disorders,921.0
+265,United States,USA,2005,United States of America,USA,,Maternal disorders,1007.0
+266,United States,USA,2006,United States of America,USA,,Maternal disorders,1042.0
+267,United States,USA,2017,United States of America,USA,,Maternal disorders,1101.0
+268,United States,USA,2018,United States of America,USA,,Maternal disorders,1048.0
+269,United States,USA,2019,United States of America,USA,,Maternal disorders,990.0
+270,United States,USA,2007,United States of America,USA,,HIV/AIDS,12444.0
+271,United States,USA,2008,United States of America,USA,,HIV/AIDS,11400.0
+272,United States,USA,2009,United States of America,USA,,HIV/AIDS,10551.0
+273,United States,USA,2010,United States of America,USA,,HIV/AIDS,9143.0
+274,United States,USA,2011,United States of America,USA,,HIV/AIDS,8428.0
+275,United States,USA,2012,United States of America,USA,,HIV/AIDS,7973.0
+276,United States,USA,2013,United States of America,USA,,HIV/AIDS,7682.0
+277,United States,USA,2014,United States of America,USA,,HIV/AIDS,7413.0
+278,United States,USA,2015,United States of America,USA,,HIV/AIDS,7089.0
+279,United States,USA,2016,United States of America,USA,,HIV/AIDS,7430.0
+280,United States,USA,1990,United States of America,USA,,HIV/AIDS,27789.0
+281,United States,USA,1991,United States of America,USA,,HIV/AIDS,32425.0
+282,United States,USA,1992,United States of America,USA,,HIV/AIDS,36485.0
+283,United States,USA,1993,United States of America,USA,,HIV/AIDS,40523.0
+284,United States,USA,1994,United States of America,USA,,HIV/AIDS,44959.0
+285,United States,USA,1995,United States of America,USA,,HIV/AIDS,45213.0
+286,United States,USA,1996,United States of America,USA,,HIV/AIDS,33684.0
+287,United States,USA,1997,United States of America,USA,,HIV/AIDS,19425.0
+288,United States,USA,1998,United States of America,USA,,HIV/AIDS,15921.0
+289,United States,USA,1999,United States of America,USA,,HIV/AIDS,17187.0
+290,United States,USA,2000,United States of America,USA,,HIV/AIDS,16072.0
+291,United States,USA,2001,United States of America,USA,,HIV/AIDS,15493.0
+292,United States,USA,2002,United States of America,USA,,HIV/AIDS,15477.0
+293,United States,USA,2003,United States of America,USA,,HIV/AIDS,15100.0
+294,United States,USA,2004,United States of America,USA,,HIV/AIDS,14416.0
+295,United States,USA,2005,United States of America,USA,,HIV/AIDS,13839.0
+296,United States,USA,2006,United States of America,USA,,HIV/AIDS,13265.0
+297,United States,USA,2017,United States of America,USA,,HIV/AIDS,7338.0
+298,United States,USA,2018,United States of America,USA,,HIV/AIDS,7200.0
+299,United States,USA,2019,United States of America,USA,,HIV/AIDS,7053.0
+300,United States,USA,2007,United States of America,USA,,Drug use disorders,28251.0
+301,United States,USA,2008,United States of America,USA,,Drug use disorders,29263.0
+302,United States,USA,2009,United States of America,USA,,Drug use disorders,30482.0
+303,United States,USA,2010,United States of America,USA,,Drug use disorders,31798.0
+304,United States,USA,2011,United States of America,USA,,Drug use disorders,34070.0
+305,United States,USA,2012,United States of America,USA,,Drug use disorders,36284.0
+306,United States,USA,2013,United States of America,USA,,Drug use disorders,39366.0
+307,United States,USA,2014,United States of America,USA,,Drug use disorders,43517.0
+308,United States,USA,2015,United States of America,USA,,Drug use disorders,49086.0
+309,United States,USA,2016,United States of America,USA,,Drug use disorders,56028.0
+310,United States,USA,1990,United States of America,USA,,Drug use disorders,5865.0
+311,United States,USA,1991,United States of America,USA,,Drug use disorders,6151.0
+312,United States,USA,1992,United States of America,USA,,Drug use disorders,6596.0
+313,United States,USA,1993,United States of America,USA,,Drug use disorders,7269.0
+314,United States,USA,1994,United States of America,USA,,Drug use disorders,7862.0
+315,United States,USA,1995,United States of America,USA,,Drug use disorders,8466.0
+316,United States,USA,1996,United States of America,USA,,Drug use disorders,9135.0
+317,United States,USA,1997,United States of America,USA,,Drug use disorders,10111.0
+318,United States,USA,1998,United States of America,USA,,Drug use disorders,11243.0
+319,United States,USA,1999,United States of America,USA,,Drug use disorders,12894.0
+320,United States,USA,2000,United States of America,USA,,Drug use disorders,14578.0
+321,United States,USA,2001,United States of America,USA,,Drug use disorders,16544.0
+322,United States,USA,2002,United States of America,USA,,Drug use disorders,19039.0
+323,United States,USA,2003,United States of America,USA,,Drug use disorders,21447.0
+324,United States,USA,2004,United States of America,USA,,Drug use disorders,23456.0
+325,United States,USA,2005,United States of America,USA,,Drug use disorders,25614.0
+326,United States,USA,2006,United States of America,USA,,Drug use disorders,27277.0
+327,United States,USA,2017,United States of America,USA,,Drug use disorders,60518.0
+328,United States,USA,2018,United States of America,USA,,Drug use disorders,62871.0
+329,United States,USA,2019,United States of America,USA,,Drug use disorders,65717.0
+330,United States,USA,2007,United States of America,USA,,Tuberculosis,953.0
+331,United States,USA,2008,United States of America,USA,,Tuberculosis,926.0
+332,United States,USA,2009,United States of America,USA,,Tuberculosis,891.0
+333,United States,USA,2010,United States of America,USA,,Tuberculosis,868.0
+334,United States,USA,2011,United States of America,USA,,Tuberculosis,862.0
+335,United States,USA,2012,United States of America,USA,,Tuberculosis,858.0
+336,United States,USA,2013,United States of America,USA,,Tuberculosis,871.0
+337,United States,USA,2014,United States of America,USA,,Tuberculosis,879.0
+338,United States,USA,2015,United States of America,USA,,Tuberculosis,900.0
+339,United States,USA,2016,United States of America,USA,,Tuberculosis,927.0
+340,United States,USA,1990,United States of America,USA,,Tuberculosis,2271.0
+341,United States,USA,1991,United States of America,USA,,Tuberculosis,2172.0
+342,United States,USA,1992,United States of America,USA,,Tuberculosis,2055.0
+343,United States,USA,1993,United States of America,USA,,Tuberculosis,1986.0
+344,United States,USA,1994,United States of America,USA,,Tuberculosis,1877.0
+345,United States,USA,1995,United States of America,USA,,Tuberculosis,1781.0
+346,United States,USA,1996,United States of America,USA,,Tuberculosis,1679.0
+347,United States,USA,1997,United States of America,USA,,Tuberculosis,1584.0
+348,United States,USA,1998,United States of America,USA,,Tuberculosis,1512.0
+349,United States,USA,1999,United States of America,USA,,Tuberculosis,1450.0
+350,United States,USA,2000,United States of America,USA,,Tuberculosis,1320.0
+351,United States,USA,2001,United States of America,USA,,Tuberculosis,1249.0
+352,United States,USA,2002,United States of America,USA,,Tuberculosis,1191.0
+353,United States,USA,2003,United States of America,USA,,Tuberculosis,1122.0
+354,United States,USA,2004,United States of America,USA,,Tuberculosis,1057.0
+355,United States,USA,2005,United States of America,USA,,Tuberculosis,1028.0
+356,United States,USA,2006,United States of America,USA,,Tuberculosis,995.0
+357,United States,USA,2017,United States of America,USA,,Tuberculosis,929.0
+358,United States,USA,2018,United States of America,USA,,Tuberculosis,956.0
+359,United States,USA,2019,United States of America,USA,,Tuberculosis,978.0
+360,United States,USA,2007,United States of America,USA,,Cardiovascular diseases,836120.0
+361,United States,USA,2008,United States of America,USA,,Cardiovascular diseases,833165.0
+362,United States,USA,2009,United States of America,USA,,Cardiovascular diseases,823362.0
+363,United States,USA,2010,United States of America,USA,,Cardiovascular diseases,820215.0
+364,United States,USA,2011,United States of America,USA,,Cardiovascular diseases,830800.0
+365,United States,USA,2012,United States of America,USA,,Cardiovascular diseases,837102.0
+366,United States,USA,2013,United States of America,USA,,Cardiovascular diseases,847344.0
+367,United States,USA,2014,United States of America,USA,,Cardiovascular diseases,858443.0
+368,United States,USA,2015,United States of America,USA,,Cardiovascular diseases,876853.0
+369,United States,USA,2016,United States of America,USA,,Cardiovascular diseases,892268.0
+370,United States,USA,1990,United States of America,USA,,Cardiovascular diseases,879646.0
+371,United States,USA,1991,United States of America,USA,,Cardiovascular diseases,877798.0
+372,United States,USA,1992,United States of America,USA,,Cardiovascular diseases,874992.0
+373,United States,USA,1993,United States of America,USA,,Cardiovascular diseases,895086.0
+374,United States,USA,1994,United States of America,USA,,Cardiovascular diseases,899691.0
+375,United States,USA,1995,United States of America,USA,,Cardiovascular diseases,908922.0
+376,United States,USA,1996,United States of America,USA,,Cardiovascular diseases,907009.0
+377,United States,USA,1997,United States of America,USA,,Cardiovascular diseases,904335.0
+378,United States,USA,1998,United States of America,USA,,Cardiovascular diseases,909266.0
+379,United States,USA,1999,United States of America,USA,,Cardiovascular diseases,920654.0
+380,United States,USA,2000,United States of America,USA,,Cardiovascular diseases,918346.0
+381,United States,USA,2001,United States of America,USA,,Cardiovascular diseases,913252.0
+382,United States,USA,2002,United States of America,USA,,Cardiovascular diseases,908753.0
+383,United States,USA,2003,United States of America,USA,,Cardiovascular diseases,895284.0
+384,United States,USA,2004,United States of America,USA,,Cardiovascular diseases,868245.0
+385,United States,USA,2005,United States of America,USA,,Cardiovascular diseases,864804.0
+386,United States,USA,2006,United States of America,USA,,Cardiovascular diseases,850549.0
+387,United States,USA,2017,United States of America,USA,,Cardiovascular diseases,899212.0
+388,United States,USA,2018,United States of America,USA,,Cardiovascular diseases,929375.0
+389,United States,USA,2019,United States of America,USA,,Cardiovascular diseases,957455.0
+390,United States,USA,2007,United States of America,USA,,Lower respiratory infections,69811.0
+391,United States,USA,2008,United States of America,USA,,Lower respiratory infections,69921.0
+392,United States,USA,2009,United States of America,USA,,Lower respiratory infections,68989.0
+393,United States,USA,2010,United States of America,USA,,Lower respiratory infections,68625.0
+394,United States,USA,2011,United States of America,USA,,Lower respiratory infections,69967.0
+395,United States,USA,2012,United States of America,USA,,Lower respiratory infections,70573.0
+396,United States,USA,2013,United States of America,USA,,Lower respiratory infections,72196.0
+397,United States,USA,2014,United States of America,USA,,Lower respiratory infections,73161.0
+398,United States,USA,2015,United States of America,USA,,Lower respiratory infections,74766.0
+399,United States,USA,2016,United States of America,USA,,Lower respiratory infections,75385.0
+400,United States,USA,1990,United States of America,USA,,Lower respiratory infections,72716.0
+401,United States,USA,1991,United States of America,USA,,Lower respiratory infections,73655.0
+402,United States,USA,1992,United States of America,USA,,Lower respiratory infections,74500.0
+403,United States,USA,1993,United States of America,USA,,Lower respiratory infections,77518.0
+404,United States,USA,1994,United States of America,USA,,Lower respiratory infections,78885.0
+405,United States,USA,1995,United States of America,USA,,Lower respiratory infections,80421.0
+406,United States,USA,1996,United States of America,USA,,Lower respiratory infections,80927.0
+407,United States,USA,1997,United States of America,USA,,Lower respiratory infections,81097.0
+408,United States,USA,1998,United States of America,USA,,Lower respiratory infections,81393.0
+409,United States,USA,1999,United States of America,USA,,Lower respiratory infections,78509.0
+410,United States,USA,2000,United States of America,USA,,Lower respiratory infections,77117.0
+411,United States,USA,2001,United States of America,USA,,Lower respiratory infections,75748.0
+412,United States,USA,2002,United States of America,USA,,Lower respiratory infections,75438.0
+413,United States,USA,2003,United States of America,USA,,Lower respiratory infections,74344.0
+414,United States,USA,2004,United States of America,USA,,Lower respiratory infections,72066.0
+415,United States,USA,2005,United States of America,USA,,Lower respiratory infections,72273.0
+416,United States,USA,2006,United States of America,USA,,Lower respiratory infections,70966.0
+417,United States,USA,2017,United States of America,USA,,Lower respiratory infections,76510.0
+418,United States,USA,2018,United States of America,USA,,Lower respiratory infections,79227.0
+419,United States,USA,2019,United States of America,USA,,Lower respiratory infections,81921.0
+420,United States,USA,2007,United States of America,USA,,Neonatal disorders,15210.0
+421,United States,USA,2008,United States of America,USA,,Neonatal disorders,14606.0
+422,United States,USA,2009,United States of America,USA,,Neonatal disorders,13675.0
+423,United States,USA,2010,United States of America,USA,,Neonatal disorders,12837.0
+424,United States,USA,2011,United States of America,USA,,Neonatal disorders,12602.0
+425,United States,USA,2012,United States of America,USA,,Neonatal disorders,12455.0
+426,United States,USA,2013,United States of America,USA,,Neonatal disorders,12376.0
+427,United States,USA,2014,United States of America,USA,,Neonatal disorders,12284.0
+428,United States,USA,2015,United States of America,USA,,Neonatal disorders,12235.0
+429,United States,USA,2016,United States of America,USA,,Neonatal disorders,12035.0
+430,United States,USA,1990,United States of America,USA,,Neonatal disorders,19306.0
+431,United States,USA,1991,United States of America,USA,,Neonatal disorders,18307.0
+432,United States,USA,1992,United States of America,USA,,Neonatal disorders,17259.0
+433,United States,USA,1993,United States of America,USA,,Neonatal disorders,16700.0
+434,United States,USA,1994,United States of America,USA,,Neonatal disorders,15899.0
+435,United States,USA,1995,United States of America,USA,,Neonatal disorders,15042.0
+436,United States,USA,1996,United States of America,USA,,Neonatal disorders,14531.0
+437,United States,USA,1997,United States of America,USA,,Neonatal disorders,14439.0
+438,United States,USA,1998,United States of America,USA,,Neonatal disorders,14632.0
+439,United States,USA,1999,United States of America,USA,,Neonatal disorders,14776.0
+440,United States,USA,2000,United States of America,USA,,Neonatal disorders,14828.0
+441,United States,USA,2001,United States of America,USA,,Neonatal disorders,14623.0
+442,United States,USA,2002,United States of America,USA,,Neonatal disorders,14839.0
+443,United States,USA,2003,United States of America,USA,,Neonatal disorders,14976.0
+444,United States,USA,2004,United States of America,USA,,Neonatal disorders,14859.0
+445,United States,USA,2005,United States of America,USA,,Neonatal disorders,15105.0
+446,United States,USA,2006,United States of America,USA,,Neonatal disorders,15221.0
+447,United States,USA,2017,United States of America,USA,,Neonatal disorders,11642.0
+448,United States,USA,2018,United States of America,USA,,Neonatal disorders,11223.0
+449,United States,USA,2019,United States of America,USA,,Neonatal disorders,10994.0
+450,United States,USA,2007,United States of America,USA,,Alcohol use disorders,10896.0
+451,United States,USA,2008,United States of America,USA,,Alcohol use disorders,11191.0
+452,United States,USA,2009,United States of America,USA,,Alcohol use disorders,11476.0
+453,United States,USA,2010,United States of America,USA,,Alcohol use disorders,11831.0
+454,United States,USA,2011,United States of America,USA,,Alcohol use disorders,12227.0
+455,United States,USA,2012,United States of America,USA,,Alcohol use disorders,12635.0
+456,United States,USA,2013,United States of America,USA,,Alcohol use disorders,13089.0
+457,United States,USA,2014,United States of America,USA,,Alcohol use disorders,13542.0
+458,United States,USA,2015,United States of America,USA,,Alcohol use disorders,14005.0
+459,United States,USA,2016,United States of America,USA,,Alcohol use disorders,14347.0
+460,United States,USA,1990,United States of America,USA,,Alcohol use disorders,6763.0
+461,United States,USA,1991,United States of America,USA,,Alcohol use disorders,6868.0
+462,United States,USA,1992,United States of America,USA,,Alcohol use disorders,7035.0
+463,United States,USA,1993,United States of America,USA,,Alcohol use disorders,7200.0
+464,United States,USA,1994,United States of America,USA,,Alcohol use disorders,7347.0
+465,United States,USA,1995,United States of America,USA,,Alcohol use disorders,7484.0
+466,United States,USA,1996,United States of America,USA,,Alcohol use disorders,7578.0
+467,United States,USA,1997,United States of America,USA,,Alcohol use disorders,7701.0
+468,United States,USA,1998,United States of America,USA,,Alcohol use disorders,7924.0
+469,United States,USA,1999,United States of America,USA,,Alcohol use disorders,8298.0
+470,United States,USA,2000,United States of America,USA,,Alcohol use disorders,8666.0
+471,United States,USA,2001,United States of America,USA,,Alcohol use disorders,9062.0
+472,United States,USA,2002,United States of America,USA,,Alcohol use disorders,9418.0
+473,United States,USA,2003,United States of America,USA,,Alcohol use disorders,9740.0
+474,United States,USA,2004,United States of America,USA,,Alcohol use disorders,10033.0
+475,United States,USA,2005,United States of America,USA,,Alcohol use disorders,10356.0
+476,United States,USA,2006,United States of America,USA,,Alcohol use disorders,10670.0
+477,United States,USA,2017,United States of America,USA,,Alcohol use disorders,14169.0
+478,United States,USA,2018,United States of America,USA,,Alcohol use disorders,14162.0
+479,United States,USA,2019,United States of America,USA,,Alcohol use disorders,14044.0
+480,United States,USA,2007,United States of America,USA,,Self,39352.0
+481,United States,USA,2008,United States of America,USA,,Self,40357.0
+482,United States,USA,2009,United States of America,USA,,Self,41273.0
+483,United States,USA,2010,United States of America,USA,,Self,41719.0
+484,United States,USA,2011,United States of America,USA,,Self,42805.0
+485,United States,USA,2012,United States of America,USA,,Self,43395.0
+486,United States,USA,2013,United States of America,USA,,Self,44026.0
+487,United States,USA,2014,United States of America,USA,,Self,44950.0
+488,United States,USA,2015,United States of America,USA,,Self,46209.0
+489,United States,USA,2016,United States of America,USA,,Self,47550.0
+490,United States,USA,1990,United States of America,USA,,Self,33964.0
+491,United States,USA,1991,United States of America,USA,,Self,34014.0
+492,United States,USA,1992,United States of America,USA,,Self,34067.0
+493,United States,USA,1993,United States of America,USA,,Self,34893.0
+494,United States,USA,1994,United States of America,USA,,Self,35122.0
+495,United States,USA,1995,United States of America,USA,,Self,35211.0
+496,United States,USA,1996,United States of America,USA,,Self,34804.0
+497,United States,USA,1997,United States of America,USA,,Self,34622.0
+498,United States,USA,1998,United States of America,USA,,Self,34395.0
+499,United States,USA,1999,United States of America,USA,,Self,34091.0
+500,United States,USA,2000,United States of America,USA,,Self,34363.0
+501,United States,USA,2001,United States of America,USA,,Self,35048.0
+502,United States,USA,2002,United States of America,USA,,Self,35851.0
+503,United States,USA,2003,United States of America,USA,,Self,36275.0
+504,United States,USA,2004,United States of America,USA,,Self,36380.0
+505,United States,USA,2005,United States of America,USA,,Self,37506.0
+506,United States,USA,2006,United States of America,USA,,Self,38544.0
+507,United States,USA,2017,United States of America,USA,,Self,46740.0
+508,United States,USA,2018,United States of America,USA,,Self,46011.0
+509,United States,USA,2019,United States of America,USA,,Self,45349.0
+510,United States,USA,2007,United States of America,USA,,Exposure to forces of nature,240.0
+511,United States,USA,2008,United States of America,USA,,Exposure to forces of nature,231.0
+512,United States,USA,2009,United States of America,USA,,Exposure to forces of nature,125.0
+513,United States,USA,2010,United States of America,USA,,Exposure to forces of nature,177.0
+514,United States,USA,2011,United States of America,USA,,Exposure to forces of nature,828.0
+515,United States,USA,2012,United States of America,USA,,Exposure to forces of nature,235.0
+516,United States,USA,2013,United States of America,USA,,Exposure to forces of nature,216.0
+517,United States,USA,2014,United States of America,USA,,Exposure to forces of nature,235.0
+518,United States,USA,2015,United States of America,USA,,Exposure to forces of nature,287.0
+519,United States,USA,2016,United States of America,USA,,Exposure to forces of nature,252.0
+520,United States,USA,1990,United States of America,USA,,Exposure to forces of nature,230.0
+521,United States,USA,1991,United States of America,USA,,Exposure to forces of nature,124.0
+522,United States,USA,1992,United States of America,USA,,Exposure to forces of nature,123.0
+523,United States,USA,1993,United States of America,USA,,Exposure to forces of nature,254.0
+524,United States,USA,1994,United States of America,USA,,Exposure to forces of nature,303.0
+525,United States,USA,1995,United States of America,USA,,Exposure to forces of nature,133.0
+526,United States,USA,1996,United States of America,USA,,Exposure to forces of nature,266.0
+527,United States,USA,1997,United States of America,USA,,Exposure to forces of nature,261.0
+528,United States,USA,1998,United States of America,USA,,Exposure to forces of nature,283.0
+529,United States,USA,1999,United States of America,USA,,Exposure to forces of nature,259.0
+530,United States,USA,2000,United States of America,USA,,Exposure to forces of nature,140.0
+531,United States,USA,2001,United States of America,USA,,Exposure to forces of nature,154.0
+532,United States,USA,2002,United States of America,USA,,Exposure to forces of nature,249.0
+533,United States,USA,2003,United States of America,USA,,Exposure to forces of nature,251.0
+534,United States,USA,2004,United States of America,USA,,Exposure to forces of nature,180.0
+535,United States,USA,2005,United States of America,USA,,Exposure to forces of nature,3923.0
+536,United States,USA,2006,United States of America,USA,,Exposure to forces of nature,185.0
+537,United States,USA,2017,United States of America,USA,,Exposure to forces of nature,243.0
+538,United States,USA,2018,United States of America,USA,,Exposure to forces of nature,220.0
+539,United States,USA,2019,United States of America,USA,,Exposure to forces of nature,105.0
+540,United States,USA,2007,United States of America,USA,,Diarrheal diseases,9586.0
+541,United States,USA,2008,United States of America,USA,,Diarrheal diseases,10287.0
+542,United States,USA,2009,United States of America,USA,,Diarrheal diseases,10637.0
+543,United States,USA,2010,United States of America,USA,,Diarrheal diseases,10928.0
+544,United States,USA,2011,United States of America,USA,,Diarrheal diseases,11327.0
+545,United States,USA,2012,United States of America,USA,,Diarrheal diseases,11466.0
+546,United States,USA,2013,United States of America,USA,,Diarrheal diseases,11553.0
+547,United States,USA,2014,United States of America,USA,,Diarrheal diseases,11541.0
+548,United States,USA,2015,United States of America,USA,,Diarrheal diseases,11625.0
+549,United States,USA,2016,United States of America,USA,,Diarrheal diseases,11572.0
+550,United States,USA,1990,United States of America,USA,,Diarrheal diseases,681.0
+551,United States,USA,1991,United States of America,USA,,Diarrheal diseases,746.0
+552,United States,USA,1992,United States of America,USA,,Diarrheal diseases,816.0
+553,United States,USA,1993,United States of America,USA,,Diarrheal diseases,925.0
+554,United States,USA,1994,United States of America,USA,,Diarrheal diseases,1034.0
+555,United States,USA,1995,United States of America,USA,,Diarrheal diseases,1170.0
+556,United States,USA,1996,United States of America,USA,,Diarrheal diseases,1330.0
+557,United States,USA,1997,United States of America,USA,,Diarrheal diseases,1571.0
+558,United States,USA,1998,United States of America,USA,,Diarrheal diseases,1907.0
+559,United States,USA,1999,United States of America,USA,,Diarrheal diseases,2531.0
+560,United States,USA,2000,United States of America,USA,,Diarrheal diseases,3266.0
+561,United States,USA,2001,United States of America,USA,,Diarrheal diseases,4020.0
+562,United States,USA,2002,United States of America,USA,,Diarrheal diseases,4932.0
+563,United States,USA,2003,United States of America,USA,,Diarrheal diseases,5870.0
+564,United States,USA,2004,United States of America,USA,,Diarrheal diseases,6844.0
+565,United States,USA,2005,United States of America,USA,,Diarrheal diseases,7953.0
+566,United States,USA,2006,United States of America,USA,,Diarrheal diseases,8885.0
+567,United States,USA,2017,United States of America,USA,,Diarrheal diseases,11354.0
+568,United States,USA,2018,United States of America,USA,,Diarrheal diseases,11518.0
+569,United States,USA,2019,United States of America,USA,,Diarrheal diseases,11727.0
+570,United States,USA,2007,United States of America,USA,,Environmental heat and cold exposure,1201.0
+571,United States,USA,2008,United States of America,USA,,Environmental heat and cold exposure,1186.0
+572,United States,USA,2009,United States of America,USA,,Environmental heat and cold exposure,1176.0
+573,United States,USA,2010,United States of America,USA,,Environmental heat and cold exposure,1184.0
+574,United States,USA,2011,United States of America,USA,,Environmental heat and cold exposure,1208.0
+575,United States,USA,2012,United States of America,USA,,Environmental heat and cold exposure,1206.0
+576,United States,USA,2013,United States of America,USA,,Environmental heat and cold exposure,1231.0
+577,United States,USA,2014,United States of America,USA,,Environmental heat and cold exposure,1268.0
+578,United States,USA,2015,United States of America,USA,,Environmental heat and cold exposure,1304.0
+579,United States,USA,2016,United States of America,USA,,Environmental heat and cold exposure,1370.0
+580,United States,USA,1990,United States of America,USA,,Environmental heat and cold exposure,1468.0
+581,United States,USA,1991,United States of America,USA,,Environmental heat and cold exposure,1406.0
+582,United States,USA,1992,United States of America,USA,,Environmental heat and cold exposure,1371.0
+583,United States,USA,1993,United States of America,USA,,Environmental heat and cold exposure,1635.0
+584,United States,USA,1994,United States of America,USA,,Environmental heat and cold exposure,1416.0
+585,United States,USA,1995,United States of America,USA,,Environmental heat and cold exposure,1911.0
+586,United States,USA,1996,United States of America,USA,,Environmental heat and cold exposure,1428.0
+587,United States,USA,1997,United States of America,USA,,Environmental heat and cold exposure,1383.0
+588,United States,USA,1998,United States of America,USA,,Environmental heat and cold exposure,1443.0
+589,United States,USA,1999,United States of America,USA,,Environmental heat and cold exposure,1470.0
+590,United States,USA,2000,United States of America,USA,,Environmental heat and cold exposure,1296.0
+591,United States,USA,2001,United States of America,USA,,Environmental heat and cold exposure,1225.0
+592,United States,USA,2002,United States of America,USA,,Environmental heat and cold exposure,1405.0
+593,United States,USA,2003,United States of America,USA,,Environmental heat and cold exposure,1187.0
+594,United States,USA,2004,United States of America,USA,,Environmental heat and cold exposure,1172.0
+595,United States,USA,2005,United States of America,USA,,Environmental heat and cold exposure,1313.0
+596,United States,USA,2006,United States of America,USA,,Environmental heat and cold exposure,1450.0
+597,United States,USA,2017,United States of America,USA,,Environmental heat and cold exposure,1346.0
+598,United States,USA,2018,United States of America,USA,,Environmental heat and cold exposure,1365.0
+599,United States,USA,2019,United States of America,USA,,Environmental heat and cold exposure,1378.0
+600,United States,USA,2007,United States of America,USA,,Neoplasms,625940.0
+601,United States,USA,2008,United States of America,USA,,Neoplasms,637146.0
+602,United States,USA,2009,United States of America,USA,,Neoplasms,644331.0
+603,United States,USA,2010,United States of America,USA,,Neoplasms,648290.0
+604,United States,USA,2011,United States of America,USA,,Neoplasms,659516.0
+605,United States,USA,2012,United States of America,USA,,Neoplasms,668318.0
+606,United States,USA,2013,United States of America,USA,,Neoplasms,678428.0
+607,United States,USA,2014,United States of America,USA,,Neoplasms,689157.0
+608,United States,USA,2015,United States of America,USA,,Neoplasms,700941.0
+609,United States,USA,2016,United States of America,USA,,Neoplasms,715197.0
+610,United States,USA,1990,United States of America,USA,,Neoplasms,539139.0
+611,United States,USA,1991,United States of America,USA,,Neoplasms,544760.0
+612,United States,USA,1992,United States of America,USA,,Neoplasms,550919.0
+613,United States,USA,1993,United States of America,USA,,Neoplasms,565698.0
+614,United States,USA,1994,United States of America,USA,,Neoplasms,573321.0
+615,United States,USA,1995,United States of America,USA,,Neoplasms,582371.0
+616,United States,USA,1996,United States of America,USA,,Neoplasms,583202.0
+617,United States,USA,1997,United States of America,USA,,Neoplasms,583773.0
+618,United States,USA,1998,United States of America,USA,,Neoplasms,589017.0
+619,United States,USA,1999,United States of America,USA,,Neoplasms,597618.0
+620,United States,USA,2000,United States of America,USA,,Neoplasms,602487.0
+621,United States,USA,2001,United States of America,USA,,Neoplasms,606130.0
+622,United States,USA,2002,United States of America,USA,,Neoplasms,610949.0
+623,United States,USA,2003,United States of America,USA,,Neoplasms,612745.0
+624,United States,USA,2004,United States of America,USA,,Neoplasms,609433.0
+625,United States,USA,2005,United States of America,USA,,Neoplasms,615940.0
+626,United States,USA,2006,United States of America,USA,,Neoplasms,620516.0
+627,United States,USA,2017,United States of America,USA,,Neoplasms,725719.0
+628,United States,USA,2018,United States of America,USA,,Neoplasms,750419.0
+629,United States,USA,2019,United States of America,USA,,Neoplasms,773895.0
+630,United States,USA,2007,United States of America,USA,,Conflict and terrorism,1031.0
+631,United States,USA,2008,United States of America,USA,,Conflict and terrorism,487.0
+632,United States,USA,2009,United States of America,USA,,Conflict and terrorism,502.0
+633,United States,USA,2010,United States of America,USA,,Conflict and terrorism,579.0
+634,United States,USA,2011,United States of America,USA,,Conflict and terrorism,489.0
+635,United States,USA,2012,United States of America,USA,,Conflict and terrorism,326.0
+636,United States,USA,2013,United States of America,USA,,Conflict and terrorism,170.0
+637,United States,USA,2014,United States of America,USA,,Conflict and terrorism,91.0
+638,United States,USA,2015,United States of America,USA,,Conflict and terrorism,74.0
+639,United States,USA,2016,United States of America,USA,,Conflict and terrorism,57.0
+640,United States,USA,1990,United States of America,USA,,Conflict and terrorism,21.0
+641,United States,USA,1991,United States of America,USA,,Conflict and terrorism,159.0
+642,United States,USA,1992,United States of America,USA,,Conflict and terrorism,78.0
+643,United States,USA,1993,United States of America,USA,,Conflict and terrorism,72.0
+644,United States,USA,1994,United States of America,USA,,Conflict and terrorism,44.0
+645,United States,USA,1995,United States of America,USA,,Conflict and terrorism,190.0
+646,United States,USA,1996,United States of America,USA,,Conflict and terrorism,43.0
+647,United States,USA,1997,United States of America,USA,,Conflict and terrorism,32.0
+648,United States,USA,1998,United States of America,USA,,Conflict and terrorism,197.0
+649,United States,USA,1999,United States of America,USA,,Conflict and terrorism,46.0
+650,United States,USA,2000,United States of America,USA,,Conflict and terrorism,41.0
+651,United States,USA,2001,United States of America,USA,,Conflict and terrorism,4279.0
+652,United States,USA,2002,United States of America,USA,,Conflict and terrorism,66.0
+653,United States,USA,2003,United States of America,USA,,Conflict and terrorism,538.0
+654,United States,USA,2004,United States of America,USA,,Conflict and terrorism,927.0
+655,United States,USA,2005,United States of America,USA,,Conflict and terrorism,969.0
+656,United States,USA,2006,United States of America,USA,,Conflict and terrorism,948.0
+657,United States,USA,2017,United States of America,USA,,Conflict and terrorism,17.0
+658,United States,USA,2018,United States of America,USA,,Conflict and terrorism,2.0
+659,United States,USA,2019,United States of America,USA,,Conflict and terrorism,31.0
+660,United States,USA,2007,United States of America,USA,,Diabetes mellitus,73228.0
+661,United States,USA,2008,United States of America,USA,,Diabetes mellitus,72592.0
+662,United States,USA,2009,United States of America,USA,,Diabetes mellitus,71235.0
+663,United States,USA,2010,United States of America,USA,,Diabetes mellitus,69915.0
+664,United States,USA,2011,United States of America,USA,,Diabetes mellitus,68571.0
+665,United States,USA,2012,United States of America,USA,,Diabetes mellitus,67741.0
+666,United States,USA,2013,United States of America,USA,,Diabetes mellitus,67235.0
+667,United States,USA,2014,United States of America,USA,,Diabetes mellitus,67583.0
+668,United States,USA,2015,United States of America,USA,,Diabetes mellitus,68860.0
+669,United States,USA,2016,United States of America,USA,,Diabetes mellitus,70534.0
+670,United States,USA,1990,United States of America,USA,,Diabetes mellitus,47140.0
+671,United States,USA,1991,United States of America,USA,,Diabetes mellitus,49037.0
+672,United States,USA,1992,United States of America,USA,,Diabetes mellitus,51045.0
+673,United States,USA,1993,United States of America,USA,,Diabetes mellitus,54543.0
+674,United States,USA,1994,United States of America,USA,,Diabetes mellitus,57260.0
+675,United States,USA,1995,United States of America,USA,,Diabetes mellitus,60140.0
+676,United States,USA,1996,United States of America,USA,,Diabetes mellitus,62422.0
+677,United States,USA,1997,United States of America,USA,,Diabetes mellitus,64519.0
+678,United States,USA,1998,United States of America,USA,,Diabetes mellitus,67162.0
+679,United States,USA,1999,United States of America,USA,,Diabetes mellitus,70341.0
+680,United States,USA,2000,United States of America,USA,,Diabetes mellitus,72376.0
+681,United States,USA,2001,United States of America,USA,,Diabetes mellitus,74237.0
+682,United States,USA,2002,United States of America,USA,,Diabetes mellitus,75715.0
+683,United States,USA,2003,United States of America,USA,,Diabetes mellitus,76291.0
+684,United States,USA,2004,United States of America,USA,,Diabetes mellitus,75309.0
+685,United States,USA,2005,United States of America,USA,,Diabetes mellitus,75892.0
+686,United States,USA,2006,United States of America,USA,,Diabetes mellitus,74669.0
+687,United States,USA,2017,United States of America,USA,,Diabetes mellitus,72239.0
+688,United States,USA,2018,United States of America,USA,,Diabetes mellitus,75081.0
+689,United States,USA,2019,United States of America,USA,,Diabetes mellitus,77719.0
+690,United States,USA,2007,United States of America,USA,,Chronic kidney disease,72852.0
+691,United States,USA,2008,United States of America,USA,,Chronic kidney disease,76152.0
+692,United States,USA,2009,United States of America,USA,,Chronic kidney disease,78863.0
+693,United States,USA,2010,United States of America,USA,,Chronic kidney disease,82391.0
+694,United States,USA,2011,United States of America,USA,,Chronic kidney disease,86464.0
+695,United States,USA,2012,United States of America,USA,,Chronic kidney disease,89367.0
+696,United States,USA,2013,United States of America,USA,,Chronic kidney disease,92802.0
+697,United States,USA,2014,United States of America,USA,,Chronic kidney disease,96182.0
+698,United States,USA,2015,United States of America,USA,,Chronic kidney disease,99915.0
+699,United States,USA,2016,United States of America,USA,,Chronic kidney disease,102601.0
+700,United States,USA,1990,United States of America,USA,,Chronic kidney disease,33101.0
+701,United States,USA,1991,United States of America,USA,,Chronic kidney disease,33885.0
+702,United States,USA,1992,United States of America,USA,,Chronic kidney disease,34919.0
+703,United States,USA,1993,United States of America,USA,,Chronic kidney disease,36767.0
+704,United States,USA,1994,United States of America,USA,,Chronic kidney disease,38199.0
+705,United States,USA,1995,United States of America,USA,,Chronic kidney disease,39946.0
+706,United States,USA,1996,United States of America,USA,,Chronic kidney disease,41627.0
+707,United States,USA,1997,United States of America,USA,,Chronic kidney disease,43504.0
+708,United States,USA,1998,United States of America,USA,,Chronic kidney disease,46077.0
+709,United States,USA,1999,United States of America,USA,,Chronic kidney disease,49593.0
+710,United States,USA,2000,United States of America,USA,,Chronic kidney disease,53052.0
+711,United States,USA,2001,United States of America,USA,,Chronic kidney disease,56223.0
+712,United States,USA,2002,United States of America,USA,,Chronic kidney disease,59027.0
+713,United States,USA,2003,United States of America,USA,,Chronic kidney disease,61472.0
+714,United States,USA,2004,United States of America,USA,,Chronic kidney disease,63437.0
+715,United States,USA,2005,United States of America,USA,,Chronic kidney disease,67056.0
+716,United States,USA,2006,United States of America,USA,,Chronic kidney disease,69954.0
+717,United States,USA,2017,United States of America,USA,,Chronic kidney disease,101751.0
+718,United States,USA,2018,United States of America,USA,,Chronic kidney disease,104364.0
+719,United States,USA,2019,United States of America,USA,,Chronic kidney disease,106954.0
+720,United States,USA,2007,United States of America,USA,,Poisonings,1414.0
+721,United States,USA,2008,United States of America,USA,,Poisonings,1435.0
+722,United States,USA,2009,United States of America,USA,,Poisonings,1448.0
+723,United States,USA,2010,United States of America,USA,,Poisonings,1443.0
+724,United States,USA,2011,United States of America,USA,,Poisonings,1477.0
+725,United States,USA,2012,United States of America,USA,,Poisonings,1485.0
+726,United States,USA,2013,United States of America,USA,,Poisonings,1501.0
+727,United States,USA,2014,United States of America,USA,,Poisonings,1540.0
+728,United States,USA,2015,United States of America,USA,,Poisonings,1591.0
+729,United States,USA,2016,United States of America,USA,,Poisonings,1642.0
+730,United States,USA,1990,United States of America,USA,,Poisonings,1330.0
+731,United States,USA,1991,United States of America,USA,,Poisonings,1282.0
+732,United States,USA,1992,United States of America,USA,,Poisonings,1225.0
+733,United States,USA,1993,United States of America,USA,,Poisonings,1216.0
+734,United States,USA,1994,United States of America,USA,,Poisonings,1192.0
+735,United States,USA,1995,United States of America,USA,,Poisonings,1161.0
+736,United States,USA,1996,United States of America,USA,,Poisonings,1137.0
+737,United States,USA,1997,United States of America,USA,,Poisonings,1109.0
+738,United States,USA,1998,United States of America,USA,,Poisonings,1079.0
+739,United States,USA,1999,United States of America,USA,,Poisonings,1086.0
+740,United States,USA,2000,United States of America,USA,,Poisonings,1117.0
+741,United States,USA,2001,United States of America,USA,,Poisonings,1161.0
+742,United States,USA,2002,United States of America,USA,,Poisonings,1224.0
+743,United States,USA,2003,United States of America,USA,,Poisonings,1265.0
+744,United States,USA,2004,United States of America,USA,,Poisonings,1279.0
+745,United States,USA,2005,United States of America,USA,,Poisonings,1343.0
+746,United States,USA,2006,United States of America,USA,,Poisonings,1388.0
+747,United States,USA,2017,United States of America,USA,,Poisonings,1599.0
+748,United States,USA,2018,United States of America,USA,,Poisonings,1562.0
+749,United States,USA,2019,United States of America,USA,,Poisonings,1528.0
+750,United States,USA,2007,United States of America,USA,,Protein,3861.0
+751,United States,USA,2008,United States of America,USA,,Protein,3907.0
+752,United States,USA,2009,United States of America,USA,,Protein,3924.0
+753,United States,USA,2010,United States of America,USA,,Protein,4024.0
+754,United States,USA,2011,United States of America,USA,,Protein,4192.0
+755,United States,USA,2012,United States of America,USA,,Protein,4360.0
+756,United States,USA,2013,United States of America,USA,,Protein,4601.0
+757,United States,USA,2014,United States of America,USA,,Protein,4918.0
+758,United States,USA,2015,United States of America,USA,,Protein,5301.0
+759,United States,USA,2016,United States of America,USA,,Protein,5586.0
+760,United States,USA,1990,United States of America,USA,,Protein,2419.0
+761,United States,USA,1991,United States of America,USA,,Protein,2481.0
+762,United States,USA,1992,United States of America,USA,,Protein,2569.0
+763,United States,USA,1993,United States of America,USA,,Protein,2748.0
+764,United States,USA,1994,United States of America,USA,,Protein,2900.0
+765,United States,USA,1995,United States of America,USA,,Protein,3103.0
+766,United States,USA,1996,United States of America,USA,,Protein,3298.0
+767,United States,USA,1997,United States of America,USA,,Protein,3519.0
+768,United States,USA,1998,United States of America,USA,,Protein,3783.0
+769,United States,USA,1999,United States of America,USA,,Protein,4122.0
+770,United States,USA,2000,United States of America,USA,,Protein,4261.0
+771,United States,USA,2001,United States of America,USA,,Protein,4255.0
+772,United States,USA,2002,United States of America,USA,,Protein,4237.0
+773,United States,USA,2003,United States of America,USA,,Protein,4123.0
+774,United States,USA,2004,United States of America,USA,,Protein,3977.0
+775,United States,USA,2005,United States of America,USA,,Protein,3967.0
+776,United States,USA,2006,United States of America,USA,,Protein,3866.0
+777,United States,USA,2017,United States of America,USA,,Protein,5453.0
+778,United States,USA,2018,United States of America,USA,,Protein,5565.0
+779,United States,USA,2019,United States of America,USA,,Protein,5710.0
+780,United States,USA,2007,United States of America,USA,,Terrorism (deaths),0.0
+781,United States,USA,2008,United States of America,USA,,Terrorism (deaths),2.0
+782,United States,USA,2009,United States of America,USA,,Terrorism (deaths),18.0
+783,United States,USA,2010,United States of America,USA,,Terrorism (deaths),4.0
+784,United States,USA,2011,United States of America,USA,,Terrorism (deaths),0.0
+785,United States,USA,2012,United States of America,USA,,Terrorism (deaths),7.0
+786,United States,USA,2013,United States of America,USA,,Terrorism (deaths),23.0
+787,United States,USA,2014,United States of America,USA,,Terrorism (deaths),26.0
+788,United States,USA,2015,United States of America,USA,,Terrorism (deaths),54.0
+789,United States,USA,2016,United States of America,USA,,Terrorism (deaths),68.0
+790,United States,USA,1990,United States of America,USA,,Terrorism (deaths),5.0
+791,United States,USA,1991,United States of America,USA,,Terrorism (deaths),2.0
+792,United States,USA,1992,United States of America,USA,,Terrorism (deaths),2.0
+793,United States,USA,1993,United States of America,USA,,Terrorism (deaths),
+794,United States,USA,1994,United States of America,USA,,Terrorism (deaths),10.0
+795,United States,USA,1995,United States of America,USA,,Terrorism (deaths),178.0
+796,United States,USA,1996,United States of America,USA,,Terrorism (deaths),2.0
+797,United States,USA,1997,United States of America,USA,,Terrorism (deaths),2.0
+798,United States,USA,1998,United States of America,USA,,Terrorism (deaths),4.0
+799,United States,USA,1999,United States of America,USA,,Terrorism (deaths),20.0
+800,United States,USA,2000,United States of America,USA,,Terrorism (deaths),0.0
+801,United States,USA,2001,United States of America,USA,,Terrorism (deaths),3008.0
+802,United States,USA,2002,United States of America,USA,,Terrorism (deaths),4.0
+803,United States,USA,2003,United States of America,USA,,Terrorism (deaths),0.0
+804,United States,USA,2004,United States of America,USA,,Terrorism (deaths),0.0
+805,United States,USA,2005,United States of America,USA,,Terrorism (deaths),0.0
+806,United States,USA,2006,United States of America,USA,,Terrorism (deaths),1.0
+807,United States,USA,2017,United States of America,USA,,Terrorism (deaths),95.0
+808,United States,USA,2018,United States of America,USA,,Terrorism (deaths),
+809,United States,USA,2019,United States of America,USA,,Terrorism (deaths),
+810,United States,USA,2007,United States of America,USA,,Road injuries,46498.0
+811,United States,USA,2008,United States of America,USA,,Road injuries,44535.0
+812,United States,USA,2009,United States of America,USA,,Road injuries,42561.0
+813,United States,USA,2010,United States of America,USA,,Road injuries,40874.0
+814,United States,USA,2011,United States of America,USA,,Road injuries,40383.0
+815,United States,USA,2012,United States of America,USA,,Road injuries,39985.0
+816,United States,USA,2013,United States of America,USA,,Road injuries,39785.0
+817,United States,USA,2014,United States of America,USA,,Road injuries,40155.0
+818,United States,USA,2015,United States of America,USA,,Road injuries,41198.0
+819,United States,USA,2016,United States of America,USA,,Road injuries,42360.0
+820,United States,USA,1990,United States of America,USA,,Road injuries,48970.0
+821,United States,USA,1991,United States of America,USA,,Road injuries,47833.0
+822,United States,USA,1992,United States of America,USA,,Road injuries,46690.0
+823,United States,USA,1993,United States of America,USA,,Road injuries,47119.0
+824,United States,USA,1994,United States of America,USA,,Road injuries,47262.0
+825,United States,USA,1995,United States of America,USA,,Road injuries,47551.0
+826,United States,USA,1996,United States of America,USA,,Road injuries,47416.0
+827,United States,USA,1997,United States of America,USA,,Road injuries,47374.0
+828,United States,USA,1998,United States of America,USA,,Road injuries,47341.0
+829,United States,USA,1999,United States of America,USA,,Road injuries,47717.0
+830,United States,USA,2000,United States of America,USA,,Road injuries,48207.0
+831,United States,USA,2001,United States of America,USA,,Road injuries,48737.0
+832,United States,USA,2002,United States of America,USA,,Road injuries,49318.0
+833,United States,USA,2003,United States of America,USA,,Road injuries,49243.0
+834,United States,USA,2004,United States of America,USA,,Road injuries,48526.0
+835,United States,USA,2005,United States of America,USA,,Road injuries,48654.0
+836,United States,USA,2006,United States of America,USA,,Road injuries,48092.0
+837,United States,USA,2017,United States of America,USA,,Road injuries,42206.0
+838,United States,USA,2018,United States of America,USA,,Road injuries,41792.0
+839,United States,USA,2019,United States of America,USA,,Road injuries,41362.0
+840,United States,USA,2007,United States of America,USA,,Chronic respiratory diseases,172341.0
+841,United States,USA,2008,United States of America,USA,,Chronic respiratory diseases,177366.0
+842,United States,USA,2009,United States of America,USA,,Chronic respiratory diseases,179468.0
+843,United States,USA,2010,United States of America,USA,,Chronic respiratory diseases,182265.0
+844,United States,USA,2011,United States of America,USA,,Chronic respiratory diseases,187463.0
+845,United States,USA,2012,United States of America,USA,,Chronic respiratory diseases,191590.0
+846,United States,USA,2013,United States of America,USA,,Chronic respiratory diseases,196459.0
+847,United States,USA,2014,United States of America,USA,,Chronic respiratory diseases,200484.0
+848,United States,USA,2015,United States of America,USA,,Chronic respiratory diseases,205998.0
+849,United States,USA,2016,United States of America,USA,,Chronic respiratory diseases,209980.0
+850,United States,USA,1990,United States of America,USA,,Chronic respiratory diseases,106098.0
+851,United States,USA,1991,United States of America,USA,,Chronic respiratory diseases,109587.0
+852,United States,USA,1992,United States of America,USA,,Chronic respiratory diseases,113036.0
+853,United States,USA,1993,United States of America,USA,,Chronic respiratory diseases,119371.0
+854,United States,USA,1994,United States of America,USA,,Chronic respiratory diseases,123547.0
+855,United States,USA,1995,United States of America,USA,,Chronic respiratory diseases,128157.0
+856,United States,USA,1996,United States of America,USA,,Chronic respiratory diseases,131733.0
+857,United States,USA,1997,United States of America,USA,,Chronic respiratory diseases,135669.0
+858,United States,USA,1998,United States of America,USA,,Chronic respiratory diseases,141289.0
+859,United States,USA,1999,United States of America,USA,,Chronic respiratory diseases,148677.0
+860,United States,USA,2000,United States of America,USA,,Chronic respiratory diseases,153230.0
+861,United States,USA,2001,United States of America,USA,,Chronic respiratory diseases,156917.0
+862,United States,USA,2002,United States of America,USA,,Chronic respiratory diseases,160322.0
+863,United States,USA,2003,United States of America,USA,,Chronic respiratory diseases,162757.0
+864,United States,USA,2004,United States of America,USA,,Chronic respiratory diseases,163040.0
+865,United States,USA,2005,United States of America,USA,,Chronic respiratory diseases,167679.0
+866,United States,USA,2006,United States of America,USA,,Chronic respiratory diseases,169726.0
+867,United States,USA,2017,United States of America,USA,,Chronic respiratory diseases,211269.0
+868,United States,USA,2018,United States of America,USA,,Chronic respiratory diseases,218546.0
+869,United States,USA,2019,United States of America,USA,,Chronic respiratory diseases,224988.0
+870,United States,USA,2007,United States of America,USA,,Cirrhosis and other chronic liver diseases,51575.0
+871,United States,USA,2008,United States of America,USA,,Cirrhosis and other chronic liver diseases,53086.0
+872,United States,USA,2009,United States of America,USA,,Cirrhosis and other chronic liver diseases,54496.0
+873,United States,USA,2010,United States of America,USA,,Cirrhosis and other chronic liver diseases,55472.0
+874,United States,USA,2011,United States of America,USA,,Cirrhosis and other chronic liver diseases,57598.0
+875,United States,USA,2012,United States of America,USA,,Cirrhosis and other chronic liver diseases,59351.0
+876,United States,USA,2013,United States of America,USA,,Cirrhosis and other chronic liver diseases,61199.0
+877,United States,USA,2014,United States of America,USA,,Cirrhosis and other chronic liver diseases,63045.0
+878,United States,USA,2015,United States of America,USA,,Cirrhosis and other chronic liver diseases,64842.0
+879,United States,USA,2016,United States of America,USA,,Cirrhosis and other chronic liver diseases,66395.0
+880,United States,USA,1990,United States of America,USA,,Cirrhosis and other chronic liver diseases,37386.0
+881,United States,USA,1991,United States of America,USA,,Cirrhosis and other chronic liver diseases,37417.0
+882,United States,USA,1992,United States of America,USA,,Cirrhosis and other chronic liver diseases,37599.0
+883,United States,USA,1993,United States of America,USA,,Cirrhosis and other chronic liver diseases,38715.0
+884,United States,USA,1994,United States of America,USA,,Cirrhosis and other chronic liver diseases,39290.0
+885,United States,USA,1995,United States of America,USA,,Cirrhosis and other chronic liver diseases,40019.0
+886,United States,USA,1996,United States of America,USA,,Cirrhosis and other chronic liver diseases,40254.0
+887,United States,USA,1997,United States of America,USA,,Cirrhosis and other chronic liver diseases,40662.0
+888,United States,USA,1998,United States of America,USA,,Cirrhosis and other chronic liver diseases,41422.0
+889,United States,USA,1999,United States of America,USA,,Cirrhosis and other chronic liver diseases,42462.0
+890,United States,USA,2000,United States of America,USA,,Cirrhosis and other chronic liver diseases,43766.0
+891,United States,USA,2001,United States of America,USA,,Cirrhosis and other chronic liver diseases,45248.0
+892,United States,USA,2002,United States of America,USA,,Cirrhosis and other chronic liver diseases,46713.0
+893,United States,USA,2003,United States of America,USA,,Cirrhosis and other chronic liver diseases,47856.0
+894,United States,USA,2004,United States of America,USA,,Cirrhosis and other chronic liver diseases,48073.0
+895,United States,USA,2005,United States of America,USA,,Cirrhosis and other chronic liver diseases,49642.0
+896,United States,USA,2006,United States of America,USA,,Cirrhosis and other chronic liver diseases,50663.0
+897,United States,USA,2017,United States of America,USA,,Cirrhosis and other chronic liver diseases,65977.0
+898,United States,USA,2018,United States of America,USA,,Cirrhosis and other chronic liver diseases,66816.0
+899,United States,USA,2019,United States of America,USA,,Cirrhosis and other chronic liver diseases,67286.0
+900,United States,USA,2007,United States of America,USA,,Digestive diseases,103120.0
+901,United States,USA,2008,United States of America,USA,,Digestive diseases,105255.0
+902,United States,USA,2009,United States of America,USA,,Digestive diseases,106814.0
+903,United States,USA,2010,United States of America,USA,,Digestive diseases,108110.0
+904,United States,USA,2011,United States of America,USA,,Digestive diseases,111120.0
+905,United States,USA,2012,United States of America,USA,,Digestive diseases,113403.0
+906,United States,USA,2013,United States of America,USA,,Digestive diseases,116058.0
+907,United States,USA,2014,United States of America,USA,,Digestive diseases,118754.0
+908,United States,USA,2015,United States of America,USA,,Digestive diseases,121845.0
+909,United States,USA,2016,United States of America,USA,,Digestive diseases,124438.0
+910,United States,USA,1990,United States of America,USA,,Digestive diseases,78301.0
+911,United States,USA,1991,United States of America,USA,,Digestive diseases,78694.0
+912,United States,USA,1992,United States of America,USA,,Digestive diseases,79310.0
+913,United States,USA,1993,United States of America,USA,,Digestive diseases,81626.0
+914,United States,USA,1994,United States of America,USA,,Digestive diseases,82913.0
+915,United States,USA,1995,United States of America,USA,,Digestive diseases,84395.0
+916,United States,USA,1996,United States of America,USA,,Digestive diseases,85128.0
+917,United States,USA,1997,United States of America,USA,,Digestive diseases,86166.0
+918,United States,USA,1998,United States of America,USA,,Digestive diseases,87807.0
+919,United States,USA,1999,United States of America,USA,,Digestive diseases,90133.0
+920,United States,USA,2000,United States of America,USA,,Digestive diseases,92314.0
+921,United States,USA,2001,United States of America,USA,,Digestive diseases,94619.0
+922,United States,USA,2002,United States of America,USA,,Digestive diseases,96726.0
+923,United States,USA,2003,United States of America,USA,,Digestive diseases,98219.0
+924,United States,USA,2004,United States of America,USA,,Digestive diseases,98223.0
+925,United States,USA,2005,United States of America,USA,,Digestive diseases,100617.0
+926,United States,USA,2006,United States of America,USA,,Digestive diseases,101979.0
+927,United States,USA,2017,United States of America,USA,,Digestive diseases,124473.0
+928,United States,USA,2018,United States of America,USA,,Digestive diseases,127040.0
+929,United States,USA,2019,United States of America,USA,,Digestive diseases,129343.0
+930,United States,USA,2007,United States of America,USA,,"Fire, heat, and hot substances",4301.0
+931,United States,USA,2008,United States of America,USA,,"Fire, heat, and hot substances",3927.0
+932,United States,USA,2009,United States of America,USA,,"Fire, heat, and hot substances",3753.0
+933,United States,USA,2010,United States of America,USA,,"Fire, heat, and hot substances",3504.0
+934,United States,USA,2011,United States of America,USA,,"Fire, heat, and hot substances",3714.0
+935,United States,USA,2012,United States of America,USA,,"Fire, heat, and hot substances",3416.0
+936,United States,USA,2013,United States of America,USA,,"Fire, heat, and hot substances",3831.0
+937,United States,USA,2014,United States of America,USA,,"Fire, heat, and hot substances",3798.0
+938,United States,USA,2015,United States of America,USA,,"Fire, heat, and hot substances",3822.0
+939,United States,USA,2016,United States of America,USA,,"Fire, heat, and hot substances",3899.0
+940,United States,USA,1990,United States of America,USA,,"Fire, heat, and hot substances",5336.0
+941,United States,USA,1991,United States of America,USA,,"Fire, heat, and hot substances",5204.0
+942,United States,USA,1992,United States of America,USA,,"Fire, heat, and hot substances",4878.0
+943,United States,USA,1993,United States of America,USA,,"Fire, heat, and hot substances",5100.0
+944,United States,USA,1994,United States of America,USA,,"Fire, heat, and hot substances",4794.0
+945,United States,USA,1995,United States of America,USA,,"Fire, heat, and hot substances",4688.0
+946,United States,USA,1996,United States of America,USA,,"Fire, heat, and hot substances",4961.0
+947,United States,USA,1997,United States of America,USA,,"Fire, heat, and hot substances",4472.0
+948,United States,USA,1998,United States of America,USA,,"Fire, heat, and hot substances",4380.0
+949,United States,USA,1999,United States of America,USA,,"Fire, heat, and hot substances",4342.0
+950,United States,USA,2000,United States of America,USA,,"Fire, heat, and hot substances",4296.0
+951,United States,USA,2001,United States of America,USA,,"Fire, heat, and hot substances",4470.0
+952,United States,USA,2002,United States of America,USA,,"Fire, heat, and hot substances",4190.0
+953,United States,USA,2003,United States of America,USA,,"Fire, heat, and hot substances",4470.0
+954,United States,USA,2004,United States of America,USA,,"Fire, heat, and hot substances",4021.0
+955,United States,USA,2005,United States of America,USA,,"Fire, heat, and hot substances",4040.0
+956,United States,USA,2006,United States of America,USA,,"Fire, heat, and hot substances",4229.0
+957,United States,USA,2017,United States of America,USA,,"Fire, heat, and hot substances",3577.0
+958,United States,USA,2018,United States of America,USA,,"Fire, heat, and hot substances",3683.0
+959,United States,USA,2019,United States of America,USA,,"Fire, heat, and hot substances",3616.0
+960,United States,USA,2007,United States of America,USA,,Acute hepatitis,152.0
+961,United States,USA,2008,United States of America,USA,,Acute hepatitis,144.0
+962,United States,USA,2009,United States of America,USA,,Acute hepatitis,137.0
+963,United States,USA,2010,United States of America,USA,,Acute hepatitis,129.0
+964,United States,USA,2011,United States of America,USA,,Acute hepatitis,124.0
+965,United States,USA,2012,United States of America,USA,,Acute hepatitis,121.0
+966,United States,USA,2013,United States of America,USA,,Acute hepatitis,120.0
+967,United States,USA,2014,United States of America,USA,,Acute hepatitis,120.0
+968,United States,USA,2015,United States of America,USA,,Acute hepatitis,120.0
+969,United States,USA,2016,United States of America,USA,,Acute hepatitis,120.0
+970,United States,USA,1990,United States of America,USA,,Acute hepatitis,202.0
+971,United States,USA,1991,United States of America,USA,,Acute hepatitis,210.0
+972,United States,USA,1992,United States of America,USA,,Acute hepatitis,221.0
+973,United States,USA,1993,United States of America,USA,,Acute hepatitis,232.0
+974,United States,USA,1994,United States of America,USA,,Acute hepatitis,243.0
+975,United States,USA,1995,United States of America,USA,,Acute hepatitis,257.0
+976,United States,USA,1996,United States of America,USA,,Acute hepatitis,264.0
+977,United States,USA,1997,United States of America,USA,,Acute hepatitis,275.0
+978,United States,USA,1998,United States of America,USA,,Acute hepatitis,289.0
+979,United States,USA,1999,United States of America,USA,,Acute hepatitis,323.0
+980,United States,USA,2000,United States of America,USA,,Acute hepatitis,301.0
+981,United States,USA,2001,United States of America,USA,,Acute hepatitis,282.0
+982,United States,USA,2002,United States of America,USA,,Acute hepatitis,264.0
+983,United States,USA,2003,United States of America,USA,,Acute hepatitis,242.0
+984,United States,USA,2004,United States of America,USA,,Acute hepatitis,218.0
+985,United States,USA,2005,United States of America,USA,,Acute hepatitis,189.0
+986,United States,USA,2006,United States of America,USA,,Acute hepatitis,168.0
+987,United States,USA,2017,United States of America,USA,,Acute hepatitis,124.0
+988,United States,USA,2018,United States of America,USA,,Acute hepatitis,129.0
+989,United States,USA,2019,United States of America,USA,,Acute hepatitis,131.0
